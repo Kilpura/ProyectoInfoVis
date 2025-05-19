@@ -1,0 +1,7520 @@
+[
+    {
+        "Name": "Afghanistan",
+        "CODE": "AFG",
+        "Year": "2019",
+        "Rank": 121,
+        "Score": 63
+    },
+    {
+        "Name": "Afghanistan",
+        "CODE": "AFG",
+        "Year": "2020",
+        "Rank": 122,
+        "Score": 62
+    },
+    {
+        "Name": "Afghanistan",
+        "CODE": "AFG",
+        "Year": "2021",
+        "Rank": 122,
+        "Score": 60
+    },
+    {
+        "Name": "Afghanistan",
+        "CODE": "AFG",
+        "Year": "2022",
+        "Rank": 156,
+        "Score": 38
+    },
+    {
+        "Name": "Afghanistan",
+        "CODE": "AFG",
+        "Year": "2023",
+        "Rank": 152,
+        "Score": 40
+    },
+    {
+        "Name": "Afghanistan",
+        "CODE": "AFG",
+        "Year": "2024",
+        "Rank": 178,
+        "Score": 19
+    },
+    {
+        "Name": "Albania",
+        "CODE": "ALB",
+        "Year": "2019",
+        "Rank": 82,
+        "Score": 70
+    },
+    {
+        "Name": "Albania",
+        "CODE": "ALB",
+        "Year": "2020",
+        "Rank": 84,
+        "Score": 70
+    },
+    {
+        "Name": "Albania",
+        "CODE": "ALB",
+        "Year": "2021",
+        "Rank": 83,
+        "Score": 69
+    },
+    {
+        "Name": "Albania",
+        "CODE": "ALB",
+        "Year": "2022",
+        "Rank": 103,
+        "Score": 56
+    },
+    {
+        "Name": "Albania",
+        "CODE": "ALB",
+        "Year": "2023",
+        "Rank": 96,
+        "Score": 58
+    },
+    {
+        "Name": "Albania",
+        "CODE": "ALB",
+        "Year": "2024",
+        "Rank": 99,
+        "Score": 54
+    },
+    {
+        "Name": "Algeria",
+        "CODE": "DZA",
+        "Year": "2019",
+        "Rank": 141,
+        "Score": 54
+    },
+    {
+        "Name": "Algeria",
+        "CODE": "DZA",
+        "Year": "2020",
+        "Rank": 146,
+        "Score": 54
+    },
+    {
+        "Name": "Algeria",
+        "CODE": "DZA",
+        "Year": "2021",
+        "Rank": 146,
+        "Score": 53
+    },
+    {
+        "Name": "Algeria",
+        "CODE": "DZA",
+        "Year": "2022",
+        "Rank": 134,
+        "Score": 46
+    },
+    {
+        "Name": "Algeria",
+        "CODE": "DZA",
+        "Year": "2023",
+        "Rank": 136,
+        "Score": 46
+    },
+    {
+        "Name": "Algeria",
+        "CODE": "DZA",
+        "Year": "2024",
+        "Rank": 139,
+        "Score": 42
+    },
+    {
+        "Name": "Andorra",
+        "CODE": "AND",
+        "Year": "2019",
+        "Rank": 37,
+        "Score": 75
+    },
+    {
+        "Name": "Andorra",
+        "CODE": "AND",
+        "Year": "2020",
+        "Rank": 37,
+        "Score": 77
+    },
+    {
+        "Name": "Andorra",
+        "CODE": "AND",
+        "Year": "2021",
+        "Rank": 39,
+        "Score": 77
+    },
+    {
+        "Name": "Andorra",
+        "CODE": "AND",
+        "Year": "2022",
+        "Rank": 53,
+        "Score": 69
+    },
+    {
+        "Name": "Andorra",
+        "CODE": "AND",
+        "Year": "2023",
+        "Rank": 37,
+        "Score": 75
+    },
+    {
+        "Name": "Andorra",
+        "CODE": "AND",
+        "Year": "2024",
+        "Rank": 72,
+        "Score": 61
+    },
+    {
+        "Name": "Angola",
+        "CODE": "AGO",
+        "Year": "2019",
+        "Rank": 109,
+        "Score": 65
+    },
+    {
+        "Name": "Angola",
+        "CODE": "AGO",
+        "Year": "2020",
+        "Rank": 106,
+        "Score": 66
+    },
+    {
+        "Name": "Angola",
+        "CODE": "AGO",
+        "Year": "2021",
+        "Rank": 103,
+        "Score": 66
+    },
+    {
+        "Name": "Angola",
+        "CODE": "AGO",
+        "Year": "2022",
+        "Rank": 99,
+        "Score": 57
+    },
+    {
+        "Name": "Angola",
+        "CODE": "AGO",
+        "Year": "2023",
+        "Rank": 125,
+        "Score": 48
+    },
+    {
+        "Name": "Angola",
+        "CODE": "AGO",
+        "Year": "2024",
+        "Rank": 104,
+        "Score": 52
+    },
+    {
+        "Name": "Argentina",
+        "CODE": "ARG",
+        "Year": "2019",
+        "Rank": 57,
+        "Score": 72
+    },
+    {
+        "Name": "Argentina",
+        "CODE": "ARG",
+        "Year": "2020",
+        "Rank": 64,
+        "Score": 71
+    },
+    {
+        "Name": "Argentina",
+        "CODE": "ARG",
+        "Year": "2021",
+        "Rank": 69,
+        "Score": 71
+    },
+    {
+        "Name": "Argentina",
+        "CODE": "ARG",
+        "Year": "2022",
+        "Rank": 29,
+        "Score": 77
+    },
+    {
+        "Name": "Argentina",
+        "CODE": "ARG",
+        "Year": "2023",
+        "Rank": 40,
+        "Score": 73
+    },
+    {
+        "Name": "Argentina",
+        "CODE": "ARG",
+        "Year": "2024",
+        "Rank": 66,
+        "Score": 63
+    },
+    {
+        "Name": "Armenia",
+        "CODE": "ARM",
+        "Year": "2019",
+        "Rank": 61,
+        "Score": 71
+    },
+    {
+        "Name": "Armenia",
+        "CODE": "ARM",
+        "Year": "2020",
+        "Rank": 61,
+        "Score": 71
+    },
+    {
+        "Name": "Armenia",
+        "CODE": "ARM",
+        "Year": "2021",
+        "Rank": 63,
+        "Score": 71
+    },
+    {
+        "Name": "Armenia",
+        "CODE": "ARM",
+        "Year": "2022",
+        "Rank": 51,
+        "Score": 69
+    },
+    {
+        "Name": "Armenia",
+        "CODE": "ARM",
+        "Year": "2023",
+        "Rank": 48,
+        "Score": 71
+    },
+    {
+        "Name": "Armenia",
+        "CODE": "ARM",
+        "Year": "2024",
+        "Rank": 43,
+        "Score": 72
+    },
+    {
+        "Name": "Australia",
+        "CODE": "AUS",
+        "Year": "2019",
+        "Rank": 21,
+        "Score": 83
+    },
+    {
+        "Name": "Australia",
+        "CODE": "AUS",
+        "Year": "2020",
+        "Rank": 26,
+        "Score": 80
+    },
+    {
+        "Name": "Australia",
+        "CODE": "AUS",
+        "Year": "2021",
+        "Rank": 25,
+        "Score": 80
+    },
+    {
+        "Name": "Australia",
+        "CODE": "AUS",
+        "Year": "2022",
+        "Rank": 39,
+        "Score": 74
+    },
+    {
+        "Name": "Australia",
+        "CODE": "AUS",
+        "Year": "2023",
+        "Rank": 27,
+        "Score": 78
+    },
+    {
+        "Name": "Australia",
+        "CODE": "AUS",
+        "Year": "2024",
+        "Rank": 39,
+        "Score": 73
+    },
+    {
+        "Name": "Austria",
+        "CODE": "AUT",
+        "Year": "2019",
+        "Rank": 16,
+        "Score": 85
+    },
+    {
+        "Name": "Austria",
+        "CODE": "AUT",
+        "Year": "2020",
+        "Rank": 18,
+        "Score": 84
+    },
+    {
+        "Name": "Austria",
+        "CODE": "AUT",
+        "Year": "2021",
+        "Rank": 17,
+        "Score": 84
+    },
+    {
+        "Name": "Austria",
+        "CODE": "AUT",
+        "Year": "2022",
+        "Rank": 31,
+        "Score": 77
+    },
+    {
+        "Name": "Austria",
+        "CODE": "AUT",
+        "Year": "2023",
+        "Rank": 29,
+        "Score": 77
+    },
+    {
+        "Name": "Austria",
+        "CODE": "AUT",
+        "Year": "2024",
+        "Rank": 32,
+        "Score": 75
+    },
+    {
+        "Name": "Azerbaijan",
+        "CODE": "AZE",
+        "Year": "2019",
+        "Rank": 166,
+        "Score": 41
+    },
+    {
+        "Name": "Azerbaijan",
+        "CODE": "AZE",
+        "Year": "2020",
+        "Rank": 168,
+        "Score": 42
+    },
+    {
+        "Name": "Azerbaijan",
+        "CODE": "AZE",
+        "Year": "2021",
+        "Rank": 167,
+        "Score": 41
+    },
+    {
+        "Name": "Azerbaijan",
+        "CODE": "AZE",
+        "Year": "2022",
+        "Rank": 154,
+        "Score": 39
+    },
+    {
+        "Name": "Azerbaijan",
+        "CODE": "AZE",
+        "Year": "2023",
+        "Rank": 151,
+        "Score": 40
+    },
+    {
+        "Name": "Azerbaijan",
+        "CODE": "AZE",
+        "Year": "2024",
+        "Rank": 164,
+        "Score": 28
+    },
+    {
+        "Name": "Bahrain",
+        "CODE": "BHR",
+        "Year": "2019",
+        "Rank": 167,
+        "Score": 39
+    },
+    {
+        "Name": "Bahrain",
+        "CODE": "BHR",
+        "Year": "2020",
+        "Rank": 169,
+        "Score": 40
+    },
+    {
+        "Name": "Bahrain",
+        "CODE": "BHR",
+        "Year": "2021",
+        "Rank": 168,
+        "Score": 39
+    },
+    {
+        "Name": "Bahrain",
+        "CODE": "BHR",
+        "Year": "2022",
+        "Rank": 167,
+        "Score": 31
+    },
+    {
+        "Name": "Bahrain",
+        "CODE": "BHR",
+        "Year": "2023",
+        "Rank": 171,
+        "Score": 31
+    },
+    {
+        "Name": "Bahrain",
+        "CODE": "BHR",
+        "Year": "2024",
+        "Rank": 173,
+        "Score": 23
+    },
+    {
+        "Name": "Bangladesh",
+        "CODE": "BGD",
+        "Year": "2019",
+        "Rank": 150,
+        "Score": 49
+    },
+    {
+        "Name": "Bangladesh",
+        "CODE": "BGD",
+        "Year": "2020",
+        "Rank": 151,
+        "Score": 51
+    },
+    {
+        "Name": "Bangladesh",
+        "CODE": "BGD",
+        "Year": "2021",
+        "Rank": 152,
+        "Score": 50
+    },
+    {
+        "Name": "Bangladesh",
+        "CODE": "BGD",
+        "Year": "2022",
+        "Rank": 162,
+        "Score": 37
+    },
+    {
+        "Name": "Bangladesh",
+        "CODE": "BGD",
+        "Year": "2023",
+        "Rank": 163,
+        "Score": 35
+    },
+    {
+        "Name": "Bangladesh",
+        "CODE": "BGD",
+        "Year": "2024",
+        "Rank": 165,
+        "Score": 28
+    },
+    {
+        "Name": "Belarus",
+        "CODE": "BLR",
+        "Year": "2019",
+        "Rank": 153,
+        "Score": 48
+    },
+    {
+        "Name": "Belarus",
+        "CODE": "BLR",
+        "Year": "2020",
+        "Rank": 153,
+        "Score": 50
+    },
+    {
+        "Name": "Belarus",
+        "CODE": "BLR",
+        "Year": "2021",
+        "Rank": 158,
+        "Score": 49
+    },
+    {
+        "Name": "Belarus",
+        "CODE": "BLR",
+        "Year": "2022",
+        "Rank": 153,
+        "Score": 40
+    },
+    {
+        "Name": "Belarus",
+        "CODE": "BLR",
+        "Year": "2023",
+        "Rank": 157,
+        "Score": 37
+    },
+    {
+        "Name": "Belarus",
+        "CODE": "BLR",
+        "Year": "2024",
+        "Rank": 167,
+        "Score": 27
+    },
+    {
+        "Name": "Belgium",
+        "CODE": "BEL",
+        "Year": "2019",
+        "Rank": 9,
+        "Score": 88
+    },
+    {
+        "Name": "Belgium",
+        "CODE": "BEL",
+        "Year": "2020",
+        "Rank": 12,
+        "Score": 87
+    },
+    {
+        "Name": "Belgium",
+        "CODE": "BEL",
+        "Year": "2021",
+        "Rank": 11,
+        "Score": 88
+    },
+    {
+        "Name": "Belgium",
+        "CODE": "BEL",
+        "Year": "2022",
+        "Rank": 23,
+        "Score": 79
+    },
+    {
+        "Name": "Belgium",
+        "CODE": "BEL",
+        "Year": "2023",
+        "Rank": 31,
+        "Score": 76
+    },
+    {
+        "Name": "Belgium",
+        "CODE": "BEL",
+        "Year": "2024",
+        "Rank": 16,
+        "Score": 81
+    },
+    {
+        "Name": "Belize",
+        "CODE": "BLZ",
+        "Year": "2019",
+        "Rank": 53,
+        "Score": 72
+    },
+    {
+        "Name": "Belize",
+        "CODE": "BLZ",
+        "Year": "2020",
+        "Rank": 53,
+        "Score": 72
+    },
+    {
+        "Name": "Belize",
+        "CODE": "BLZ",
+        "Year": "2021",
+        "Rank": 53,
+        "Score": 72
+    },
+    {
+        "Name": "Belize",
+        "CODE": "BLZ",
+        "Year": "2022",
+        "Rank": 47,
+        "Score": 71
+    },
+    {
+        "Name": "Belize",
+        "CODE": "BLZ",
+        "Year": "2023",
+        "Rank": 51,
+        "Score": 70
+    },
+    {
+        "Name": "Belize",
+        "CODE": "BLZ",
+        "Year": "2024",
+        "Rank": 54,
+        "Score": 67
+    },
+    {
+        "Name": "Benin",
+        "CODE": "BEN",
+        "Year": "2019",
+        "Rank": 96,
+        "Score": 68
+    },
+    {
+        "Name": "Benin",
+        "CODE": "BEN",
+        "Year": "2020",
+        "Rank": 113,
+        "Score": 65
+    },
+    {
+        "Name": "Benin",
+        "CODE": "BEN",
+        "Year": "2021",
+        "Rank": 114,
+        "Score": 62
+    },
+    {
+        "Name": "Benin",
+        "CODE": "BEN",
+        "Year": "2022",
+        "Rank": 121,
+        "Score": 48
+    },
+    {
+        "Name": "Benin",
+        "CODE": "BEN",
+        "Year": "2023",
+        "Rank": 112,
+        "Score": 52
+    },
+    {
+        "Name": "Benin",
+        "CODE": "BEN",
+        "Year": "2024",
+        "Rank": 89,
+        "Score": 57
+    },
+    {
+        "Name": "Bhutan",
+        "CODE": "BTN",
+        "Year": "2019",
+        "Rank": 80,
+        "Score": 70
+    },
+    {
+        "Name": "Bhutan",
+        "CODE": "BTN",
+        "Year": "2020",
+        "Rank": 67,
+        "Score": 71
+    },
+    {
+        "Name": "Bhutan",
+        "CODE": "BTN",
+        "Year": "2021",
+        "Rank": 65,
+        "Score": 71
+    },
+    {
+        "Name": "Bhutan",
+        "CODE": "BTN",
+        "Year": "2022",
+        "Rank": 33,
+        "Score": 76
+    },
+    {
+        "Name": "Bhutan",
+        "CODE": "BTN",
+        "Year": "2023",
+        "Rank": 90,
+        "Score": 59
+    },
+    {
+        "Name": "Bhutan",
+        "CODE": "BTN",
+        "Year": "2024",
+        "Rank": 147,
+        "Score": 37
+    },
+    {
+        "Name": "Bolivia (plurinational state of)",
+        "CODE": "BOL",
+        "Year": "2019",
+        "Rank": 113,
+        "Score": 65
+    },
+    {
+        "Name": "Bolivia (plurinational state of)",
+        "CODE": "BOL",
+        "Year": "2020",
+        "Rank": 114,
+        "Score": 65
+    },
+    {
+        "Name": "Bolivia (plurinational state of)",
+        "CODE": "BOL",
+        "Year": "2021",
+        "Rank": 110,
+        "Score": 65
+    },
+    {
+        "Name": "Bolivia (plurinational state of)",
+        "CODE": "BOL",
+        "Year": "2022",
+        "Rank": 126,
+        "Score": 48
+    },
+    {
+        "Name": "Bolivia (plurinational state of)",
+        "CODE": "BOL",
+        "Year": "2023",
+        "Rank": 117,
+        "Score": 51
+    },
+    {
+        "Name": "Bolivia (plurinational state of)",
+        "CODE": "BOL",
+        "Year": "2024",
+        "Rank": 124,
+        "Score": 49
+    },
+    {
+        "Name": "Bosnia and herzegovina",
+        "CODE": "BIH",
+        "Year": "2019",
+        "Rank": 63,
+        "Score": 71
+    },
+    {
+        "Name": "Bosnia and herzegovina",
+        "CODE": "BIH",
+        "Year": "2020",
+        "Rank": 58,
+        "Score": 71
+    },
+    {
+        "Name": "Bosnia and herzegovina",
+        "CODE": "BIH",
+        "Year": "2021",
+        "Rank": 58,
+        "Score": 72
+    },
+    {
+        "Name": "Bosnia and herzegovina",
+        "CODE": "BIH",
+        "Year": "2022",
+        "Rank": 67,
+        "Score": 66
+    },
+    {
+        "Name": "Bosnia and herzegovina",
+        "CODE": "BIH",
+        "Year": "2023",
+        "Rank": 64,
+        "Score": 65
+    },
+    {
+        "Name": "Bosnia and herzegovina",
+        "CODE": "BIH",
+        "Year": "2024",
+        "Rank": 81,
+        "Score": 59
+    },
+    {
+        "Name": "Botswana",
+        "CODE": "BWA",
+        "Year": "2019",
+        "Rank": 44,
+        "Score": 75
+    },
+    {
+        "Name": "Botswana",
+        "CODE": "BWA",
+        "Year": "2020",
+        "Rank": 39,
+        "Score": 76
+    },
+    {
+        "Name": "Botswana",
+        "CODE": "BWA",
+        "Year": "2021",
+        "Rank": 38,
+        "Score": 77
+    },
+    {
+        "Name": "Botswana",
+        "CODE": "BWA",
+        "Year": "2022",
+        "Rank": 95,
+        "Score": 58
+    },
+    {
+        "Name": "Botswana",
+        "CODE": "BWA",
+        "Year": "2023",
+        "Rank": 65,
+        "Score": 65
+    },
+    {
+        "Name": "Botswana",
+        "CODE": "BWA",
+        "Year": "2024",
+        "Rank": 79,
+        "Score": 60
+    },
+    {
+        "Name": "Brazil",
+        "CODE": "BRA",
+        "Year": "2019",
+        "Rank": 105,
+        "Score": 67
+    },
+    {
+        "Name": "Brazil",
+        "CODE": "BRA",
+        "Year": "2020",
+        "Rank": 107,
+        "Score": 66
+    },
+    {
+        "Name": "Brazil",
+        "CODE": "BRA",
+        "Year": "2021",
+        "Rank": 111,
+        "Score": 64
+    },
+    {
+        "Name": "Brazil",
+        "CODE": "BRA",
+        "Year": "2022",
+        "Rank": 110,
+        "Score": 55
+    },
+    {
+        "Name": "Brazil",
+        "CODE": "BRA",
+        "Year": "2023",
+        "Rank": 92,
+        "Score": 59
+    },
+    {
+        "Name": "Brazil",
+        "CODE": "BRA",
+        "Year": "2024",
+        "Rank": 82,
+        "Score": 59
+    },
+    {
+        "Name": "Brunei darussalam",
+        "CODE": "BRN",
+        "Year": "2019",
+        "Rank": 152,
+        "Score": 49
+    },
+    {
+        "Name": "Brunei darussalam",
+        "CODE": "BRN",
+        "Year": "2020",
+        "Rank": 152,
+        "Score": 50
+    },
+    {
+        "Name": "Brunei darussalam",
+        "CODE": "BRN",
+        "Year": "2021",
+        "Rank": 154,
+        "Score": 50
+    },
+    {
+        "Name": "Brunei darussalam",
+        "CODE": "BRN",
+        "Year": "2022",
+        "Rank": 144,
+        "Score": 43
+    },
+    {
+        "Name": "Brunei darussalam",
+        "CODE": "BRN",
+        "Year": "2023",
+        "Rank": 142,
+        "Score": 44
+    },
+    {
+        "Name": "Brunei darussalam",
+        "CODE": "BRN",
+        "Year": "2024",
+        "Rank": 117,
+        "Score": 50
+    },
+    {
+        "Name": "Bulgaria",
+        "CODE": "BGR",
+        "Year": "2019",
+        "Rank": 111,
+        "Score": 65
+    },
+    {
+        "Name": "Bulgaria",
+        "CODE": "BGR",
+        "Year": "2020",
+        "Rank": 111,
+        "Score": 65
+    },
+    {
+        "Name": "Bulgaria",
+        "CODE": "BGR",
+        "Year": "2021",
+        "Rank": 112,
+        "Score": 63
+    },
+    {
+        "Name": "Bulgaria",
+        "CODE": "BGR",
+        "Year": "2022",
+        "Rank": 91,
+        "Score": 59
+    },
+    {
+        "Name": "Bulgaria",
+        "CODE": "BGR",
+        "Year": "2023",
+        "Rank": 71,
+        "Score": 63
+    },
+    {
+        "Name": "Bulgaria",
+        "CODE": "BGR",
+        "Year": "2024",
+        "Rank": 59,
+        "Score": 65
+    },
+    {
+        "Name": "Burkina faso",
+        "CODE": "BFA",
+        "Year": "2019",
+        "Rank": 36,
+        "Score": 75
+    },
+    {
+        "Name": "Burkina faso",
+        "CODE": "BFA",
+        "Year": "2020",
+        "Rank": 38,
+        "Score": 77
+    },
+    {
+        "Name": "Burkina faso",
+        "CODE": "BFA",
+        "Year": "2021",
+        "Rank": 37,
+        "Score": 77
+    },
+    {
+        "Name": "Burkina faso",
+        "CODE": "BFA",
+        "Year": "2022",
+        "Rank": 41,
+        "Score": 73
+    },
+    {
+        "Name": "Burkina faso",
+        "CODE": "BFA",
+        "Year": "2023",
+        "Rank": 58,
+        "Score": 68
+    },
+    {
+        "Name": "Burkina faso",
+        "CODE": "BFA",
+        "Year": "2024",
+        "Rank": 86,
+        "Score": 58
+    },
+    {
+        "Name": "Burundi",
+        "CODE": "BDI",
+        "Year": "2019",
+        "Rank": 159,
+        "Score": 47
+    },
+    {
+        "Name": "Burundi",
+        "CODE": "BDI",
+        "Year": "2020",
+        "Rank": 160,
+        "Score": 45
+    },
+    {
+        "Name": "Burundi",
+        "CODE": "BDI",
+        "Year": "2021",
+        "Rank": 147,
+        "Score": 52
+    },
+    {
+        "Name": "Burundi",
+        "CODE": "BDI",
+        "Year": "2022",
+        "Rank": 107,
+        "Score": 56
+    },
+    {
+        "Name": "Burundi",
+        "CODE": "BDI",
+        "Year": "2023",
+        "Rank": 114,
+        "Score": 52
+    },
+    {
+        "Name": "Burundi",
+        "CODE": "BDI",
+        "Year": "2024",
+        "Rank": 108,
+        "Score": 52
+    },
+    {
+        "Name": "Cambodia",
+        "CODE": "KHM",
+        "Year": "2019",
+        "Rank": 143,
+        "Score": 54
+    },
+    {
+        "Name": "Cambodia",
+        "CODE": "KHM",
+        "Year": "2020",
+        "Rank": 144,
+        "Score": 55
+    },
+    {
+        "Name": "Cambodia",
+        "CODE": "KHM",
+        "Year": "2021",
+        "Rank": 144,
+        "Score": 53
+    },
+    {
+        "Name": "Cambodia",
+        "CODE": "KHM",
+        "Year": "2022",
+        "Rank": 142,
+        "Score": 43
+    },
+    {
+        "Name": "Cambodia",
+        "CODE": "KHM",
+        "Year": "2023",
+        "Rank": 147,
+        "Score": 42
+    },
+    {
+        "Name": "Cambodia",
+        "CODE": "KHM",
+        "Year": "2024",
+        "Rank": 151,
+        "Score": 34
+    },
+    {
+        "Name": "Cameroon",
+        "CODE": "CMR",
+        "Year": "2019",
+        "Rank": 131,
+        "Score": 57
+    },
+    {
+        "Name": "Cameroon",
+        "CODE": "CMR",
+        "Year": "2020",
+        "Rank": 134,
+        "Score": 57
+    },
+    {
+        "Name": "Cameroon",
+        "CODE": "CMR",
+        "Year": "2021",
+        "Rank": 135,
+        "Score": 56
+    },
+    {
+        "Name": "Cameroon",
+        "CODE": "CMR",
+        "Year": "2022",
+        "Rank": 118,
+        "Score": 49
+    },
+    {
+        "Name": "Cameroon",
+        "CODE": "CMR",
+        "Year": "2023",
+        "Rank": 138,
+        "Score": 46
+    },
+    {
+        "Name": "Cameroon",
+        "CODE": "CMR",
+        "Year": "2024",
+        "Rank": 130,
+        "Score": 45
+    },
+    {
+        "Name": "Canada",
+        "CODE": "CAN",
+        "Year": "2019",
+        "Rank": 18,
+        "Score": 84
+    },
+    {
+        "Name": "Canada",
+        "CODE": "CAN",
+        "Year": "2020",
+        "Rank": 16,
+        "Score": 85
+    },
+    {
+        "Name": "Canada",
+        "CODE": "CAN",
+        "Year": "2021",
+        "Rank": 13,
+        "Score": 85
+    },
+    {
+        "Name": "Canada",
+        "CODE": "CAN",
+        "Year": "2022",
+        "Rank": 19,
+        "Score": 82
+    },
+    {
+        "Name": "Canada",
+        "CODE": "CAN",
+        "Year": "2023",
+        "Rank": 15,
+        "Score": 84
+    },
+    {
+        "Name": "Canada",
+        "CODE": "CAN",
+        "Year": "2024",
+        "Rank": 14,
+        "Score": 82
+    },
+    {
+        "Name": "Cape Verde",
+        "CODE": "CPV",
+        "Year": "2019",
+        "Rank": 25,
+        "Score": 80
+    },
+    {
+        "Name": "Cape Verde",
+        "CODE": "CPV",
+        "Year": "2020",
+        "Rank": 25,
+        "Score": 80
+    },
+    {
+        "Name": "Cape Verde",
+        "CODE": "CPV",
+        "Year": "2021",
+        "Rank": 27,
+        "Score": 80
+    },
+    {
+        "Name": "Cape Verde",
+        "CODE": "CPV",
+        "Year": "2022",
+        "Rank": 36,
+        "Score": 75
+    },
+    {
+        "Name": "Cape Verde",
+        "CODE": "CPV",
+        "Year": "2023",
+        "Rank": 33,
+        "Score": 76
+    },
+    {
+        "Name": "Cape Verde",
+        "CODE": "CPV",
+        "Year": "2024",
+        "Rank": 41,
+        "Score": 73
+    },
+    {
+        "Name": "Central african republic",
+        "CODE": "CAF",
+        "Year": "2019",
+        "Rank": 145,
+        "Score": 53
+    },
+    {
+        "Name": "Central african republic",
+        "CODE": "CAF",
+        "Year": "2020",
+        "Rank": 132,
+        "Score": 57
+    },
+    {
+        "Name": "Central african republic",
+        "CODE": "CAF",
+        "Year": "2021",
+        "Rank": 126,
+        "Score": 58
+    },
+    {
+        "Name": "Central african republic",
+        "CODE": "CAF",
+        "Year": "2022",
+        "Rank": 101,
+        "Score": 57
+    },
+    {
+        "Name": "Central african republic",
+        "CODE": "CAF",
+        "Year": "2023",
+        "Rank": 98,
+        "Score": 58
+    },
+    {
+        "Name": "Central african republic",
+        "CODE": "CAF",
+        "Year": "2024",
+        "Rank": 76,
+        "Score": 60
+    },
+    {
+        "Name": "Chad",
+        "CODE": "TCD",
+        "Year": "2019",
+        "Rank": 122,
+        "Score": 63
+    },
+    {
+        "Name": "Chad",
+        "CODE": "TCD",
+        "Year": "2020",
+        "Rank": 123,
+        "Score": 60
+    },
+    {
+        "Name": "Chad",
+        "CODE": "TCD",
+        "Year": "2021",
+        "Rank": 123,
+        "Score": 60
+    },
+    {
+        "Name": "Chad",
+        "CODE": "TCD",
+        "Year": "2022",
+        "Rank": 104,
+        "Score": 56
+    },
+    {
+        "Name": "Chad",
+        "CODE": "TCD",
+        "Year": "2023",
+        "Rank": 109,
+        "Score": 54
+    },
+    {
+        "Name": "Chad",
+        "CODE": "TCD",
+        "Year": "2024",
+        "Rank": 96,
+        "Score": 55
+    },
+    {
+        "Name": "Chile",
+        "CODE": "CHL",
+        "Year": "2019",
+        "Rank": 46,
+        "Score": 74
+    },
+    {
+        "Name": "Chile",
+        "CODE": "CHL",
+        "Year": "2020",
+        "Rank": 51,
+        "Score": 73
+    },
+    {
+        "Name": "Chile",
+        "CODE": "CHL",
+        "Year": "2021",
+        "Rank": 54,
+        "Score": 72
+    },
+    {
+        "Name": "Chile",
+        "CODE": "CHL",
+        "Year": "2022",
+        "Rank": 82,
+        "Score": 61
+    },
+    {
+        "Name": "Chile",
+        "CODE": "CHL",
+        "Year": "2023",
+        "Rank": 83,
+        "Score": 60
+    },
+    {
+        "Name": "Chile",
+        "CODE": "CHL",
+        "Year": "2024",
+        "Rank": 52,
+        "Score": 67
+    },
+    {
+        "Name": "China",
+        "CODE": "CHN",
+        "Year": "2019",
+        "Rank": 177,
+        "Score": 21
+    },
+    {
+        "Name": "China",
+        "CODE": "CHN",
+        "Year": "2020",
+        "Rank": 177,
+        "Score": 22
+    },
+    {
+        "Name": "China",
+        "CODE": "CHN",
+        "Year": "2021",
+        "Rank": 177,
+        "Score": 21
+    },
+    {
+        "Name": "China",
+        "CODE": "CHN",
+        "Year": "2022",
+        "Rank": 175,
+        "Score": 25
+    },
+    {
+        "Name": "China",
+        "CODE": "CHN",
+        "Year": "2023",
+        "Rank": 179,
+        "Score": 23
+    },
+    {
+        "Name": "China",
+        "CODE": "CHN",
+        "Year": "2024",
+        "Rank": 172,
+        "Score": 23
+    },
+    {
+        "Name": "Colombia",
+        "CODE": "COL",
+        "Year": "2019",
+        "Rank": 129,
+        "Score": 57
+    },
+    {
+        "Name": "Colombia",
+        "CODE": "COL",
+        "Year": "2020",
+        "Rank": 130,
+        "Score": 57
+    },
+    {
+        "Name": "Colombia",
+        "CODE": "COL",
+        "Year": "2021",
+        "Rank": 134,
+        "Score": 56
+    },
+    {
+        "Name": "Colombia",
+        "CODE": "COL",
+        "Year": "2022",
+        "Rank": 145,
+        "Score": 42
+    },
+    {
+        "Name": "Colombia",
+        "CODE": "COL",
+        "Year": "2023",
+        "Rank": 139,
+        "Score": 45
+    },
+    {
+        "Name": "Colombia",
+        "CODE": "COL",
+        "Year": "2024",
+        "Rank": 119,
+        "Score": 50
+    },
+    {
+        "Name": "Comoros",
+        "CODE": "COM",
+        "Year": "2019",
+        "Rank": 56,
+        "Score": 72
+    },
+    {
+        "Name": "Comoros",
+        "CODE": "COM",
+        "Year": "2020",
+        "Rank": 75,
+        "Score": 70
+    },
+    {
+        "Name": "Comoros",
+        "CODE": "COM",
+        "Year": "2021",
+        "Rank": 84,
+        "Score": 69
+    },
+    {
+        "Name": "Comoros",
+        "CODE": "COM",
+        "Year": "2022",
+        "Rank": 83,
+        "Score": 60
+    },
+    {
+        "Name": "Comoros",
+        "CODE": "COM",
+        "Year": "2023",
+        "Rank": 75,
+        "Score": 62
+    },
+    {
+        "Name": "Comoros",
+        "CODE": "COM",
+        "Year": "2024",
+        "Rank": 71,
+        "Score": 61
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2019",
+        "Rank": 117,
+        "Score": 64
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2020",
+        "Rank": 118,
+        "Score": 63
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2021",
+        "Rank": 118,
+        "Score": 61
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2022",
+        "Rank": 93,
+        "Score": 59
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2023",
+        "Rank": 81,
+        "Score": 60
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2024",
+        "Rank": 69,
+        "Score": 63
+    },
+    {
+        "Name": "Costa rica",
+        "CODE": "CRI",
+        "Year": "2019",
+        "Rank": 10,
+        "Score": 88
+    },
+    {
+        "Name": "Costa rica",
+        "CODE": "CRI",
+        "Year": "2020",
+        "Rank": 7,
+        "Score": 89
+    },
+    {
+        "Name": "Costa rica",
+        "CODE": "CRI",
+        "Year": "2021",
+        "Rank": 5,
+        "Score": 91
+    },
+    {
+        "Name": "Costa rica",
+        "CODE": "CRI",
+        "Year": "2022",
+        "Rank": 8,
+        "Score": 86
+    },
+    {
+        "Name": "Costa rica",
+        "CODE": "CRI",
+        "Year": "2023",
+        "Rank": 23,
+        "Score": 80
+    },
+    {
+        "Name": "Costa rica",
+        "CODE": "CRI",
+        "Year": "2024",
+        "Rank": 26,
+        "Score": 76
+    },
+    {
+        "Name": "Croatia",
+        "CODE": "HRV",
+        "Year": "2019",
+        "Rank": 64,
+        "Score": 71
+    },
+    {
+        "Name": "Croatia",
+        "CODE": "HRV",
+        "Year": "2020",
+        "Rank": 59,
+        "Score": 71
+    },
+    {
+        "Name": "Croatia",
+        "CODE": "HRV",
+        "Year": "2021",
+        "Rank": 56,
+        "Score": 72
+    },
+    {
+        "Name": "Croatia",
+        "CODE": "HRV",
+        "Year": "2022",
+        "Rank": 48,
+        "Score": 70
+    },
+    {
+        "Name": "Croatia",
+        "CODE": "HRV",
+        "Year": "2023",
+        "Rank": 42,
+        "Score": 72
+    },
+    {
+        "Name": "Croatia",
+        "CODE": "HRV",
+        "Year": "2024",
+        "Rank": 48,
+        "Score": 69
+    },
+    {
+        "Name": "Cuba",
+        "CODE": "CUB",
+        "Year": "2019",
+        "Rank": 169,
+        "Score": 36
+    },
+    {
+        "Name": "Cuba",
+        "CODE": "CUB",
+        "Year": "2020",
+        "Rank": 171,
+        "Score": 36
+    },
+    {
+        "Name": "Cuba",
+        "CODE": "CUB",
+        "Year": "2021",
+        "Rank": 171,
+        "Score": 36
+    },
+    {
+        "Name": "Cuba",
+        "CODE": "CUB",
+        "Year": "2022",
+        "Rank": 173,
+        "Score": 27
+    },
+    {
+        "Name": "Cuba",
+        "CODE": "CUB",
+        "Year": "2023",
+        "Rank": 172,
+        "Score": 29
+    },
+    {
+        "Name": "Cuba",
+        "CODE": "CUB",
+        "Year": "2024",
+        "Rank": 168,
+        "Score": 26
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2019",
+        "Rank": 28,
+        "Score": 78
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2020",
+        "Rank": 27,
+        "Score": 80
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2021",
+        "Rank": 26,
+        "Score": 80
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2022",
+        "Rank": 65,
+        "Score": 66
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2023",
+        "Rank": 55,
+        "Score": 69
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2024",
+        "Rank": 65,
+        "Score": 63
+    },
+    {
+        "Name": "Czech Republic",
+        "CODE": "CZE",
+        "Year": "2019",
+        "Rank": 40,
+        "Score": 75
+    },
+    {
+        "Name": "Czech Republic",
+        "CODE": "CZE",
+        "Year": "2020",
+        "Rank": 40,
+        "Score": 76
+    },
+    {
+        "Name": "Czech Republic",
+        "CODE": "CZE",
+        "Year": "2021",
+        "Rank": 40,
+        "Score": 77
+    },
+    {
+        "Name": "Czech Republic",
+        "CODE": "CZE",
+        "Year": "2022",
+        "Rank": 20,
+        "Score": 81
+    },
+    {
+        "Name": "Czech Republic",
+        "CODE": "CZE",
+        "Year": "2023",
+        "Rank": 14,
+        "Score": 84
+    },
+    {
+        "Name": "Czech Republic",
+        "CODE": "CZE",
+        "Year": "2024",
+        "Rank": 17,
+        "Score": 80
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2019",
+        "Rank": 154,
+        "Score": 48
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2020",
+        "Rank": 150,
+        "Score": 51
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2021",
+        "Rank": 149,
+        "Score": 51
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2022",
+        "Rank": 125,
+        "Score": 48
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2023",
+        "Rank": 124,
+        "Score": 49
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2024",
+        "Rank": 123,
+        "Score": 49
+    },
+    {
+        "Name": "Denmark",
+        "CODE": "DNK",
+        "Year": "2019",
+        "Rank": 5,
+        "Score": 90
+    },
+    {
+        "Name": "Denmark",
+        "CODE": "DNK",
+        "Year": "2020",
+        "Rank": 3,
+        "Score": 92
+    },
+    {
+        "Name": "Denmark",
+        "CODE": "DNK",
+        "Year": "2021",
+        "Rank": 4,
+        "Score": 91
+    },
+    {
+        "Name": "Denmark",
+        "CODE": "DNK",
+        "Year": "2022",
+        "Rank": 2,
+        "Score": 90
+    },
+    {
+        "Name": "Denmark",
+        "CODE": "DNK",
+        "Year": "2023",
+        "Rank": 3,
+        "Score": 89
+    },
+    {
+        "Name": "Denmark",
+        "CODE": "DNK",
+        "Year": "2024",
+        "Rank": 2,
+        "Score": 90
+    },
+    {
+        "Name": "Djibouti",
+        "CODE": "DJI",
+        "Year": "2019",
+        "Rank": 173,
+        "Score": 29
+    },
+    {
+        "Name": "Djibouti",
+        "CODE": "DJI",
+        "Year": "2020",
+        "Rank": 176,
+        "Score": 23
+    },
+    {
+        "Name": "Djibouti",
+        "CODE": "DJI",
+        "Year": "2021",
+        "Rank": 176,
+        "Score": 21
+    },
+    {
+        "Name": "Djibouti",
+        "CODE": "DJI",
+        "Year": "2022",
+        "Rank": 164,
+        "Score": 36
+    },
+    {
+        "Name": "Djibouti",
+        "CODE": "DJI",
+        "Year": "2023",
+        "Rank": 162,
+        "Score": 36
+    },
+    {
+        "Name": "Djibouti",
+        "CODE": "DJI",
+        "Year": "2024",
+        "Rank": 161,
+        "Score": 30
+    },
+    {
+        "Name": "Dominican republic",
+        "CODE": "DOM",
+        "Year": "2019",
+        "Rank": 55,
+        "Score": 72
+    },
+    {
+        "Name": "Dominican republic",
+        "CODE": "DOM",
+        "Year": "2020",
+        "Rank": 55,
+        "Score": 72
+    },
+    {
+        "Name": "Dominican republic",
+        "CODE": "DOM",
+        "Year": "2021",
+        "Rank": 50,
+        "Score": 74
+    },
+    {
+        "Name": "Dominican republic",
+        "CODE": "DOM",
+        "Year": "2022",
+        "Rank": 30,
+        "Score": 77
+    },
+    {
+        "Name": "Dominican republic",
+        "CODE": "DOM",
+        "Year": "2023",
+        "Rank": 43,
+        "Score": 72
+    },
+    {
+        "Name": "Dominican republic",
+        "CODE": "DOM",
+        "Year": "2024",
+        "Rank": 35,
+        "Score": 74
+    },
+    {
+        "Name": "Ecuador",
+        "CODE": "ECU",
+        "Year": "2019",
+        "Rank": 97,
+        "Score": 68
+    },
+    {
+        "Name": "Ecuador",
+        "CODE": "ECU",
+        "Year": "2020",
+        "Rank": 98,
+        "Score": 67
+    },
+    {
+        "Name": "Ecuador",
+        "CODE": "ECU",
+        "Year": "2021",
+        "Rank": 96,
+        "Score": 67
+    },
+    {
+        "Name": "Ecuador",
+        "CODE": "ECU",
+        "Year": "2022",
+        "Rank": 68,
+        "Score": 65
+    },
+    {
+        "Name": "Ecuador",
+        "CODE": "ECU",
+        "Year": "2023",
+        "Rank": 80,
+        "Score": 61
+    },
+    {
+        "Name": "Ecuador",
+        "CODE": "ECU",
+        "Year": "2024",
+        "Rank": 110,
+        "Score": 51
+    },
+    {
+        "Name": "Egypt",
+        "CODE": "EGY",
+        "Year": "2019",
+        "Rank": 163,
+        "Score": 44
+    },
+    {
+        "Name": "Egypt",
+        "CODE": "EGY",
+        "Year": "2020",
+        "Rank": 166,
+        "Score": 43
+    },
+    {
+        "Name": "Egypt",
+        "CODE": "EGY",
+        "Year": "2021",
+        "Rank": 166,
+        "Score": 44
+    },
+    {
+        "Name": "Egypt",
+        "CODE": "EGY",
+        "Year": "2022",
+        "Rank": 168,
+        "Score": 30
+    },
+    {
+        "Name": "Egypt",
+        "CODE": "EGY",
+        "Year": "2023",
+        "Rank": 166,
+        "Score": 33
+    },
+    {
+        "Name": "Egypt",
+        "CODE": "EGY",
+        "Year": "2024",
+        "Rank": 170,
+        "Score": 25
+    },
+    {
+        "Name": "El salvador",
+        "CODE": "SLV",
+        "Year": "2019",
+        "Rank": 81,
+        "Score": 70
+    },
+    {
+        "Name": "El salvador",
+        "CODE": "SLV",
+        "Year": "2020",
+        "Rank": 74,
+        "Score": 70
+    },
+    {
+        "Name": "El salvador",
+        "CODE": "SLV",
+        "Year": "2021",
+        "Rank": 82,
+        "Score": 70
+    },
+    {
+        "Name": "El salvador",
+        "CODE": "SLV",
+        "Year": "2022",
+        "Rank": 112,
+        "Score": 54
+    },
+    {
+        "Name": "El salvador",
+        "CODE": "SLV",
+        "Year": "2023",
+        "Rank": 115,
+        "Score": 51
+    },
+    {
+        "Name": "El salvador",
+        "CODE": "SLV",
+        "Year": "2024",
+        "Rank": 133,
+        "Score": 44
+    },
+    {
+        "Name": "Equatorial guinea",
+        "CODE": "GNQ",
+        "Year": "2019",
+        "Rank": 165,
+        "Score": 42
+    },
+    {
+        "Name": "Equatorial guinea",
+        "CODE": "GNQ",
+        "Year": "2020",
+        "Rank": 165,
+        "Score": 44
+    },
+    {
+        "Name": "Equatorial guinea",
+        "CODE": "GNQ",
+        "Year": "2021",
+        "Rank": 164,
+        "Score": 44
+    },
+    {
+        "Name": "Equatorial guinea",
+        "CODE": "GNQ",
+        "Year": "2022",
+        "Rank": 141,
+        "Score": 44
+    },
+    {
+        "Name": "Equatorial guinea",
+        "CODE": "GNQ",
+        "Year": "2023",
+        "Rank": 120,
+        "Score": 50
+    },
+    {
+        "Name": "Equatorial guinea",
+        "CODE": "GNQ",
+        "Year": "2024",
+        "Rank": 127,
+        "Score": 46
+    },
+    {
+        "Name": "Eritrea",
+        "CODE": "ERI",
+        "Year": "2019",
+        "Rank": 178,
+        "Score": 20
+    },
+    {
+        "Name": "Eritrea",
+        "CODE": "ERI",
+        "Year": "2020",
+        "Rank": 178,
+        "Score": 16
+    },
+    {
+        "Name": "Eritrea",
+        "CODE": "ERI",
+        "Year": "2021",
+        "Rank": 180,
+        "Score": 19
+    },
+    {
+        "Name": "Eritrea",
+        "CODE": "ERI",
+        "Year": "2022",
+        "Rank": 179,
+        "Score": 20
+    },
+    {
+        "Name": "Eritrea",
+        "CODE": "ERI",
+        "Year": "2023",
+        "Rank": 174,
+        "Score": 28
+    },
+    {
+        "Name": "Eritrea",
+        "CODE": "ERI",
+        "Year": "2024",
+        "Rank": 180,
+        "Score": 17
+    },
+    {
+        "Name": "Estonia",
+        "CODE": "EST",
+        "Year": "2019",
+        "Rank": 11,
+        "Score": 88
+    },
+    {
+        "Name": "Estonia",
+        "CODE": "EST",
+        "Year": "2020",
+        "Rank": 14,
+        "Score": 87
+    },
+    {
+        "Name": "Estonia",
+        "CODE": "EST",
+        "Year": "2021",
+        "Rank": 15,
+        "Score": 85
+    },
+    {
+        "Name": "Estonia",
+        "CODE": "EST",
+        "Year": "2022",
+        "Rank": 4,
+        "Score": 89
+    },
+    {
+        "Name": "Estonia",
+        "CODE": "EST",
+        "Year": "2023",
+        "Rank": 8,
+        "Score": 85
+    },
+    {
+        "Name": "Estonia",
+        "CODE": "EST",
+        "Year": "2024",
+        "Rank": 6,
+        "Score": 86
+    },
+    {
+        "Name": "Eswatini",
+        "CODE": "SWZ",
+        "Year": "2019",
+        "Rank": 147,
+        "Score": 51
+    },
+    {
+        "Name": "Eswatini",
+        "CODE": "SWZ",
+        "Year": "2020",
+        "Rank": 141,
+        "Score": 55
+    },
+    {
+        "Name": "Eswatini",
+        "CODE": "SWZ",
+        "Year": "2021",
+        "Rank": 141,
+        "Score": 54
+    },
+    {
+        "Name": "Eswatini",
+        "CODE": "SWZ",
+        "Year": "2022",
+        "Rank": 131,
+        "Score": 46
+    },
+    {
+        "Name": "Eswatini",
+        "CODE": "SWZ",
+        "Year": "2023",
+        "Rank": 111,
+        "Score": 53
+    },
+    {
+        "Name": "Eswatini",
+        "CODE": "SWZ",
+        "Year": "2024",
+        "Rank": 85,
+        "Score": 58
+    },
+    {
+        "Name": "Ethiopia",
+        "CODE": "ETH",
+        "Year": "2019",
+        "Rank": 110,
+        "Score": 65
+    },
+    {
+        "Name": "Ethiopia",
+        "CODE": "ETH",
+        "Year": "2020",
+        "Rank": 99,
+        "Score": 67
+    },
+    {
+        "Name": "Ethiopia",
+        "CODE": "ETH",
+        "Year": "2021",
+        "Rank": 101,
+        "Score": 66
+    },
+    {
+        "Name": "Ethiopia",
+        "CODE": "ETH",
+        "Year": "2022",
+        "Rank": 114,
+        "Score": 51
+    },
+    {
+        "Name": "Ethiopia",
+        "CODE": "ETH",
+        "Year": "2023",
+        "Rank": 130,
+        "Score": 48
+    },
+    {
+        "Name": "Ethiopia",
+        "CODE": "ETH",
+        "Year": "2024",
+        "Rank": 141,
+        "Score": 41
+    },
+    {
+        "Name": "Fiji",
+        "CODE": "FJI",
+        "Year": "2019",
+        "Rank": 52,
+        "Score": 73
+    },
+    {
+        "Name": "Fiji",
+        "CODE": "FJI",
+        "Year": "2020",
+        "Rank": 52,
+        "Score": 73
+    },
+    {
+        "Name": "Fiji",
+        "CODE": "FJI",
+        "Year": "2021",
+        "Rank": 55,
+        "Score": 72
+    },
+    {
+        "Name": "Fiji",
+        "CODE": "FJI",
+        "Year": "2022",
+        "Rank": 102,
+        "Score": 57
+    },
+    {
+        "Name": "Fiji",
+        "CODE": "FJI",
+        "Year": "2023",
+        "Rank": 89,
+        "Score": 59
+    },
+    {
+        "Name": "Fiji",
+        "CODE": "FJI",
+        "Year": "2024",
+        "Rank": 44,
+        "Score": 71
+    },
+    {
+        "Name": "Finland",
+        "CODE": "FIN",
+        "Year": "2019",
+        "Rank": 2,
+        "Score": 92
+    },
+    {
+        "Name": "Finland",
+        "CODE": "FIN",
+        "Year": "2020",
+        "Rank": 2,
+        "Score": 92
+    },
+    {
+        "Name": "Finland",
+        "CODE": "FIN",
+        "Year": "2021",
+        "Rank": 2,
+        "Score": 93
+    },
+    {
+        "Name": "Finland",
+        "CODE": "FIN",
+        "Year": "2022",
+        "Rank": 5,
+        "Score": 88
+    },
+    {
+        "Name": "Finland",
+        "CODE": "FIN",
+        "Year": "2023",
+        "Rank": 5,
+        "Score": 88
+    },
+    {
+        "Name": "Finland",
+        "CODE": "FIN",
+        "Year": "2024",
+        "Rank": 5,
+        "Score": 87
+    },
+    {
+        "Name": "France",
+        "CODE": "FRA",
+        "Year": "2019",
+        "Rank": 32,
+        "Score": 78
+    },
+    {
+        "Name": "France",
+        "CODE": "FRA",
+        "Year": "2020",
+        "Rank": 34,
+        "Score": 77
+    },
+    {
+        "Name": "France",
+        "CODE": "FRA",
+        "Year": "2021",
+        "Rank": 34,
+        "Score": 77
+    },
+    {
+        "Name": "France",
+        "CODE": "FRA",
+        "Year": "2022",
+        "Rank": 26,
+        "Score": 79
+    },
+    {
+        "Name": "France",
+        "CODE": "FRA",
+        "Year": "2023",
+        "Rank": 24,
+        "Score": 79
+    },
+    {
+        "Name": "France",
+        "CODE": "FRA",
+        "Year": "2024",
+        "Rank": 21,
+        "Score": 79
+    },
+    {
+        "Name": "Gabon",
+        "CODE": "GAB",
+        "Year": "2019",
+        "Rank": 115,
+        "Score": 64
+    },
+    {
+        "Name": "Gabon",
+        "CODE": "GAB",
+        "Year": "2020",
+        "Rank": 121,
+        "Score": 63
+    },
+    {
+        "Name": "Gabon",
+        "CODE": "GAB",
+        "Year": "2021",
+        "Rank": 117,
+        "Score": 61
+    },
+    {
+        "Name": "Gabon",
+        "CODE": "GAB",
+        "Year": "2022",
+        "Rank": 105,
+        "Score": 56
+    },
+    {
+        "Name": "Gabon",
+        "CODE": "GAB",
+        "Year": "2023",
+        "Rank": 94,
+        "Score": 58
+    },
+    {
+        "Name": "Gabon",
+        "CODE": "GAB",
+        "Year": "2024",
+        "Rank": 56,
+        "Score": 66
+    },
+    {
+        "Name": "Gambia",
+        "CODE": "GMB",
+        "Year": "2019",
+        "Rank": 92,
+        "Score": 69
+    },
+    {
+        "Name": "Gambia",
+        "CODE": "GMB",
+        "Year": "2020",
+        "Rank": 87,
+        "Score": 69
+    },
+    {
+        "Name": "Gambia",
+        "CODE": "GMB",
+        "Year": "2021",
+        "Rank": 85,
+        "Score": 69
+    },
+    {
+        "Name": "Gambia",
+        "CODE": "GMB",
+        "Year": "2022",
+        "Rank": 50,
+        "Score": 69
+    },
+    {
+        "Name": "Gambia",
+        "CODE": "GMB",
+        "Year": "2023",
+        "Rank": 46,
+        "Score": 71
+    },
+    {
+        "Name": "Gambia",
+        "CODE": "GMB",
+        "Year": "2024",
+        "Rank": 58,
+        "Score": 66
+    },
+    {
+        "Name": "Georgia",
+        "CODE": "GEO",
+        "Year": "2019",
+        "Rank": 60,
+        "Score": 71
+    },
+    {
+        "Name": "Georgia",
+        "CODE": "GEO",
+        "Year": "2020",
+        "Rank": 60,
+        "Score": 71
+    },
+    {
+        "Name": "Georgia",
+        "CODE": "GEO",
+        "Year": "2021",
+        "Rank": 60,
+        "Score": 71
+    },
+    {
+        "Name": "Georgia",
+        "CODE": "GEO",
+        "Year": "2022",
+        "Rank": 89,
+        "Score": 59
+    },
+    {
+        "Name": "Georgia",
+        "CODE": "GEO",
+        "Year": "2023",
+        "Rank": 77,
+        "Score": 62
+    },
+    {
+        "Name": "Georgia",
+        "CODE": "GEO",
+        "Year": "2024",
+        "Rank": 103,
+        "Score": 53
+    },
+    {
+        "Name": "Germany",
+        "CODE": "DEU",
+        "Year": "2019",
+        "Rank": 13,
+        "Score": 85
+    },
+    {
+        "Name": "Germany",
+        "CODE": "DEU",
+        "Year": "2020",
+        "Rank": 11,
+        "Score": 88
+    },
+    {
+        "Name": "Germany",
+        "CODE": "DEU",
+        "Year": "2021",
+        "Rank": 13,
+        "Score": 85
+    },
+    {
+        "Name": "Germany",
+        "CODE": "DEU",
+        "Year": "2022",
+        "Rank": 16,
+        "Score": 82
+    },
+    {
+        "Name": "Germany",
+        "CODE": "DEU",
+        "Year": "2023",
+        "Rank": 21,
+        "Score": 82
+    },
+    {
+        "Name": "Germany",
+        "CODE": "DEU",
+        "Year": "2024",
+        "Rank": 10,
+        "Score": 84
+    },
+    {
+        "Name": "Ghana",
+        "CODE": "GHA",
+        "Year": "2019",
+        "Rank": 27,
+        "Score": 79
+    },
+    {
+        "Name": "Ghana",
+        "CODE": "GHA",
+        "Year": "2020",
+        "Rank": 30,
+        "Score": 78
+    },
+    {
+        "Name": "Ghana",
+        "CODE": "GHA",
+        "Year": "2021",
+        "Rank": 30,
+        "Score": 79
+    },
+    {
+        "Name": "Ghana",
+        "CODE": "GHA",
+        "Year": "2022",
+        "Rank": 60,
+        "Score": 67
+    },
+    {
+        "Name": "Ghana",
+        "CODE": "GHA",
+        "Year": "2023",
+        "Rank": 62,
+        "Score": 66
+    },
+    {
+        "Name": "Ghana",
+        "CODE": "GHA",
+        "Year": "2024",
+        "Rank": 50,
+        "Score": 68
+    },
+    {
+        "Name": "Greece",
+        "CODE": "GRC",
+        "Year": "2019",
+        "Rank": 65,
+        "Score": 71
+    },
+    {
+        "Name": "Greece",
+        "CODE": "GRC",
+        "Year": "2020",
+        "Rank": 65,
+        "Score": 71
+    },
+    {
+        "Name": "Greece",
+        "CODE": "GRC",
+        "Year": "2021",
+        "Rank": 70,
+        "Score": 71
+    },
+    {
+        "Name": "Greece",
+        "CODE": "GRC",
+        "Year": "2022",
+        "Rank": 108,
+        "Score": 56
+    },
+    {
+        "Name": "Greece",
+        "CODE": "GRC",
+        "Year": "2023",
+        "Rank": 107,
+        "Score": 55
+    },
+    {
+        "Name": "Greece",
+        "CODE": "GRC",
+        "Year": "2024",
+        "Rank": 88,
+        "Score": 57
+    },
+    {
+        "Name": "Guatemala",
+        "CODE": "GTM",
+        "Year": "2019",
+        "Rank": 116,
+        "Score": 64
+    },
+    {
+        "Name": "Guatemala",
+        "CODE": "GTM",
+        "Year": "2020",
+        "Rank": 116,
+        "Score": 64
+    },
+    {
+        "Name": "Guatemala",
+        "CODE": "GTM",
+        "Year": "2021",
+        "Rank": 116,
+        "Score": 62
+    },
+    {
+        "Name": "Guatemala",
+        "CODE": "GTM",
+        "Year": "2022",
+        "Rank": 124,
+        "Score": 48
+    },
+    {
+        "Name": "Guatemala",
+        "CODE": "GTM",
+        "Year": "2023",
+        "Rank": 127,
+        "Score": 48
+    },
+    {
+        "Name": "Guatemala",
+        "CODE": "GTM",
+        "Year": "2024",
+        "Rank": 138,
+        "Score": 42
+    },
+    {
+        "Name": "Guinea",
+        "CODE": "GIN",
+        "Year": "2019",
+        "Rank": 107,
+        "Score": 67
+    },
+    {
+        "Name": "Guinea",
+        "CODE": "GIN",
+        "Year": "2020",
+        "Rank": 110,
+        "Score": 66
+    },
+    {
+        "Name": "Guinea",
+        "CODE": "GIN",
+        "Year": "2021",
+        "Rank": 109,
+        "Score": 65
+    },
+    {
+        "Name": "Guinea",
+        "CODE": "GIN",
+        "Year": "2022",
+        "Rank": 84,
+        "Score": 60
+    },
+    {
+        "Name": "Guinea",
+        "CODE": "GIN",
+        "Year": "2023",
+        "Rank": 85,
+        "Score": 60
+    },
+    {
+        "Name": "Guinea",
+        "CODE": "GIN",
+        "Year": "2024",
+        "Rank": 78,
+        "Score": 60
+    },
+    {
+        "Name": "Guinea-bissau",
+        "CODE": "GNB",
+        "Year": "2019",
+        "Rank": 89,
+        "Score": 69
+    },
+    {
+        "Name": "Guinea-bissau",
+        "CODE": "GNB",
+        "Year": "2020",
+        "Rank": 94,
+        "Score": 68
+    },
+    {
+        "Name": "Guinea-bissau",
+        "CODE": "GNB",
+        "Year": "2021",
+        "Rank": 95,
+        "Score": 67
+    },
+    {
+        "Name": "Guinea-bissau",
+        "CODE": "GNB",
+        "Year": "2022",
+        "Rank": 92,
+        "Score": 59
+    },
+    {
+        "Name": "Guinea-bissau",
+        "CODE": "GNB",
+        "Year": "2023",
+        "Rank": 78,
+        "Score": 62
+    },
+    {
+        "Name": "Guinea-bissau",
+        "CODE": "GNB",
+        "Year": "2024",
+        "Rank": 92,
+        "Score": 56
+    },
+    {
+        "Name": "Guyana",
+        "CODE": "GUY",
+        "Year": "2019",
+        "Rank": 51,
+        "Score": 73
+    },
+    {
+        "Name": "Guyana",
+        "CODE": "GUY",
+        "Year": "2020",
+        "Rank": 49,
+        "Score": 73
+    },
+    {
+        "Name": "Guyana",
+        "CODE": "GUY",
+        "Year": "2021",
+        "Rank": 51,
+        "Score": 74
+    },
+    {
+        "Name": "Guyana",
+        "CODE": "GUY",
+        "Year": "2022",
+        "Rank": 34,
+        "Score": 76
+    },
+    {
+        "Name": "Guyana",
+        "CODE": "GUY",
+        "Year": "2023",
+        "Rank": 60,
+        "Score": 68
+    },
+    {
+        "Name": "Guyana",
+        "CODE": "GUY",
+        "Year": "2024",
+        "Rank": 77,
+        "Score": 60
+    },
+    {
+        "Name": "Haiti",
+        "CODE": "HTI",
+        "Year": "2019",
+        "Rank": 62,
+        "Score": 71
+    },
+    {
+        "Name": "Haiti",
+        "CODE": "HTI",
+        "Year": "2020",
+        "Rank": 83,
+        "Score": 70
+    },
+    {
+        "Name": "Haiti",
+        "CODE": "HTI",
+        "Year": "2021",
+        "Rank": 87,
+        "Score": 69
+    },
+    {
+        "Name": "Haiti",
+        "CODE": "HTI",
+        "Year": "2022",
+        "Rank": 70,
+        "Score": 65
+    },
+    {
+        "Name": "Haiti",
+        "CODE": "HTI",
+        "Year": "2023",
+        "Rank": 99,
+        "Score": 57
+    },
+    {
+        "Name": "Haiti",
+        "CODE": "HTI",
+        "Year": "2024",
+        "Rank": 93,
+        "Score": 56
+    },
+    {
+        "Name": "Honduras",
+        "CODE": "HND",
+        "Year": "2019",
+        "Rank": 146,
+        "Score": 51
+    },
+    {
+        "Name": "Honduras",
+        "CODE": "HND",
+        "Year": "2020",
+        "Rank": 148,
+        "Score": 52
+    },
+    {
+        "Name": "Honduras",
+        "CODE": "HND",
+        "Year": "2021",
+        "Rank": 151,
+        "Score": 51
+    },
+    {
+        "Name": "Honduras",
+        "CODE": "HND",
+        "Year": "2022",
+        "Rank": 165,
+        "Score": 35
+    },
+    {
+        "Name": "Honduras",
+        "CODE": "HND",
+        "Year": "2023",
+        "Rank": 169,
+        "Score": 33
+    },
+    {
+        "Name": "Honduras",
+        "CODE": "HND",
+        "Year": "2024",
+        "Rank": 146,
+        "Score": 38
+    },
+    {
+        "Name": "Hong kong",
+        "CODE": "HKG",
+        "Year": "2019",
+        "Rank": 73,
+        "Score": 70
+    },
+    {
+        "Name": "Hong kong",
+        "CODE": "HKG",
+        "Year": "2020",
+        "Rank": 80,
+        "Score": 70
+    },
+    {
+        "Name": "Hong kong",
+        "CODE": "HKG",
+        "Year": "2021",
+        "Rank": 80,
+        "Score": 70
+    },
+    {
+        "Name": "Hong kong",
+        "CODE": "HKG",
+        "Year": "2022",
+        "Rank": 148,
+        "Score": 42
+    },
+    {
+        "Name": "Hong kong",
+        "CODE": "HKG",
+        "Year": "2023",
+        "Rank": 140,
+        "Score": 45
+    },
+    {
+        "Name": "Hong kong",
+        "CODE": "HKG",
+        "Year": "2024",
+        "Rank": 135,
+        "Score": 43
+    },
+    {
+        "Name": "Hungary",
+        "CODE": "HUN",
+        "Year": "2019",
+        "Rank": 87,
+        "Score": 70
+    },
+    {
+        "Name": "Hungary",
+        "CODE": "HUN",
+        "Year": "2020",
+        "Rank": 89,
+        "Score": 69
+    },
+    {
+        "Name": "Hungary",
+        "CODE": "HUN",
+        "Year": "2021",
+        "Rank": 92,
+        "Score": 68
+    },
+    {
+        "Name": "Hungary",
+        "CODE": "HUN",
+        "Year": "2022",
+        "Rank": 85,
+        "Score": 60
+    },
+    {
+        "Name": "Hungary",
+        "CODE": "HUN",
+        "Year": "2023",
+        "Rank": 72,
+        "Score": 63
+    },
+    {
+        "Name": "Hungary",
+        "CODE": "HUN",
+        "Year": "2024",
+        "Rank": 67,
+        "Score": 63
+    },
+    {
+        "Name": "Iceland",
+        "CODE": "ISL",
+        "Year": "2019",
+        "Rank": 14,
+        "Score": 85
+    },
+    {
+        "Name": "Iceland",
+        "CODE": "ISL",
+        "Year": "2020",
+        "Rank": 15,
+        "Score": 85
+    },
+    {
+        "Name": "Iceland",
+        "CODE": "ISL",
+        "Year": "2021",
+        "Rank": 16,
+        "Score": 85
+    },
+    {
+        "Name": "Iceland",
+        "CODE": "ISL",
+        "Year": "2022",
+        "Rank": 15,
+        "Score": 83
+    },
+    {
+        "Name": "Iceland",
+        "CODE": "ISL",
+        "Year": "2023",
+        "Rank": 18,
+        "Score": 83
+    },
+    {
+        "Name": "Iceland",
+        "CODE": "ISL",
+        "Year": "2024",
+        "Rank": 18,
+        "Score": 80
+    },
+    {
+        "Name": "India",
+        "CODE": "IND",
+        "Year": "2019",
+        "Rank": 140,
+        "Score": 54
+    },
+    {
+        "Name": "India",
+        "CODE": "IND",
+        "Year": "2020",
+        "Rank": 142,
+        "Score": 55
+    },
+    {
+        "Name": "India",
+        "CODE": "IND",
+        "Year": "2021",
+        "Rank": 142,
+        "Score": 53
+    },
+    {
+        "Name": "India",
+        "CODE": "IND",
+        "Year": "2022",
+        "Rank": 150,
+        "Score": 41
+    },
+    {
+        "Name": "India",
+        "CODE": "IND",
+        "Year": "2023",
+        "Rank": 161,
+        "Score": 37
+    },
+    {
+        "Name": "India",
+        "CODE": "IND",
+        "Year": "2024",
+        "Rank": 159,
+        "Score": 31
+    },
+    {
+        "Name": "Indonesia",
+        "CODE": "IDN",
+        "Year": "2019",
+        "Rank": 124,
+        "Score": 63
+    },
+    {
+        "Name": "Indonesia",
+        "CODE": "IDN",
+        "Year": "2020",
+        "Rank": 119,
+        "Score": 63
+    },
+    {
+        "Name": "Indonesia",
+        "CODE": "IDN",
+        "Year": "2021",
+        "Rank": 113,
+        "Score": 63
+    },
+    {
+        "Name": "Indonesia",
+        "CODE": "IDN",
+        "Year": "2022",
+        "Rank": 117,
+        "Score": 49
+    },
+    {
+        "Name": "Indonesia",
+        "CODE": "IDN",
+        "Year": "2023",
+        "Rank": 108,
+        "Score": 55
+    },
+    {
+        "Name": "Indonesia",
+        "CODE": "IDN",
+        "Year": "2024",
+        "Rank": 111,
+        "Score": 51
+    },
+    {
+        "Name": "Iran (islamic republic of)",
+        "CODE": "IRN",
+        "Year": "2019",
+        "Rank": 170,
+        "Score": 36
+    },
+    {
+        "Name": "Iran (islamic republic of)",
+        "CODE": "IRN",
+        "Year": "2020",
+        "Rank": 173,
+        "Score": 35
+    },
+    {
+        "Name": "Iran (islamic republic of)",
+        "CODE": "IRN",
+        "Year": "2021",
+        "Rank": 174,
+        "Score": 27
+    },
+    {
+        "Name": "Iran (islamic republic of)",
+        "CODE": "IRN",
+        "Year": "2022",
+        "Rank": 178,
+        "Score": 23
+    },
+    {
+        "Name": "Iran (islamic republic of)",
+        "CODE": "IRN",
+        "Year": "2023",
+        "Rank": 177,
+        "Score": 25
+    },
+    {
+        "Name": "Iran (islamic republic of)",
+        "CODE": "IRN",
+        "Year": "2024",
+        "Rank": 176,
+        "Score": 21
+    },
+    {
+        "Name": "Iraq",
+        "CODE": "IRQ",
+        "Year": "2019",
+        "Rank": 156,
+        "Score": 47
+    },
+    {
+        "Name": "Iraq",
+        "CODE": "IRQ",
+        "Year": "2020",
+        "Rank": 162,
+        "Score": 45
+    },
+    {
+        "Name": "Iraq",
+        "CODE": "IRQ",
+        "Year": "2021",
+        "Rank": 163,
+        "Score": 44
+    },
+    {
+        "Name": "Iraq",
+        "CODE": "IRQ",
+        "Year": "2022",
+        "Rank": 172,
+        "Score": 29
+    },
+    {
+        "Name": "Iraq",
+        "CODE": "IRQ",
+        "Year": "2023",
+        "Rank": 167,
+        "Score": 33
+    },
+    {
+        "Name": "Iraq",
+        "CODE": "IRQ",
+        "Year": "2024",
+        "Rank": 169,
+        "Score": 25
+    },
+    {
+        "Name": "Ireland",
+        "CODE": "IRL",
+        "Year": "2019",
+        "Rank": 15,
+        "Score": 85
+    },
+    {
+        "Name": "Ireland",
+        "CODE": "IRL",
+        "Year": "2020",
+        "Rank": 13,
+        "Score": 87
+    },
+    {
+        "Name": "Ireland",
+        "CODE": "IRL",
+        "Year": "2021",
+        "Rank": 12,
+        "Score": 88
+    },
+    {
+        "Name": "Ireland",
+        "CODE": "IRL",
+        "Year": "2022",
+        "Rank": 6,
+        "Score": 88
+    },
+    {
+        "Name": "Ireland",
+        "CODE": "IRL",
+        "Year": "2023",
+        "Rank": 2,
+        "Score": 90
+    },
+    {
+        "Name": "Ireland",
+        "CODE": "IRL",
+        "Year": "2024",
+        "Rank": 8,
+        "Score": 86
+    },
+    {
+        "Name": "Israel",
+        "CODE": "ISR",
+        "Year": "2019",
+        "Rank": 88,
+        "Score": 69
+    },
+    {
+        "Name": "Israel",
+        "CODE": "ISR",
+        "Year": "2020",
+        "Rank": 88,
+        "Score": 69
+    },
+    {
+        "Name": "Israel",
+        "CODE": "ISR",
+        "Year": "2021",
+        "Rank": 86,
+        "Score": 69
+    },
+    {
+        "Name": "Israel",
+        "CODE": "ISR",
+        "Year": "2022",
+        "Rank": 86,
+        "Score": 60
+    },
+    {
+        "Name": "Israel",
+        "CODE": "ISR",
+        "Year": "2023",
+        "Rank": 97,
+        "Score": 58
+    },
+    {
+        "Name": "Israel",
+        "CODE": "ISR",
+        "Year": "2024",
+        "Rank": 101,
+        "Score": 53
+    },
+    {
+        "Name": "Italy",
+        "CODE": "ITA",
+        "Year": "2019",
+        "Rank": 43,
+        "Score": 75
+    },
+    {
+        "Name": "Italy",
+        "CODE": "ITA",
+        "Year": "2020",
+        "Rank": 41,
+        "Score": 76
+    },
+    {
+        "Name": "Italy",
+        "CODE": "ITA",
+        "Year": "2021",
+        "Rank": 41,
+        "Score": 77
+    },
+    {
+        "Name": "Italy",
+        "CODE": "ITA",
+        "Year": "2022",
+        "Rank": 58,
+        "Score": 68
+    },
+    {
+        "Name": "Italy",
+        "CODE": "ITA",
+        "Year": "2023",
+        "Rank": 41,
+        "Score": 72
+    },
+    {
+        "Name": "Italy",
+        "CODE": "ITA",
+        "Year": "2024",
+        "Rank": 46,
+        "Score": 70
+    },
+    {
+        "Name": "Ivory Coast",
+        "CODE": "CIV",
+        "Year": "2019",
+        "Rank": 71,
+        "Score": 70
+    },
+    {
+        "Name": "Ivory Coast",
+        "CODE": "CIV",
+        "Year": "2020",
+        "Rank": 68,
+        "Score": 71
+    },
+    {
+        "Name": "Ivory Coast",
+        "CODE": "CIV",
+        "Year": "2021",
+        "Rank": 66,
+        "Score": 71
+    },
+    {
+        "Name": "Ivory Coast",
+        "CODE": "CIV",
+        "Year": "2022",
+        "Rank": 37,
+        "Score": 74
+    },
+    {
+        "Name": "Ivory Coast",
+        "CODE": "CIV",
+        "Year": "2023",
+        "Rank": 54,
+        "Score": 69
+    },
+    {
+        "Name": "Ivory Coast",
+        "CODE": "CIV",
+        "Year": "2024",
+        "Rank": 53,
+        "Score": 67
+    },
+    {
+        "Name": "Jamaica",
+        "CODE": "JAM",
+        "Year": "2019",
+        "Rank": 8,
+        "Score": 89
+    },
+    {
+        "Name": "Jamaica",
+        "CODE": "JAM",
+        "Year": "2020",
+        "Rank": 6,
+        "Score": 89
+    },
+    {
+        "Name": "Jamaica",
+        "CODE": "JAM",
+        "Year": "2021",
+        "Rank": 7,
+        "Score": 90
+    },
+    {
+        "Name": "Jamaica",
+        "CODE": "JAM",
+        "Year": "2022",
+        "Rank": 12,
+        "Score": 83
+    },
+    {
+        "Name": "Jamaica",
+        "CODE": "JAM",
+        "Year": "2023",
+        "Rank": 32,
+        "Score": 76
+    },
+    {
+        "Name": "Jamaica",
+        "CODE": "JAM",
+        "Year": "2024",
+        "Rank": 24,
+        "Score": 77
+    },
+    {
+        "Name": "Japan",
+        "CODE": "JPN",
+        "Year": "2019",
+        "Rank": 67,
+        "Score": 71
+    },
+    {
+        "Name": "Japan",
+        "CODE": "JPN",
+        "Year": "2020",
+        "Rank": 66,
+        "Score": 71
+    },
+    {
+        "Name": "Japan",
+        "CODE": "JPN",
+        "Year": "2021",
+        "Rank": 67,
+        "Score": 71
+    },
+    {
+        "Name": "Japan",
+        "CODE": "JPN",
+        "Year": "2022",
+        "Rank": 71,
+        "Score": 64
+    },
+    {
+        "Name": "Japan",
+        "CODE": "JPN",
+        "Year": "2023",
+        "Rank": 68,
+        "Score": 64
+    },
+    {
+        "Name": "Japan",
+        "CODE": "JPN",
+        "Year": "2024",
+        "Rank": 70,
+        "Score": 62
+    },
+    {
+        "Name": "Jordan",
+        "CODE": "JOR",
+        "Year": "2019",
+        "Rank": 130,
+        "Score": 57
+    },
+    {
+        "Name": "Jordan",
+        "CODE": "JOR",
+        "Year": "2020",
+        "Rank": 128,
+        "Score": 58
+    },
+    {
+        "Name": "Jordan",
+        "CODE": "JOR",
+        "Year": "2021",
+        "Rank": 129,
+        "Score": 57
+    },
+    {
+        "Name": "Jordan",
+        "CODE": "JOR",
+        "Year": "2022",
+        "Rank": 120,
+        "Score": 49
+    },
+    {
+        "Name": "Jordan",
+        "CODE": "JOR",
+        "Year": "2023",
+        "Rank": 146,
+        "Score": 43
+    },
+    {
+        "Name": "Jordan",
+        "CODE": "JOR",
+        "Year": "2024",
+        "Rank": 132,
+        "Score": 44
+    },
+    {
+        "Name": "Kazakhstan",
+        "CODE": "KAZ",
+        "Year": "2019",
+        "Rank": 158,
+        "Score": 47
+    },
+    {
+        "Name": "Kazakhstan",
+        "CODE": "KAZ",
+        "Year": "2020",
+        "Rank": 157,
+        "Score": 46
+    },
+    {
+        "Name": "Kazakhstan",
+        "CODE": "KAZ",
+        "Year": "2021",
+        "Rank": 155,
+        "Score": 50
+    },
+    {
+        "Name": "Kazakhstan",
+        "CODE": "KAZ",
+        "Year": "2022",
+        "Rank": 122,
+        "Score": 48
+    },
+    {
+        "Name": "Kazakhstan",
+        "CODE": "KAZ",
+        "Year": "2023",
+        "Rank": 134,
+        "Score": 46
+    },
+    {
+        "Name": "Kazakhstan",
+        "CODE": "KAZ",
+        "Year": "2024",
+        "Rank": 142,
+        "Score": 41
+    },
+    {
+        "Name": "Kenya",
+        "CODE": "KEN",
+        "Year": "2019",
+        "Rank": 100,
+        "Score": 68
+    },
+    {
+        "Name": "Kenya",
+        "CODE": "KEN",
+        "Year": "2020",
+        "Rank": 103,
+        "Score": 66
+    },
+    {
+        "Name": "Kenya",
+        "CODE": "KEN",
+        "Year": "2021",
+        "Rank": 102,
+        "Score": 66
+    },
+    {
+        "Name": "Kenya",
+        "CODE": "KEN",
+        "Year": "2022",
+        "Rank": 69,
+        "Score": 65
+    },
+    {
+        "Name": "Kenya",
+        "CODE": "KEN",
+        "Year": "2023",
+        "Rank": 116,
+        "Score": 51
+    },
+    {
+        "Name": "Kenya",
+        "CODE": "KEN",
+        "Year": "2024",
+        "Rank": 102,
+        "Score": 53
+    },
+    {
+        "Name": "Kosovo",
+        "CODE": "XKX",
+        "Year": "2019",
+        "Rank": 75,
+        "Score": 70
+    },
+    {
+        "Name": "Kosovo",
+        "CODE": "XKX",
+        "Year": "2020",
+        "Rank": 70,
+        "Score": 71
+    },
+    {
+        "Name": "Kosovo",
+        "CODE": "XKX",
+        "Year": "2021",
+        "Rank": 78,
+        "Score": 70
+    },
+    {
+        "Name": "Kosovo",
+        "CODE": "XKX",
+        "Year": "2022",
+        "Rank": 61,
+        "Score": 67
+    },
+    {
+        "Name": "Kosovo",
+        "CODE": "XKX",
+        "Year": "2023",
+        "Rank": 56,
+        "Score": 68
+    },
+    {
+        "Name": "Kosovo",
+        "CODE": "XKX",
+        "Year": "2024",
+        "Rank": 75,
+        "Score": 60
+    },
+    {
+        "Name": "Kuwait",
+        "CODE": "KWT",
+        "Year": "2019",
+        "Rank": 108,
+        "Score": 66
+    },
+    {
+        "Name": "Kuwait",
+        "CODE": "KWT",
+        "Year": "2020",
+        "Rank": 109,
+        "Score": 66
+    },
+    {
+        "Name": "Kuwait",
+        "CODE": "KWT",
+        "Year": "2021",
+        "Rank": 105,
+        "Score": 66
+    },
+    {
+        "Name": "Kuwait",
+        "CODE": "KWT",
+        "Year": "2022",
+        "Rank": 158,
+        "Score": 38
+    },
+    {
+        "Name": "Kuwait",
+        "CODE": "KWT",
+        "Year": "2023",
+        "Rank": 154,
+        "Score": 39
+    },
+    {
+        "Name": "Kuwait",
+        "CODE": "KWT",
+        "Year": "2024",
+        "Rank": 131,
+        "Score": 45
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "CODE": "KGZ",
+        "Year": "2019",
+        "Rank": 83,
+        "Score": 70
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "CODE": "KGZ",
+        "Year": "2020",
+        "Rank": 82,
+        "Score": 70
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "CODE": "KGZ",
+        "Year": "2021",
+        "Rank": 79,
+        "Score": 70
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "CODE": "KGZ",
+        "Year": "2022",
+        "Rank": 72,
+        "Score": 64
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "CODE": "KGZ",
+        "Year": "2023",
+        "Rank": 122,
+        "Score": 50
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "CODE": "KGZ",
+        "Year": "2024",
+        "Rank": 120,
+        "Score": 49
+    },
+    {
+        "Name": "Laos",
+        "CODE": "LAO",
+        "Year": "2019",
+        "Rank": 171,
+        "Score": 36
+    },
+    {
+        "Name": "Laos",
+        "CODE": "LAO",
+        "Year": "2020",
+        "Rank": 172,
+        "Score": 36
+    },
+    {
+        "Name": "Laos",
+        "CODE": "LAO",
+        "Year": "2021",
+        "Rank": 172,
+        "Score": 29
+    },
+    {
+        "Name": "Laos",
+        "CODE": "LAO",
+        "Year": "2022",
+        "Rank": 161,
+        "Score": 37
+    },
+    {
+        "Name": "Laos",
+        "CODE": "LAO",
+        "Year": "2023",
+        "Rank": 160,
+        "Score": 37
+    },
+    {
+        "Name": "Laos",
+        "CODE": "LAO",
+        "Year": "2024",
+        "Rank": 153,
+        "Score": 34
+    },
+    {
+        "Name": "Latvia",
+        "CODE": "LVA",
+        "Year": "2019",
+        "Rank": 24,
+        "Score": 80
+    },
+    {
+        "Name": "Latvia",
+        "CODE": "LVA",
+        "Year": "2020",
+        "Rank": 22,
+        "Score": 81
+    },
+    {
+        "Name": "Latvia",
+        "CODE": "LVA",
+        "Year": "2021",
+        "Rank": 22,
+        "Score": 81
+    },
+    {
+        "Name": "Latvia",
+        "CODE": "LVA",
+        "Year": "2022",
+        "Rank": 22,
+        "Score": 79
+    },
+    {
+        "Name": "Latvia",
+        "CODE": "LVA",
+        "Year": "2023",
+        "Rank": 16,
+        "Score": 83
+    },
+    {
+        "Name": "Latvia",
+        "CODE": "LVA",
+        "Year": "2024",
+        "Rank": 12,
+        "Score": 83
+    },
+    {
+        "Name": "Lebanon",
+        "CODE": "LBN",
+        "Year": "2019",
+        "Rank": 101,
+        "Score": 68
+    },
+    {
+        "Name": "Lebanon",
+        "CODE": "LBN",
+        "Year": "2020",
+        "Rank": 102,
+        "Score": 67
+    },
+    {
+        "Name": "Lebanon",
+        "CODE": "LBN",
+        "Year": "2021",
+        "Rank": 107,
+        "Score": 65
+    },
+    {
+        "Name": "Lebanon",
+        "CODE": "LBN",
+        "Year": "2022",
+        "Rank": 130,
+        "Score": 47
+    },
+    {
+        "Name": "Lebanon",
+        "CODE": "LBN",
+        "Year": "2023",
+        "Rank": 119,
+        "Score": 50
+    },
+    {
+        "Name": "Lebanon",
+        "CODE": "LBN",
+        "Year": "2024",
+        "Rank": 140,
+        "Score": 42
+    },
+    {
+        "Name": "Lesotho",
+        "CODE": "LSO",
+        "Year": "2019",
+        "Rank": 78,
+        "Score": 70
+    },
+    {
+        "Name": "Lesotho",
+        "CODE": "LSO",
+        "Year": "2020",
+        "Rank": 86,
+        "Score": 70
+    },
+    {
+        "Name": "Lesotho",
+        "CODE": "LSO",
+        "Year": "2021",
+        "Rank": 88,
+        "Score": 68
+    },
+    {
+        "Name": "Lesotho",
+        "CODE": "LSO",
+        "Year": "2022",
+        "Rank": 88,
+        "Score": 59
+    },
+    {
+        "Name": "Lesotho",
+        "CODE": "LSO",
+        "Year": "2023",
+        "Rank": 67,
+        "Score": 64
+    },
+    {
+        "Name": "Lesotho",
+        "CODE": "LSO",
+        "Year": "2024",
+        "Rank": 122,
+        "Score": 49
+    },
+    {
+        "Name": "Liberia",
+        "CODE": "LBR",
+        "Year": "2019",
+        "Rank": 93,
+        "Score": 69
+    },
+    {
+        "Name": "Liberia",
+        "CODE": "LBR",
+        "Year": "2020",
+        "Rank": 95,
+        "Score": 68
+    },
+    {
+        "Name": "Liberia",
+        "CODE": "LBR",
+        "Year": "2021",
+        "Rank": 98,
+        "Score": 67
+    },
+    {
+        "Name": "Liberia",
+        "CODE": "LBR",
+        "Year": "2022",
+        "Rank": 75,
+        "Score": 63
+    },
+    {
+        "Name": "Liberia",
+        "CODE": "LBR",
+        "Year": "2023",
+        "Rank": 66,
+        "Score": 64
+    },
+    {
+        "Name": "Liberia",
+        "CODE": "LBR",
+        "Year": "2024",
+        "Rank": 60,
+        "Score": 65
+    },
+    {
+        "Name": "Libya",
+        "CODE": "LBY",
+        "Year": "2019",
+        "Rank": 162,
+        "Score": 44
+    },
+    {
+        "Name": "Libya",
+        "CODE": "LBY",
+        "Year": "2020",
+        "Rank": 164,
+        "Score": 44
+    },
+    {
+        "Name": "Libya",
+        "CODE": "LBY",
+        "Year": "2021",
+        "Rank": 165,
+        "Score": 44
+    },
+    {
+        "Name": "Libya",
+        "CODE": "LBY",
+        "Year": "2022",
+        "Rank": 143,
+        "Score": 43
+    },
+    {
+        "Name": "Libya",
+        "CODE": "LBY",
+        "Year": "2023",
+        "Rank": 149,
+        "Score": 40
+    },
+    {
+        "Name": "Libya",
+        "CODE": "LBY",
+        "Year": "2024",
+        "Rank": 143,
+        "Score": 41
+    },
+    {
+        "Name": "Liechtenstein",
+        "CODE": "LIE",
+        "Year": "2019",
+        "Rank": 26,
+        "Score": 80
+    },
+    {
+        "Name": "Liechtenstein",
+        "CODE": "LIE",
+        "Year": "2020",
+        "Rank": 24,
+        "Score": 80
+    },
+    {
+        "Name": "Liechtenstein",
+        "CODE": "LIE",
+        "Year": "2021",
+        "Rank": 23,
+        "Score": 81
+    },
+    {
+        "Name": "Liechtenstein",
+        "CODE": "LIE",
+        "Year": "2022",
+        "Rank": 10,
+        "Score": 84
+    },
+    {
+        "Name": "Liechtenstein",
+        "CODE": "LIE",
+        "Year": "2023",
+        "Rank": 11,
+        "Score": 84
+    },
+    {
+        "Name": "Liechtenstein",
+        "CODE": "LIE",
+        "Year": "2024",
+        "Rank": 15,
+        "Score": 82
+    },
+    {
+        "Name": "Lithuania",
+        "CODE": "LTU",
+        "Year": "2019",
+        "Rank": 30,
+        "Score": 78
+    },
+    {
+        "Name": "Lithuania",
+        "CODE": "LTU",
+        "Year": "2020",
+        "Rank": 28,
+        "Score": 79
+    },
+    {
+        "Name": "Lithuania",
+        "CODE": "LTU",
+        "Year": "2021",
+        "Rank": 28,
+        "Score": 80
+    },
+    {
+        "Name": "Lithuania",
+        "CODE": "LTU",
+        "Year": "2022",
+        "Rank": 9,
+        "Score": 84
+    },
+    {
+        "Name": "Lithuania",
+        "CODE": "LTU",
+        "Year": "2023",
+        "Rank": 7,
+        "Score": 87
+    },
+    {
+        "Name": "Lithuania",
+        "CODE": "LTU",
+        "Year": "2024",
+        "Rank": 13,
+        "Score": 82
+    },
+    {
+        "Name": "Luxembourg",
+        "CODE": "LUX",
+        "Year": "2019",
+        "Rank": 17,
+        "Score": 84
+    },
+    {
+        "Name": "Luxembourg",
+        "CODE": "LUX",
+        "Year": "2020",
+        "Rank": 17,
+        "Score": 85
+    },
+    {
+        "Name": "Luxembourg",
+        "CODE": "LUX",
+        "Year": "2021",
+        "Rank": 20,
+        "Score": 82
+    },
+    {
+        "Name": "Luxembourg",
+        "CODE": "LUX",
+        "Year": "2022",
+        "Rank": 21,
+        "Score": 80
+    },
+    {
+        "Name": "Luxembourg",
+        "CODE": "LUX",
+        "Year": "2023",
+        "Rank": 20,
+        "Score": 82
+    },
+    {
+        "Name": "Luxembourg",
+        "CODE": "LUX",
+        "Year": "2024",
+        "Rank": 11,
+        "Score": 84
+    },
+    {
+        "Name": "Madagascar",
+        "CODE": "MDG",
+        "Year": "2019",
+        "Rank": 54,
+        "Score": 72
+    },
+    {
+        "Name": "Madagascar",
+        "CODE": "MDG",
+        "Year": "2020",
+        "Rank": 54,
+        "Score": 72
+    },
+    {
+        "Name": "Madagascar",
+        "CODE": "MDG",
+        "Year": "2021",
+        "Rank": 57,
+        "Score": 72
+    },
+    {
+        "Name": "Madagascar",
+        "CODE": "MDG",
+        "Year": "2022",
+        "Rank": 98,
+        "Score": 58
+    },
+    {
+        "Name": "Madagascar",
+        "CODE": "MDG",
+        "Year": "2023",
+        "Rank": 101,
+        "Score": 57
+    },
+    {
+        "Name": "Madagascar",
+        "CODE": "MDG",
+        "Year": "2024",
+        "Rank": 100,
+        "Score": 54
+    },
+    {
+        "Name": "Malawi",
+        "CODE": "MWI",
+        "Year": "2019",
+        "Rank": 68,
+        "Score": 71
+    },
+    {
+        "Name": "Malawi",
+        "CODE": "MWI",
+        "Year": "2020",
+        "Rank": 69,
+        "Score": 71
+    },
+    {
+        "Name": "Malawi",
+        "CODE": "MWI",
+        "Year": "2021",
+        "Rank": 62,
+        "Score": 71
+    },
+    {
+        "Name": "Malawi",
+        "CODE": "MWI",
+        "Year": "2022",
+        "Rank": 80,
+        "Score": 61
+    },
+    {
+        "Name": "Malawi",
+        "CODE": "MWI",
+        "Year": "2023",
+        "Rank": 82,
+        "Score": 60
+    },
+    {
+        "Name": "Malawi",
+        "CODE": "MWI",
+        "Year": "2024",
+        "Rank": 63,
+        "Score": 64
+    },
+    {
+        "Name": "Malaysia",
+        "CODE": "MYS",
+        "Year": "2019",
+        "Rank": 123,
+        "Score": 63
+    },
+    {
+        "Name": "Malaysia",
+        "CODE": "MYS",
+        "Year": "2020",
+        "Rank": 101,
+        "Score": 67
+    },
+    {
+        "Name": "Malaysia",
+        "CODE": "MYS",
+        "Year": "2021",
+        "Rank": 119,
+        "Score": 61
+    },
+    {
+        "Name": "Malaysia",
+        "CODE": "MYS",
+        "Year": "2022",
+        "Rank": 113,
+        "Score": 52
+    },
+    {
+        "Name": "Malaysia",
+        "CODE": "MYS",
+        "Year": "2023",
+        "Rank": 73,
+        "Score": 63
+    },
+    {
+        "Name": "Malaysia",
+        "CODE": "MYS",
+        "Year": "2024",
+        "Rank": 107,
+        "Score": 52
+    },
+    {
+        "Name": "Maldives",
+        "CODE": "MDV",
+        "Year": "2019",
+        "Rank": 98,
+        "Score": 68
+    },
+    {
+        "Name": "Maldives",
+        "CODE": "MDV",
+        "Year": "2020",
+        "Rank": 79,
+        "Score": 70
+    },
+    {
+        "Name": "Maldives",
+        "CODE": "MDV",
+        "Year": "2021",
+        "Rank": 72,
+        "Score": 71
+    },
+    {
+        "Name": "Maldives",
+        "CODE": "MDV",
+        "Year": "2022",
+        "Rank": 87,
+        "Score": 60
+    },
+    {
+        "Name": "Maldives",
+        "CODE": "MDV",
+        "Year": "2023",
+        "Rank": 100,
+        "Score": 57
+    },
+    {
+        "Name": "Maldives",
+        "CODE": "MDV",
+        "Year": "2024",
+        "Rank": 106,
+        "Score": 52
+    },
+    {
+        "Name": "Mali",
+        "CODE": "MLI",
+        "Year": "2019",
+        "Rank": 112,
+        "Score": 65
+    },
+    {
+        "Name": "Mali",
+        "CODE": "MLI",
+        "Year": "2020",
+        "Rank": 108,
+        "Score": 66
+    },
+    {
+        "Name": "Mali",
+        "CODE": "MLI",
+        "Year": "2021",
+        "Rank": 99,
+        "Score": 66
+    },
+    {
+        "Name": "Mali",
+        "CODE": "MLI",
+        "Year": "2022",
+        "Rank": 111,
+        "Score": 54
+    },
+    {
+        "Name": "Mali",
+        "CODE": "MLI",
+        "Year": "2023",
+        "Rank": 113,
+        "Score": 52
+    },
+    {
+        "Name": "Mali",
+        "CODE": "MLI",
+        "Year": "2024",
+        "Rank": 114,
+        "Score": 51
+    },
+    {
+        "Name": "Malta",
+        "CODE": "MLT",
+        "Year": "2019",
+        "Rank": 77,
+        "Score": 70
+    },
+    {
+        "Name": "Malta",
+        "CODE": "MLT",
+        "Year": "2020",
+        "Rank": 81,
+        "Score": 70
+    },
+    {
+        "Name": "Malta",
+        "CODE": "MLT",
+        "Year": "2021",
+        "Rank": 81,
+        "Score": 70
+    },
+    {
+        "Name": "Malta",
+        "CODE": "MLT",
+        "Year": "2022",
+        "Rank": 78,
+        "Score": 62
+    },
+    {
+        "Name": "Malta",
+        "CODE": "MLT",
+        "Year": "2023",
+        "Rank": 84,
+        "Score": 60
+    },
+    {
+        "Name": "Malta",
+        "CODE": "MLT",
+        "Year": "2024",
+        "Rank": 73,
+        "Score": 61
+    },
+    {
+        "Name": "Mauritania",
+        "CODE": "MRT",
+        "Year": "2019",
+        "Rank": 94,
+        "Score": 68
+    },
+    {
+        "Name": "Mauritania",
+        "CODE": "MRT",
+        "Year": "2020",
+        "Rank": 97,
+        "Score": 67
+    },
+    {
+        "Name": "Mauritania",
+        "CODE": "MRT",
+        "Year": "2021",
+        "Rank": 94,
+        "Score": 68
+    },
+    {
+        "Name": "Mauritania",
+        "CODE": "MRT",
+        "Year": "2022",
+        "Rank": 97,
+        "Score": 58
+    },
+    {
+        "Name": "Mauritania",
+        "CODE": "MRT",
+        "Year": "2023",
+        "Rank": 86,
+        "Score": 59
+    },
+    {
+        "Name": "Mauritania",
+        "CODE": "MRT",
+        "Year": "2024",
+        "Rank": 33,
+        "Score": 74
+    },
+    {
+        "Name": "Mauritius",
+        "CODE": "MUS",
+        "Year": "2019",
+        "Rank": 58,
+        "Score": 72
+    },
+    {
+        "Name": "Mauritius",
+        "CODE": "MUS",
+        "Year": "2020",
+        "Rank": 56,
+        "Score": 72
+    },
+    {
+        "Name": "Mauritius",
+        "CODE": "MUS",
+        "Year": "2021",
+        "Rank": 61,
+        "Score": 71
+    },
+    {
+        "Name": "Mauritius",
+        "CODE": "MUS",
+        "Year": "2022",
+        "Rank": 64,
+        "Score": 66
+    },
+    {
+        "Name": "Mauritius",
+        "CODE": "MUS",
+        "Year": "2023",
+        "Rank": 63,
+        "Score": 66
+    },
+    {
+        "Name": "Mauritius",
+        "CODE": "MUS",
+        "Year": "2024",
+        "Rank": 57,
+        "Score": 66
+    },
+    {
+        "Name": "Mexico",
+        "CODE": "MEX",
+        "Year": "2019",
+        "Rank": 144,
+        "Score": 53
+    },
+    {
+        "Name": "Mexico",
+        "CODE": "MEX",
+        "Year": "2020",
+        "Rank": 143,
+        "Score": 55
+    },
+    {
+        "Name": "Mexico",
+        "CODE": "MEX",
+        "Year": "2021",
+        "Rank": 143,
+        "Score": 53
+    },
+    {
+        "Name": "Mexico",
+        "CODE": "MEX",
+        "Year": "2022",
+        "Rank": 127,
+        "Score": 48
+    },
+    {
+        "Name": "Mexico",
+        "CODE": "MEX",
+        "Year": "2023",
+        "Rank": 128,
+        "Score": 48
+    },
+    {
+        "Name": "Mexico",
+        "CODE": "MEX",
+        "Year": "2024",
+        "Rank": 121,
+        "Score": 49
+    },
+    {
+        "Name": "Moldova, republic of",
+        "CODE": "MDA",
+        "Year": "2019",
+        "Rank": 91,
+        "Score": 69
+    },
+    {
+        "Name": "Moldova, republic of",
+        "CODE": "MDA",
+        "Year": "2020",
+        "Rank": 91,
+        "Score": 69
+    },
+    {
+        "Name": "Moldova, republic of",
+        "CODE": "MDA",
+        "Year": "2021",
+        "Rank": 89,
+        "Score": 68
+    },
+    {
+        "Name": "Moldova, republic of",
+        "CODE": "MDA",
+        "Year": "2022",
+        "Rank": 40,
+        "Score": 73
+    },
+    {
+        "Name": "Moldova, republic of",
+        "CODE": "MDA",
+        "Year": "2023",
+        "Rank": 28,
+        "Score": 78
+    },
+    {
+        "Name": "Moldova, republic of",
+        "CODE": "MDA",
+        "Year": "2024",
+        "Rank": 31,
+        "Score": 75
+    },
+    {
+        "Name": "Mongolia",
+        "CODE": "MNG",
+        "Year": "2019",
+        "Rank": 70,
+        "Score": 70
+    },
+    {
+        "Name": "Mongolia",
+        "CODE": "MNG",
+        "Year": "2020",
+        "Rank": 73,
+        "Score": 70
+    },
+    {
+        "Name": "Mongolia",
+        "CODE": "MNG",
+        "Year": "2021",
+        "Rank": 68,
+        "Score": 71
+    },
+    {
+        "Name": "Mongolia",
+        "CODE": "MNG",
+        "Year": "2022",
+        "Rank": 90,
+        "Score": 59
+    },
+    {
+        "Name": "Mongolia",
+        "CODE": "MNG",
+        "Year": "2023",
+        "Rank": 88,
+        "Score": 59
+    },
+    {
+        "Name": "Mongolia",
+        "CODE": "MNG",
+        "Year": "2024",
+        "Rank": 109,
+        "Score": 51
+    },
+    {
+        "Name": "Montenegro",
+        "CODE": "MNE",
+        "Year": "2019",
+        "Rank": 104,
+        "Score": 67
+    },
+    {
+        "Name": "Montenegro",
+        "CODE": "MNE",
+        "Year": "2020",
+        "Rank": 105,
+        "Score": 66
+    },
+    {
+        "Name": "Montenegro",
+        "CODE": "MNE",
+        "Year": "2021",
+        "Rank": 104,
+        "Score": 66
+    },
+    {
+        "Name": "Montenegro",
+        "CODE": "MNE",
+        "Year": "2022",
+        "Rank": 63,
+        "Score": 67
+    },
+    {
+        "Name": "Montenegro",
+        "CODE": "MNE",
+        "Year": "2023",
+        "Rank": 39,
+        "Score": 74
+    },
+    {
+        "Name": "Montenegro",
+        "CODE": "MNE",
+        "Year": "2024",
+        "Rank": 40,
+        "Score": 73
+    },
+    {
+        "Name": "Morocco",
+        "CODE": "MAR",
+        "Year": "2019",
+        "Rank": 135,
+        "Score": 56
+    },
+    {
+        "Name": "Morocco",
+        "CODE": "MAR",
+        "Year": "2020",
+        "Rank": 133,
+        "Score": 57
+    },
+    {
+        "Name": "Morocco",
+        "CODE": "MAR",
+        "Year": "2021",
+        "Rank": 136,
+        "Score": 56
+    },
+    {
+        "Name": "Morocco",
+        "CODE": "MAR",
+        "Year": "2022",
+        "Rank": 135,
+        "Score": 45
+    },
+    {
+        "Name": "Morocco",
+        "CODE": "MAR",
+        "Year": "2023",
+        "Rank": 144,
+        "Score": 44
+    },
+    {
+        "Name": "Morocco",
+        "CODE": "MAR",
+        "Year": "2024",
+        "Rank": 129,
+        "Score": 46
+    },
+    {
+        "Name": "Mozambique",
+        "CODE": "MOZ",
+        "Year": "2019",
+        "Rank": 103,
+        "Score": 67
+    },
+    {
+        "Name": "Mozambique",
+        "CODE": "MOZ",
+        "Year": "2020",
+        "Rank": 104,
+        "Score": 66
+    },
+    {
+        "Name": "Mozambique",
+        "CODE": "MOZ",
+        "Year": "2021",
+        "Rank": 108,
+        "Score": 65
+    },
+    {
+        "Name": "Mozambique",
+        "CODE": "MOZ",
+        "Year": "2022",
+        "Rank": 116,
+        "Score": 50
+    },
+    {
+        "Name": "Mozambique",
+        "CODE": "MOZ",
+        "Year": "2023",
+        "Rank": 102,
+        "Score": 56
+    },
+    {
+        "Name": "Mozambique",
+        "CODE": "MOZ",
+        "Year": "2024",
+        "Rank": 105,
+        "Score": 52
+    },
+    {
+        "Name": "Myanmar",
+        "CODE": "MMR",
+        "Year": "2019",
+        "Rank": 138,
+        "Score": 55
+    },
+    {
+        "Name": "Myanmar",
+        "CODE": "MMR",
+        "Year": "2020",
+        "Rank": 139,
+        "Score": 55
+    },
+    {
+        "Name": "Myanmar",
+        "CODE": "MMR",
+        "Year": "2021",
+        "Rank": 140,
+        "Score": 54
+    },
+    {
+        "Name": "Myanmar",
+        "CODE": "MMR",
+        "Year": "2022",
+        "Rank": 176,
+        "Score": 25
+    },
+    {
+        "Name": "Myanmar",
+        "CODE": "MMR",
+        "Year": "2023",
+        "Rank": 173,
+        "Score": 28
+    },
+    {
+        "Name": "Myanmar",
+        "CODE": "MMR",
+        "Year": "2024",
+        "Rank": 171,
+        "Score": 24
+    },
+    {
+        "Name": "Namibia",
+        "CODE": "NAM",
+        "Year": "2019",
+        "Rank": 23,
+        "Score": 81
+    },
+    {
+        "Name": "Namibia",
+        "CODE": "NAM",
+        "Year": "2020",
+        "Rank": 23,
+        "Score": 81
+    },
+    {
+        "Name": "Namibia",
+        "CODE": "NAM",
+        "Year": "2021",
+        "Rank": 24,
+        "Score": 80
+    },
+    {
+        "Name": "Namibia",
+        "CODE": "NAM",
+        "Year": "2022",
+        "Rank": 18,
+        "Score": 82
+    },
+    {
+        "Name": "Namibia",
+        "CODE": "NAM",
+        "Year": "2023",
+        "Rank": 22,
+        "Score": 81
+    },
+    {
+        "Name": "Namibia",
+        "CODE": "NAM",
+        "Year": "2024",
+        "Rank": 34,
+        "Score": 74
+    },
+    {
+        "Name": "Nepal",
+        "CODE": "NPL",
+        "Year": "2019",
+        "Rank": 106,
+        "Score": 67
+    },
+    {
+        "Name": "Nepal",
+        "CODE": "NPL",
+        "Year": "2020",
+        "Rank": 112,
+        "Score": 65
+    },
+    {
+        "Name": "Nepal",
+        "CODE": "NPL",
+        "Year": "2021",
+        "Rank": 106,
+        "Score": 65
+    },
+    {
+        "Name": "Nepal",
+        "CODE": "NPL",
+        "Year": "2022",
+        "Rank": 76,
+        "Score": 63
+    },
+    {
+        "Name": "Nepal",
+        "CODE": "NPL",
+        "Year": "2023",
+        "Rank": 95,
+        "Score": 58
+    },
+    {
+        "Name": "Nepal",
+        "CODE": "NPL",
+        "Year": "2024",
+        "Rank": 74,
+        "Score": 61
+    },
+    {
+        "Name": "Netherlands",
+        "CODE": "NLD",
+        "Year": "2019",
+        "Rank": 4,
+        "Score": 91
+    },
+    {
+        "Name": "Netherlands",
+        "CODE": "NLD",
+        "Year": "2020",
+        "Rank": 5,
+        "Score": 90
+    },
+    {
+        "Name": "Netherlands",
+        "CODE": "NLD",
+        "Year": "2021",
+        "Rank": 6,
+        "Score": 90
+    },
+    {
+        "Name": "Netherlands",
+        "CODE": "NLD",
+        "Year": "2022",
+        "Rank": 28,
+        "Score": 78
+    },
+    {
+        "Name": "Netherlands",
+        "CODE": "NLD",
+        "Year": "2023",
+        "Rank": 6,
+        "Score": 87
+    },
+    {
+        "Name": "Netherlands",
+        "CODE": "NLD",
+        "Year": "2024",
+        "Rank": 4,
+        "Score": 88
+    },
+    {
+        "Name": "New zealand",
+        "CODE": "NZL",
+        "Year": "2019",
+        "Rank": 7,
+        "Score": 89
+    },
+    {
+        "Name": "New zealand",
+        "CODE": "NZL",
+        "Year": "2020",
+        "Rank": 9,
+        "Score": 89
+    },
+    {
+        "Name": "New zealand",
+        "CODE": "NZL",
+        "Year": "2021",
+        "Rank": 8,
+        "Score": 90
+    },
+    {
+        "Name": "New zealand",
+        "CODE": "NZL",
+        "Year": "2022",
+        "Rank": 11,
+        "Score": 84
+    },
+    {
+        "Name": "New zealand",
+        "CODE": "NZL",
+        "Year": "2023",
+        "Rank": 13,
+        "Score": 84
+    },
+    {
+        "Name": "New zealand",
+        "CODE": "NZL",
+        "Year": "2024",
+        "Rank": 19,
+        "Score": 80
+    },
+    {
+        "Name": "Nicaragua",
+        "CODE": "NIC",
+        "Year": "2019",
+        "Rank": 114,
+        "Score": 64
+    },
+    {
+        "Name": "Nicaragua",
+        "CODE": "NIC",
+        "Year": "2020",
+        "Rank": 117,
+        "Score": 64
+    },
+    {
+        "Name": "Nicaragua",
+        "CODE": "NIC",
+        "Year": "2021",
+        "Rank": 121,
+        "Score": 60
+    },
+    {
+        "Name": "Nicaragua",
+        "CODE": "NIC",
+        "Year": "2022",
+        "Rank": 160,
+        "Score": 37
+    },
+    {
+        "Name": "Nicaragua",
+        "CODE": "NIC",
+        "Year": "2023",
+        "Rank": 158,
+        "Score": 37
+    },
+    {
+        "Name": "Nicaragua",
+        "CODE": "NIC",
+        "Year": "2024",
+        "Rank": 163,
+        "Score": 29
+    },
+    {
+        "Name": "Niger",
+        "CODE": "NER",
+        "Year": "2019",
+        "Rank": 66,
+        "Score": 71
+    },
+    {
+        "Name": "Niger",
+        "CODE": "NER",
+        "Year": "2020",
+        "Rank": 57,
+        "Score": 72
+    },
+    {
+        "Name": "Niger",
+        "CODE": "NER",
+        "Year": "2021",
+        "Rank": 59,
+        "Score": 72
+    },
+    {
+        "Name": "Niger",
+        "CODE": "NER",
+        "Year": "2022",
+        "Rank": 59,
+        "Score": 68
+    },
+    {
+        "Name": "Niger",
+        "CODE": "NER",
+        "Year": "2023",
+        "Rank": 61,
+        "Score": 67
+    },
+    {
+        "Name": "Niger",
+        "CODE": "NER",
+        "Year": "2024",
+        "Rank": 80,
+        "Score": 60
+    },
+    {
+        "Name": "Nigeria",
+        "CODE": "NGA",
+        "Year": "2019",
+        "Rank": 120,
+        "Score": 64
+    },
+    {
+        "Name": "Nigeria",
+        "CODE": "NGA",
+        "Year": "2020",
+        "Rank": 115,
+        "Score": 64
+    },
+    {
+        "Name": "Nigeria",
+        "CODE": "NGA",
+        "Year": "2021",
+        "Rank": 120,
+        "Score": 60
+    },
+    {
+        "Name": "Nigeria",
+        "CODE": "NGA",
+        "Year": "2022",
+        "Rank": 129,
+        "Score": 47
+    },
+    {
+        "Name": "Nigeria",
+        "CODE": "NGA",
+        "Year": "2023",
+        "Rank": 123,
+        "Score": 50
+    },
+    {
+        "Name": "Nigeria",
+        "CODE": "NGA",
+        "Year": "2024",
+        "Rank": 112,
+        "Score": 51
+    },
+    {
+        "Name": "North Korea",
+        "CODE": "PRK",
+        "Year": "2019",
+        "Rank": 179,
+        "Score": 17
+    },
+    {
+        "Name": "North Korea",
+        "CODE": "PRK",
+        "Year": "2020",
+        "Rank": 180,
+        "Score": 14
+    },
+    {
+        "Name": "North Korea",
+        "CODE": "PRK",
+        "Year": "2021",
+        "Rank": 179,
+        "Score": 19
+    },
+    {
+        "Name": "North Korea",
+        "CODE": "PRK",
+        "Year": "2022",
+        "Rank": 180,
+        "Score": 14
+    },
+    {
+        "Name": "North Korea",
+        "CODE": "PRK",
+        "Year": "2023",
+        "Rank": 180,
+        "Score": 22
+    },
+    {
+        "Name": "North Korea",
+        "CODE": "PRK",
+        "Year": "2024",
+        "Rank": 177,
+        "Score": 21
+    },
+    {
+        "Name": "North macedonia",
+        "CODE": "MKD",
+        "Year": "2019",
+        "Rank": 95,
+        "Score": 68
+    },
+    {
+        "Name": "North macedonia",
+        "CODE": "MKD",
+        "Year": "2020",
+        "Rank": 92,
+        "Score": 69
+    },
+    {
+        "Name": "North macedonia",
+        "CODE": "MKD",
+        "Year": "2021",
+        "Rank": 90,
+        "Score": 68
+    },
+    {
+        "Name": "North macedonia",
+        "CODE": "MKD",
+        "Year": "2022",
+        "Rank": 57,
+        "Score": 68
+    },
+    {
+        "Name": "North macedonia",
+        "CODE": "MKD",
+        "Year": "2023",
+        "Rank": 38,
+        "Score": 74
+    },
+    {
+        "Name": "North macedonia",
+        "CODE": "MKD",
+        "Year": "2024",
+        "Rank": 36,
+        "Score": 74
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2019",
+        "Rank": 74,
+        "Score": 70
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2020",
+        "Rank": 77,
+        "Score": 70
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2021",
+        "Rank": 76,
+        "Score": 70
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2022",
+        "Rank": 81,
+        "Score": 61
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2023",
+        "Rank": 76,
+        "Score": 62
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2024",
+        "Rank": 90,
+        "Score": 57
+    },
+    {
+        "Name": "Norway",
+        "CODE": "NOR",
+        "Year": "2019",
+        "Rank": 1,
+        "Score": 92
+    },
+    {
+        "Name": "Norway",
+        "CODE": "NOR",
+        "Year": "2020",
+        "Rank": 1,
+        "Score": 92
+    },
+    {
+        "Name": "Norway",
+        "CODE": "NOR",
+        "Year": "2021",
+        "Rank": 1,
+        "Score": 93
+    },
+    {
+        "Name": "Norway",
+        "CODE": "NOR",
+        "Year": "2022",
+        "Rank": 1,
+        "Score": 93
+    },
+    {
+        "Name": "Norway",
+        "CODE": "NOR",
+        "Year": "2023",
+        "Rank": 1,
+        "Score": 95
+    },
+    {
+        "Name": "Norway",
+        "CODE": "NOR",
+        "Year": "2024",
+        "Rank": 1,
+        "Score": 92
+    },
+    {
+        "Name": "Oman",
+        "CODE": "OMN",
+        "Year": "2019",
+        "Rank": 132,
+        "Score": 57
+    },
+    {
+        "Name": "Oman",
+        "CODE": "OMN",
+        "Year": "2020",
+        "Rank": 135,
+        "Score": 57
+    },
+    {
+        "Name": "Oman",
+        "CODE": "OMN",
+        "Year": "2021",
+        "Rank": 133,
+        "Score": 57
+    },
+    {
+        "Name": "Oman",
+        "CODE": "OMN",
+        "Year": "2022",
+        "Rank": 163,
+        "Score": 36
+    },
+    {
+        "Name": "Oman",
+        "CODE": "OMN",
+        "Year": "2023",
+        "Rank": 155,
+        "Score": 38
+    },
+    {
+        "Name": "Oman",
+        "CODE": "OMN",
+        "Year": "2024",
+        "Rank": 137,
+        "Score": 43
+    },
+    {
+        "Name": "Pakistan",
+        "CODE": "PAK",
+        "Year": "2019",
+        "Rank": 142,
+        "Score": 54
+    },
+    {
+        "Name": "Pakistan",
+        "CODE": "PAK",
+        "Year": "2020",
+        "Rank": 145,
+        "Score": 54
+    },
+    {
+        "Name": "Pakistan",
+        "CODE": "PAK",
+        "Year": "2021",
+        "Rank": 145,
+        "Score": 53
+    },
+    {
+        "Name": "Pakistan",
+        "CODE": "PAK",
+        "Year": "2022",
+        "Rank": 157,
+        "Score": 38
+    },
+    {
+        "Name": "Pakistan",
+        "CODE": "PAK",
+        "Year": "2023",
+        "Rank": 150,
+        "Score": 40
+    },
+    {
+        "Name": "Pakistan",
+        "CODE": "PAK",
+        "Year": "2024",
+        "Rank": 152,
+        "Score": 34
+    },
+    {
+        "Name": "Palestine, state of",
+        "CODE": "PSE",
+        "Year": "2019",
+        "Rank": 137,
+        "Score": 55
+    },
+    {
+        "Name": "Palestine, state of",
+        "CODE": "PSE",
+        "Year": "2020",
+        "Rank": 137,
+        "Score": 56
+    },
+    {
+        "Name": "Palestine, state of",
+        "CODE": "PSE",
+        "Year": "2021",
+        "Rank": 132,
+        "Score": 57
+    },
+    {
+        "Name": "Palestine, state of",
+        "CODE": "PSE",
+        "Year": "2022",
+        "Rank": 170,
+        "Score": 29
+    },
+    {
+        "Name": "Palestine, state of",
+        "CODE": "PSE",
+        "Year": "2023",
+        "Rank": 156,
+        "Score": 38
+    },
+    {
+        "Name": "Palestine, state of",
+        "CODE": "PSE",
+        "Year": "2024",
+        "Rank": 157,
+        "Score": 32
+    },
+    {
+        "Name": "Panama",
+        "CODE": "PAN",
+        "Year": "2019",
+        "Rank": 79,
+        "Score": 70
+    },
+    {
+        "Name": "Panama",
+        "CODE": "PAN",
+        "Year": "2020",
+        "Rank": 76,
+        "Score": 70
+    },
+    {
+        "Name": "Panama",
+        "CODE": "PAN",
+        "Year": "2021",
+        "Rank": 77,
+        "Score": 70
+    },
+    {
+        "Name": "Panama",
+        "CODE": "PAN",
+        "Year": "2022",
+        "Rank": 74,
+        "Score": 63
+    },
+    {
+        "Name": "Panama",
+        "CODE": "PAN",
+        "Year": "2023",
+        "Rank": 69,
+        "Score": 64
+    },
+    {
+        "Name": "Panama",
+        "CODE": "PAN",
+        "Year": "2024",
+        "Rank": 83,
+        "Score": 59
+    },
+    {
+        "Name": "Papua new guinea",
+        "CODE": "PNG",
+        "Year": "2019",
+        "Rank": 38,
+        "Score": 75
+    },
+    {
+        "Name": "Papua new guinea",
+        "CODE": "PNG",
+        "Year": "2020",
+        "Rank": 46,
+        "Score": 76
+    },
+    {
+        "Name": "Papua new guinea",
+        "CODE": "PNG",
+        "Year": "2021",
+        "Rank": 47,
+        "Score": 75
+    },
+    {
+        "Name": "Papua new guinea",
+        "CODE": "PNG",
+        "Year": "2022",
+        "Rank": 62,
+        "Score": 67
+    },
+    {
+        "Name": "Papua new guinea",
+        "CODE": "PNG",
+        "Year": "2023",
+        "Rank": 59,
+        "Score": 68
+    },
+    {
+        "Name": "Papua new guinea",
+        "CODE": "PNG",
+        "Year": "2024",
+        "Rank": 91,
+        "Score": 56
+    },
+    {
+        "Name": "Paraguay",
+        "CODE": "PRY",
+        "Year": "2019",
+        "Rank": 99,
+        "Score": 68
+    },
+    {
+        "Name": "Paraguay",
+        "CODE": "PRY",
+        "Year": "2020",
+        "Rank": 100,
+        "Score": 67
+    },
+    {
+        "Name": "Paraguay",
+        "CODE": "PRY",
+        "Year": "2021",
+        "Rank": 100,
+        "Score": 66
+    },
+    {
+        "Name": "Paraguay",
+        "CODE": "PRY",
+        "Year": "2022",
+        "Rank": 96,
+        "Score": 58
+    },
+    {
+        "Name": "Paraguay",
+        "CODE": "PRY",
+        "Year": "2023",
+        "Rank": 103,
+        "Score": 56
+    },
+    {
+        "Name": "Paraguay",
+        "CODE": "PRY",
+        "Year": "2024",
+        "Rank": 115,
+        "Score": 50
+    },
+    {
+        "Name": "Peru",
+        "CODE": "PER",
+        "Year": "2019",
+        "Rank": 85,
+        "Score": 70
+    },
+    {
+        "Name": "Peru",
+        "CODE": "PER",
+        "Year": "2020",
+        "Rank": 90,
+        "Score": 69
+    },
+    {
+        "Name": "Peru",
+        "CODE": "PER",
+        "Year": "2021",
+        "Rank": 91,
+        "Score": 68
+    },
+    {
+        "Name": "Peru",
+        "CODE": "PER",
+        "Year": "2022",
+        "Rank": 77,
+        "Score": 62
+    },
+    {
+        "Name": "Peru",
+        "CODE": "PER",
+        "Year": "2023",
+        "Rank": 110,
+        "Score": 53
+    },
+    {
+        "Name": "Peru",
+        "CODE": "PER",
+        "Year": "2024",
+        "Rank": 125,
+        "Score": 48
+    },
+    {
+        "Name": "Philippines",
+        "CODE": "PHL",
+        "Year": "2019",
+        "Rank": 134,
+        "Score": 56
+    },
+    {
+        "Name": "Philippines",
+        "CODE": "PHL",
+        "Year": "2020",
+        "Rank": 136,
+        "Score": 56
+    },
+    {
+        "Name": "Philippines",
+        "CODE": "PHL",
+        "Year": "2021",
+        "Rank": 138,
+        "Score": 54
+    },
+    {
+        "Name": "Philippines",
+        "CODE": "PHL",
+        "Year": "2022",
+        "Rank": 147,
+        "Score": 42
+    },
+    {
+        "Name": "Philippines",
+        "CODE": "PHL",
+        "Year": "2023",
+        "Rank": 132,
+        "Score": 46
+    },
+    {
+        "Name": "Philippines",
+        "CODE": "PHL",
+        "Year": "2024",
+        "Rank": 134,
+        "Score": 43
+    },
+    {
+        "Name": "Poland",
+        "CODE": "POL",
+        "Year": "2019",
+        "Rank": 59,
+        "Score": 71
+    },
+    {
+        "Name": "Poland",
+        "CODE": "POL",
+        "Year": "2020",
+        "Rank": 62,
+        "Score": 71
+    },
+    {
+        "Name": "Poland",
+        "CODE": "POL",
+        "Year": "2021",
+        "Rank": 64,
+        "Score": 71
+    },
+    {
+        "Name": "Poland",
+        "CODE": "POL",
+        "Year": "2022",
+        "Rank": 66,
+        "Score": 66
+    },
+    {
+        "Name": "Poland",
+        "CODE": "POL",
+        "Year": "2023",
+        "Rank": 57,
+        "Score": 68
+    },
+    {
+        "Name": "Poland",
+        "CODE": "POL",
+        "Year": "2024",
+        "Rank": 47,
+        "Score": 69
+    },
+    {
+        "Name": "Portugal",
+        "CODE": "PRT",
+        "Year": "2019",
+        "Rank": 12,
+        "Score": 87
+    },
+    {
+        "Name": "Portugal",
+        "CODE": "PRT",
+        "Year": "2020",
+        "Rank": 10,
+        "Score": 88
+    },
+    {
+        "Name": "Portugal",
+        "CODE": "PRT",
+        "Year": "2021",
+        "Rank": 9,
+        "Score": 90
+    },
+    {
+        "Name": "Portugal",
+        "CODE": "PRT",
+        "Year": "2022",
+        "Rank": 7,
+        "Score": 87
+    },
+    {
+        "Name": "Portugal",
+        "CODE": "PRT",
+        "Year": "2023",
+        "Rank": 9,
+        "Score": 85
+    },
+    {
+        "Name": "Portugal",
+        "CODE": "PRT",
+        "Year": "2024",
+        "Rank": 7,
+        "Score": 86
+    },
+    {
+        "Name": "Qatar",
+        "CODE": "QAT",
+        "Year": "2019",
+        "Rank": 128,
+        "Score": 57
+    },
+    {
+        "Name": "Qatar",
+        "CODE": "QAT",
+        "Year": "2020",
+        "Rank": 129,
+        "Score": 57
+    },
+    {
+        "Name": "Qatar",
+        "CODE": "QAT",
+        "Year": "2021",
+        "Rank": 128,
+        "Score": 57
+    },
+    {
+        "Name": "Qatar",
+        "CODE": "QAT",
+        "Year": "2022",
+        "Rank": 119,
+        "Score": 49
+    },
+    {
+        "Name": "Qatar",
+        "CODE": "QAT",
+        "Year": "2023",
+        "Rank": 105,
+        "Score": 55
+    },
+    {
+        "Name": "Qatar",
+        "CODE": "QAT",
+        "Year": "2024",
+        "Rank": 84,
+        "Score": 58
+    },
+    {
+        "Name": "Romania",
+        "CODE": "ROU",
+        "Year": "2019",
+        "Rank": 47,
+        "Score": 74
+    },
+    {
+        "Name": "Romania",
+        "CODE": "ROU",
+        "Year": "2020",
+        "Rank": 48,
+        "Score": 74
+    },
+    {
+        "Name": "Romania",
+        "CODE": "ROU",
+        "Year": "2021",
+        "Rank": 48,
+        "Score": 75
+    },
+    {
+        "Name": "Romania",
+        "CODE": "ROU",
+        "Year": "2022",
+        "Rank": 56,
+        "Score": 68
+    },
+    {
+        "Name": "Romania",
+        "CODE": "ROU",
+        "Year": "2023",
+        "Rank": 53,
+        "Score": 69
+    },
+    {
+        "Name": "Romania",
+        "CODE": "ROU",
+        "Year": "2024",
+        "Rank": 49,
+        "Score": 68
+    },
+    {
+        "Name": "Russian federation",
+        "CODE": "RUS",
+        "Year": "2019",
+        "Rank": 149,
+        "Score": 50
+    },
+    {
+        "Name": "Russian federation",
+        "CODE": "RUS",
+        "Year": "2020",
+        "Rank": 149,
+        "Score": 51
+    },
+    {
+        "Name": "Russian federation",
+        "CODE": "RUS",
+        "Year": "2021",
+        "Rank": 150,
+        "Score": 51
+    },
+    {
+        "Name": "Russian federation",
+        "CODE": "RUS",
+        "Year": "2022",
+        "Rank": 155,
+        "Score": 39
+    },
+    {
+        "Name": "Russian federation",
+        "CODE": "RUS",
+        "Year": "2023",
+        "Rank": 164,
+        "Score": 35
+    },
+    {
+        "Name": "Russian federation",
+        "CODE": "RUS",
+        "Year": "2024",
+        "Rank": 162,
+        "Score": 30
+    },
+    {
+        "Name": "Rwanda",
+        "CODE": "RWA",
+        "Year": "2019",
+        "Rank": 155,
+        "Score": 48
+    },
+    {
+        "Name": "Rwanda",
+        "CODE": "RWA",
+        "Year": "2020",
+        "Rank": 155,
+        "Score": 50
+    },
+    {
+        "Name": "Rwanda",
+        "CODE": "RWA",
+        "Year": "2021",
+        "Rank": 156,
+        "Score": 49
+    },
+    {
+        "Name": "Rwanda",
+        "CODE": "RWA",
+        "Year": "2022",
+        "Rank": 136,
+        "Score": 45
+    },
+    {
+        "Name": "Rwanda",
+        "CODE": "RWA",
+        "Year": "2023",
+        "Rank": 131,
+        "Score": 47
+    },
+    {
+        "Name": "Rwanda",
+        "CODE": "RWA",
+        "Year": "2024",
+        "Rank": 144,
+        "Score": 41
+    },
+    {
+        "Name": "Samoa",
+        "CODE": "WSM",
+        "Year": "2019",
+        "Rank": 22,
+        "Score": 82
+    },
+    {
+        "Name": "Samoa",
+        "CODE": "WSM",
+        "Year": "2020",
+        "Rank": 21,
+        "Score": 82
+    },
+    {
+        "Name": "Samoa",
+        "CODE": "WSM",
+        "Year": "2021",
+        "Rank": 21,
+        "Score": 81
+    },
+    {
+        "Name": "Samoa",
+        "CODE": "WSM",
+        "Year": "2022",
+        "Rank": 45,
+        "Score": 71
+    },
+    {
+        "Name": "Samoa",
+        "CODE": "WSM",
+        "Year": "2023",
+        "Rank": 19,
+        "Score": 82
+    },
+    {
+        "Name": "Samoa",
+        "CODE": "WSM",
+        "Year": "2024",
+        "Rank": 22,
+        "Score": 78
+    },
+    {
+        "Name": "Saudi arabia",
+        "CODE": "SAU",
+        "Year": "2019",
+        "Rank": 172,
+        "Score": 34
+    },
+    {
+        "Name": "Saudi arabia",
+        "CODE": "SAU",
+        "Year": "2020",
+        "Rank": 170,
+        "Score": 38
+    },
+    {
+        "Name": "Saudi arabia",
+        "CODE": "SAU",
+        "Year": "2021",
+        "Rank": 170,
+        "Score": 37
+    },
+    {
+        "Name": "Saudi arabia",
+        "CODE": "SAU",
+        "Year": "2022",
+        "Rank": 166,
+        "Score": 34
+    },
+    {
+        "Name": "Saudi arabia",
+        "CODE": "SAU",
+        "Year": "2023",
+        "Rank": 170,
+        "Score": 32
+    },
+    {
+        "Name": "Saudi arabia",
+        "CODE": "SAU",
+        "Year": "2024",
+        "Rank": 166,
+        "Score": 27
+    },
+    {
+        "Name": "Senegal",
+        "CODE": "SEN",
+        "Year": "2019",
+        "Rank": 49,
+        "Score": 74
+    },
+    {
+        "Name": "Senegal",
+        "CODE": "SEN",
+        "Year": "2020",
+        "Rank": 47,
+        "Score": 76
+    },
+    {
+        "Name": "Senegal",
+        "CODE": "SEN",
+        "Year": "2021",
+        "Rank": 49,
+        "Score": 75
+    },
+    {
+        "Name": "Senegal",
+        "CODE": "SEN",
+        "Year": "2022",
+        "Rank": 73,
+        "Score": 63
+    },
+    {
+        "Name": "Senegal",
+        "CODE": "SEN",
+        "Year": "2023",
+        "Rank": 104,
+        "Score": 56
+    },
+    {
+        "Name": "Senegal",
+        "CODE": "SEN",
+        "Year": "2024",
+        "Rank": 94,
+        "Score": 55
+    },
+    {
+        "Name": "Serbia",
+        "CODE": "SRB",
+        "Year": "2019",
+        "Rank": 90,
+        "Score": 69
+    },
+    {
+        "Name": "Serbia",
+        "CODE": "SRB",
+        "Year": "2020",
+        "Rank": 93,
+        "Score": 68
+    },
+    {
+        "Name": "Serbia",
+        "CODE": "SRB",
+        "Year": "2021",
+        "Rank": 93,
+        "Score": 68
+    },
+    {
+        "Name": "Serbia",
+        "CODE": "SRB",
+        "Year": "2022",
+        "Rank": 79,
+        "Score": 62
+    },
+    {
+        "Name": "Serbia",
+        "CODE": "SRB",
+        "Year": "2023",
+        "Rank": 91,
+        "Score": 59
+    },
+    {
+        "Name": "Serbia",
+        "CODE": "SRB",
+        "Year": "2024",
+        "Rank": 98,
+        "Score": 54
+    },
+    {
+        "Name": "Seychelles",
+        "CODE": "SYC",
+        "Year": "2019",
+        "Rank": 69,
+        "Score": 71
+    },
+    {
+        "Name": "Seychelles",
+        "CODE": "SYC",
+        "Year": "2020",
+        "Rank": 63,
+        "Score": 71
+    },
+    {
+        "Name": "Seychelles",
+        "CODE": "SYC",
+        "Year": "2021",
+        "Rank": 52,
+        "Score": 74
+    },
+    {
+        "Name": "Seychelles",
+        "CODE": "SYC",
+        "Year": "2022",
+        "Rank": 13,
+        "Score": 83
+    },
+    {
+        "Name": "Seychelles",
+        "CODE": "SYC",
+        "Year": "2023",
+        "Rank": 34,
+        "Score": 76
+    },
+    {
+        "Name": "Seychelles",
+        "CODE": "SYC",
+        "Year": "2024",
+        "Rank": 37,
+        "Score": 74
+    },
+    {
+        "Name": "Sierra leone",
+        "CODE": "SLE",
+        "Year": "2019",
+        "Rank": 86,
+        "Score": 70
+    },
+    {
+        "Name": "Sierra leone",
+        "CODE": "SLE",
+        "Year": "2020",
+        "Rank": 85,
+        "Score": 70
+    },
+    {
+        "Name": "Sierra leone",
+        "CODE": "SLE",
+        "Year": "2021",
+        "Rank": 75,
+        "Score": 70
+    },
+    {
+        "Name": "Sierra leone",
+        "CODE": "SLE",
+        "Year": "2022",
+        "Rank": 46,
+        "Score": 71
+    },
+    {
+        "Name": "Sierra leone",
+        "CODE": "SLE",
+        "Year": "2023",
+        "Rank": 74,
+        "Score": 63
+    },
+    {
+        "Name": "Sierra leone",
+        "CODE": "SLE",
+        "Year": "2024",
+        "Rank": 64,
+        "Score": 64
+    },
+    {
+        "Name": "Singapore",
+        "CODE": "SGP",
+        "Year": "2019",
+        "Rank": 151,
+        "Score": 49
+    },
+    {
+        "Name": "Singapore",
+        "CODE": "SGP",
+        "Year": "2020",
+        "Rank": 158,
+        "Score": 45
+    },
+    {
+        "Name": "Singapore",
+        "CODE": "SGP",
+        "Year": "2021",
+        "Rank": 160,
+        "Score": 45
+    },
+    {
+        "Name": "Singapore",
+        "CODE": "SGP",
+        "Year": "2022",
+        "Rank": 139,
+        "Score": 44
+    },
+    {
+        "Name": "Singapore",
+        "CODE": "SGP",
+        "Year": "2023",
+        "Rank": 129,
+        "Score": 48
+    },
+    {
+        "Name": "Singapore",
+        "CODE": "SGP",
+        "Year": "2024",
+        "Rank": 126,
+        "Score": 47
+    },
+    {
+        "Name": "Slovakia",
+        "CODE": "SVK",
+        "Year": "2019",
+        "Rank": 35,
+        "Score": 76
+    },
+    {
+        "Name": "Slovakia",
+        "CODE": "SVK",
+        "Year": "2020",
+        "Rank": 33,
+        "Score": 77
+    },
+    {
+        "Name": "Slovakia",
+        "CODE": "SVK",
+        "Year": "2021",
+        "Rank": 35,
+        "Score": 77
+    },
+    {
+        "Name": "Slovakia",
+        "CODE": "SVK",
+        "Year": "2022",
+        "Rank": 27,
+        "Score": 78
+    },
+    {
+        "Name": "Slovakia",
+        "CODE": "SVK",
+        "Year": "2023",
+        "Rank": 17,
+        "Score": 83
+    },
+    {
+        "Name": "Slovakia",
+        "CODE": "SVK",
+        "Year": "2024",
+        "Rank": 29,
+        "Score": 76
+    },
+    {
+        "Name": "Slovenia",
+        "CODE": "SVN",
+        "Year": "2019",
+        "Rank": 34,
+        "Score": 78
+    },
+    {
+        "Name": "Slovenia",
+        "CODE": "SVN",
+        "Year": "2020",
+        "Rank": 32,
+        "Score": 77
+    },
+    {
+        "Name": "Slovenia",
+        "CODE": "SVN",
+        "Year": "2021",
+        "Rank": 36,
+        "Score": 77
+    },
+    {
+        "Name": "Slovenia",
+        "CODE": "SVN",
+        "Year": "2022",
+        "Rank": 54,
+        "Score": 69
+    },
+    {
+        "Name": "Slovenia",
+        "CODE": "SVN",
+        "Year": "2023",
+        "Rank": 50,
+        "Score": 71
+    },
+    {
+        "Name": "Slovenia",
+        "CODE": "SVN",
+        "Year": "2024",
+        "Rank": 42,
+        "Score": 73
+    },
+    {
+        "Name": "Somalia",
+        "CODE": "SOM",
+        "Year": "2019",
+        "Rank": 164,
+        "Score": 43
+    },
+    {
+        "Name": "Somalia",
+        "CODE": "SOM",
+        "Year": "2020",
+        "Rank": 163,
+        "Score": 45
+    },
+    {
+        "Name": "Somalia",
+        "CODE": "SOM",
+        "Year": "2021",
+        "Rank": 161,
+        "Score": 45
+    },
+    {
+        "Name": "Somalia",
+        "CODE": "SOM",
+        "Year": "2022",
+        "Rank": 140,
+        "Score": 44
+    },
+    {
+        "Name": "Somalia",
+        "CODE": "SOM",
+        "Year": "2023",
+        "Rank": 141,
+        "Score": 44
+    },
+    {
+        "Name": "Somalia",
+        "CODE": "SOM",
+        "Year": "2024",
+        "Rank": 145,
+        "Score": 39
+    },
+    {
+        "Name": "South africa",
+        "CODE": "ZAF",
+        "Year": "2019",
+        "Rank": 31,
+        "Score": 78
+    },
+    {
+        "Name": "South africa",
+        "CODE": "ZAF",
+        "Year": "2020",
+        "Rank": 31,
+        "Score": 78
+    },
+    {
+        "Name": "South africa",
+        "CODE": "ZAF",
+        "Year": "2021",
+        "Rank": 32,
+        "Score": 78
+    },
+    {
+        "Name": "South africa",
+        "CODE": "ZAF",
+        "Year": "2022",
+        "Rank": 35,
+        "Score": 76
+    },
+    {
+        "Name": "South africa",
+        "CODE": "ZAF",
+        "Year": "2023",
+        "Rank": 25,
+        "Score": 79
+    },
+    {
+        "Name": "South africa",
+        "CODE": "ZAF",
+        "Year": "2024",
+        "Rank": 38,
+        "Score": 74
+    },
+    {
+        "Name": "South Korea",
+        "CODE": "KOR",
+        "Year": "2019",
+        "Rank": 41,
+        "Score": 75
+    },
+    {
+        "Name": "South Korea",
+        "CODE": "KOR",
+        "Year": "2020",
+        "Rank": 42,
+        "Score": 76
+    },
+    {
+        "Name": "South Korea",
+        "CODE": "KOR",
+        "Year": "2021",
+        "Rank": 42,
+        "Score": 77
+    },
+    {
+        "Name": "South Korea",
+        "CODE": "KOR",
+        "Year": "2022",
+        "Rank": 43,
+        "Score": 72
+    },
+    {
+        "Name": "South Korea",
+        "CODE": "KOR",
+        "Year": "2023",
+        "Rank": 47,
+        "Score": 71
+    },
+    {
+        "Name": "South Korea",
+        "CODE": "KOR",
+        "Year": "2024",
+        "Rank": 62,
+        "Score": 65
+    },
+    {
+        "Name": "South sudan",
+        "CODE": "SSD",
+        "Year": "2019",
+        "Rank": 139,
+        "Score": 54
+    },
+    {
+        "Name": "South sudan",
+        "CODE": "SSD",
+        "Year": "2020",
+        "Rank": 138,
+        "Score": 56
+    },
+    {
+        "Name": "South sudan",
+        "CODE": "SSD",
+        "Year": "2021",
+        "Rank": 139,
+        "Score": 54
+    },
+    {
+        "Name": "South sudan",
+        "CODE": "SSD",
+        "Year": "2022",
+        "Rank": 128,
+        "Score": 47
+    },
+    {
+        "Name": "South sudan",
+        "CODE": "SSD",
+        "Year": "2023",
+        "Rank": 118,
+        "Score": 51
+    },
+    {
+        "Name": "South sudan",
+        "CODE": "SSD",
+        "Year": "2024",
+        "Rank": 136,
+        "Score": 43
+    },
+    {
+        "Name": "Spain",
+        "CODE": "ESP",
+        "Year": "2019",
+        "Rank": 29,
+        "Score": 78
+    },
+    {
+        "Name": "Spain",
+        "CODE": "ESP",
+        "Year": "2020",
+        "Rank": 29,
+        "Score": 78
+    },
+    {
+        "Name": "Spain",
+        "CODE": "ESP",
+        "Year": "2021",
+        "Rank": 29,
+        "Score": 80
+    },
+    {
+        "Name": "Spain",
+        "CODE": "ESP",
+        "Year": "2022",
+        "Rank": 32,
+        "Score": 77
+    },
+    {
+        "Name": "Spain",
+        "CODE": "ESP",
+        "Year": "2023",
+        "Rank": 36,
+        "Score": 75
+    },
+    {
+        "Name": "Spain",
+        "CODE": "ESP",
+        "Year": "2024",
+        "Rank": 30,
+        "Score": 76
+    },
+    {
+        "Name": "Sri lanka",
+        "CODE": "LKA",
+        "Year": "2019",
+        "Rank": 126,
+        "Score": 60
+    },
+    {
+        "Name": "Sri lanka",
+        "CODE": "LKA",
+        "Year": "2020",
+        "Rank": 127,
+        "Score": 58
+    },
+    {
+        "Name": "Sri lanka",
+        "CODE": "LKA",
+        "Year": "2021",
+        "Rank": 127,
+        "Score": 58
+    },
+    {
+        "Name": "Sri lanka",
+        "CODE": "LKA",
+        "Year": "2022",
+        "Rank": 146,
+        "Score": 42
+    },
+    {
+        "Name": "Sri lanka",
+        "CODE": "LKA",
+        "Year": "2023",
+        "Rank": 135,
+        "Score": 46
+    },
+    {
+        "Name": "Sri lanka",
+        "CODE": "LKA",
+        "Year": "2024",
+        "Rank": 150,
+        "Score": 35
+    },
+    {
+        "Name": "Sudan",
+        "CODE": "SDN",
+        "Year": "2019",
+        "Rank": 175,
+        "Score": 28
+    },
+    {
+        "Name": "Sudan",
+        "CODE": "SDN",
+        "Year": "2020",
+        "Rank": 159,
+        "Score": 45
+    },
+    {
+        "Name": "Sudan",
+        "CODE": "SDN",
+        "Year": "2021",
+        "Rank": 159,
+        "Score": 47
+    },
+    {
+        "Name": "Sudan",
+        "CODE": "SDN",
+        "Year": "2022",
+        "Rank": 151,
+        "Score": 41
+    },
+    {
+        "Name": "Sudan",
+        "CODE": "SDN",
+        "Year": "2023",
+        "Rank": 148,
+        "Score": 41
+    },
+    {
+        "Name": "Sudan",
+        "CODE": "SDN",
+        "Year": "2024",
+        "Rank": 149,
+        "Score": 36
+    },
+    {
+        "Name": "Suriname",
+        "CODE": "SUR",
+        "Year": "2019",
+        "Rank": 20,
+        "Score": 84
+    },
+    {
+        "Name": "Suriname",
+        "CODE": "SUR",
+        "Year": "2020",
+        "Rank": 20,
+        "Score": 82
+    },
+    {
+        "Name": "Suriname",
+        "CODE": "SUR",
+        "Year": "2021",
+        "Rank": 19,
+        "Score": 83
+    },
+    {
+        "Name": "Suriname",
+        "CODE": "SUR",
+        "Year": "2022",
+        "Rank": 52,
+        "Score": 69
+    },
+    {
+        "Name": "Suriname",
+        "CODE": "SUR",
+        "Year": "2023",
+        "Rank": 48,
+        "Score": 71
+    },
+    {
+        "Name": "Suriname",
+        "CODE": "SUR",
+        "Year": "2024",
+        "Rank": 28,
+        "Score": 76
+    },
+    {
+        "Name": "Sweden",
+        "CODE": "SWE",
+        "Year": "2019",
+        "Rank": 3,
+        "Score": 92
+    },
+    {
+        "Name": "Sweden",
+        "CODE": "SWE",
+        "Year": "2020",
+        "Rank": 4,
+        "Score": 91
+    },
+    {
+        "Name": "Sweden",
+        "CODE": "SWE",
+        "Year": "2021",
+        "Rank": 3,
+        "Score": 93
+    },
+    {
+        "Name": "Sweden",
+        "CODE": "SWE",
+        "Year": "2022",
+        "Rank": 3,
+        "Score": 89
+    },
+    {
+        "Name": "Sweden",
+        "CODE": "SWE",
+        "Year": "2023",
+        "Rank": 4,
+        "Score": 88
+    },
+    {
+        "Name": "Sweden",
+        "CODE": "SWE",
+        "Year": "2024",
+        "Rank": 3,
+        "Score": 88
+    },
+    {
+        "Name": "Switzerland",
+        "CODE": "CHE",
+        "Year": "2019",
+        "Rank": 6,
+        "Score": 89
+    },
+    {
+        "Name": "Switzerland",
+        "CODE": "CHE",
+        "Year": "2020",
+        "Rank": 8,
+        "Score": 89
+    },
+    {
+        "Name": "Switzerland",
+        "CODE": "CHE",
+        "Year": "2021",
+        "Rank": 10,
+        "Score": 89
+    },
+    {
+        "Name": "Switzerland",
+        "CODE": "CHE",
+        "Year": "2022",
+        "Rank": 14,
+        "Score": 83
+    },
+    {
+        "Name": "Switzerland",
+        "CODE": "CHE",
+        "Year": "2023",
+        "Rank": 12,
+        "Score": 84
+    },
+    {
+        "Name": "Switzerland",
+        "CODE": "CHE",
+        "Year": "2024",
+        "Rank": 9,
+        "Score": 84
+    },
+    {
+        "Name": "Syrian arab republic",
+        "CODE": "SYR",
+        "Year": "2019",
+        "Rank": 174,
+        "Score": 28
+    },
+    {
+        "Name": "Syrian arab republic",
+        "CODE": "SYR",
+        "Year": "2020",
+        "Rank": 174,
+        "Score": 27
+    },
+    {
+        "Name": "Syrian arab republic",
+        "CODE": "SYR",
+        "Year": "2021",
+        "Rank": 173,
+        "Score": 29
+    },
+    {
+        "Name": "Syrian arab republic",
+        "CODE": "SYR",
+        "Year": "2022",
+        "Rank": 171,
+        "Score": 29
+    },
+    {
+        "Name": "Syrian arab republic",
+        "CODE": "SYR",
+        "Year": "2023",
+        "Rank": 175,
+        "Score": 27
+    },
+    {
+        "Name": "Syrian arab republic",
+        "CODE": "SYR",
+        "Year": "2024",
+        "Rank": 179,
+        "Score": 17
+    },
+    {
+        "Name": "Taiwan",
+        "CODE": "TWN",
+        "Year": "2019",
+        "Rank": 42,
+        "Score": 75
+    },
+    {
+        "Name": "Taiwan",
+        "CODE": "TWN",
+        "Year": "2020",
+        "Rank": 43,
+        "Score": 76
+    },
+    {
+        "Name": "Taiwan",
+        "CODE": "TWN",
+        "Year": "2021",
+        "Rank": 43,
+        "Score": 76
+    },
+    {
+        "Name": "Taiwan",
+        "CODE": "TWN",
+        "Year": "2022",
+        "Rank": 38,
+        "Score": 74
+    },
+    {
+        "Name": "Taiwan",
+        "CODE": "TWN",
+        "Year": "2023",
+        "Rank": 35,
+        "Score": 76
+    },
+    {
+        "Name": "Taiwan",
+        "CODE": "TWN",
+        "Year": "2024",
+        "Rank": 27,
+        "Score": 76
+    },
+    {
+        "Name": "Tajikistan",
+        "CODE": "TJK",
+        "Year": "2019",
+        "Rank": 161,
+        "Score": 46
+    },
+    {
+        "Name": "Tajikistan",
+        "CODE": "TJK",
+        "Year": "2020",
+        "Rank": 161,
+        "Score": 45
+    },
+    {
+        "Name": "Tajikistan",
+        "CODE": "TJK",
+        "Year": "2021",
+        "Rank": 162,
+        "Score": 44
+    },
+    {
+        "Name": "Tajikistan",
+        "CODE": "TJK",
+        "Year": "2022",
+        "Rank": 152,
+        "Score": 40
+    },
+    {
+        "Name": "Tajikistan",
+        "CODE": "TJK",
+        "Year": "2023",
+        "Rank": 153,
+        "Score": 39
+    },
+    {
+        "Name": "Tajikistan",
+        "CODE": "TJK",
+        "Year": "2024",
+        "Rank": 155,
+        "Score": 33
+    },
+    {
+        "Name": "Tanzania, united republic of",
+        "CODE": "TZA",
+        "Year": "2019",
+        "Rank": 118,
+        "Score": 64
+    },
+    {
+        "Name": "Tanzania, united republic of",
+        "CODE": "TZA",
+        "Year": "2020",
+        "Rank": 124,
+        "Score": 60
+    },
+    {
+        "Name": "Tanzania, united republic of",
+        "CODE": "TZA",
+        "Year": "2021",
+        "Rank": 124,
+        "Score": 59
+    },
+    {
+        "Name": "Tanzania, united republic of",
+        "CODE": "TZA",
+        "Year": "2022",
+        "Rank": 123,
+        "Score": 48
+    },
+    {
+        "Name": "Tanzania, united republic of",
+        "CODE": "TZA",
+        "Year": "2023",
+        "Rank": 143,
+        "Score": 44
+    },
+    {
+        "Name": "Tanzania, united republic of",
+        "CODE": "TZA",
+        "Year": "2024",
+        "Rank": 97,
+        "Score": 55
+    },
+    {
+        "Name": "Thailand",
+        "CODE": "THA",
+        "Year": "2019",
+        "Rank": 136,
+        "Score": 56
+    },
+    {
+        "Name": "Thailand",
+        "CODE": "THA",
+        "Year": "2020",
+        "Rank": 140,
+        "Score": 55
+    },
+    {
+        "Name": "Thailand",
+        "CODE": "THA",
+        "Year": "2021",
+        "Rank": 137,
+        "Score": 55
+    },
+    {
+        "Name": "Thailand",
+        "CODE": "THA",
+        "Year": "2022",
+        "Rank": 115,
+        "Score": 50
+    },
+    {
+        "Name": "Thailand",
+        "CODE": "THA",
+        "Year": "2023",
+        "Rank": 106,
+        "Score": 55
+    },
+    {
+        "Name": "Thailand",
+        "CODE": "THA",
+        "Year": "2024",
+        "Rank": 87,
+        "Score": 58
+    },
+    {
+        "Name": "Timor-leste",
+        "CODE": "TLS",
+        "Year": "2019",
+        "Rank": 84,
+        "Score": 70
+    },
+    {
+        "Name": "Timor-leste",
+        "CODE": "TLS",
+        "Year": "2020",
+        "Rank": 78,
+        "Score": 70
+    },
+    {
+        "Name": "Timor-leste",
+        "CODE": "TLS",
+        "Year": "2021",
+        "Rank": 71,
+        "Score": 71
+    },
+    {
+        "Name": "Timor-leste",
+        "CODE": "TLS",
+        "Year": "2022",
+        "Rank": 17,
+        "Score": 82
+    },
+    {
+        "Name": "Timor-leste",
+        "CODE": "TLS",
+        "Year": "2023",
+        "Rank": 10,
+        "Score": 84
+    },
+    {
+        "Name": "Timor-leste",
+        "CODE": "TLS",
+        "Year": "2024",
+        "Rank": 20,
+        "Score": 79
+    },
+    {
+        "Name": "Togo",
+        "CODE": "TGO",
+        "Year": "2019",
+        "Rank": 76,
+        "Score": 70
+    },
+    {
+        "Name": "Togo",
+        "CODE": "TGO",
+        "Year": "2020",
+        "Rank": 71,
+        "Score": 71
+    },
+    {
+        "Name": "Togo",
+        "CODE": "TGO",
+        "Year": "2021",
+        "Rank": 74,
+        "Score": 70
+    },
+    {
+        "Name": "Togo",
+        "CODE": "TGO",
+        "Year": "2022",
+        "Rank": 100,
+        "Score": 57
+    },
+    {
+        "Name": "Togo",
+        "CODE": "TGO",
+        "Year": "2023",
+        "Rank": 70,
+        "Score": 63
+    },
+    {
+        "Name": "Togo",
+        "CODE": "TGO",
+        "Year": "2024",
+        "Rank": 113,
+        "Score": 51
+    },
+    {
+        "Name": "Tonga",
+        "CODE": "TON",
+        "Year": "2019",
+        "Rank": 45,
+        "Score": 75
+    },
+    {
+        "Name": "Tonga",
+        "CODE": "TON",
+        "Year": "2020",
+        "Rank": 50,
+        "Score": 73
+    },
+    {
+        "Name": "Tonga",
+        "CODE": "TON",
+        "Year": "2021",
+        "Rank": 46,
+        "Score": 75
+    },
+    {
+        "Name": "Tonga",
+        "CODE": "TON",
+        "Year": "2022",
+        "Rank": 49,
+        "Score": 70
+    },
+    {
+        "Name": "Tonga",
+        "CODE": "TON",
+        "Year": "2023",
+        "Rank": 44,
+        "Score": 71
+    },
+    {
+        "Name": "Tonga",
+        "CODE": "TON",
+        "Year": "2024",
+        "Rank": 45,
+        "Score": 70
+    },
+    {
+        "Name": "Trinidad and tobago",
+        "CODE": "TTO",
+        "Year": "2019",
+        "Rank": 39,
+        "Score": 75
+    },
+    {
+        "Name": "Trinidad and tobago",
+        "CODE": "TTO",
+        "Year": "2020",
+        "Rank": 36,
+        "Score": 77
+    },
+    {
+        "Name": "Trinidad and tobago",
+        "CODE": "TTO",
+        "Year": "2021",
+        "Rank": 31,
+        "Score": 78
+    },
+    {
+        "Name": "Trinidad and tobago",
+        "CODE": "TTO",
+        "Year": "2022",
+        "Rank": 25,
+        "Score": 79
+    },
+    {
+        "Name": "Trinidad and tobago",
+        "CODE": "TTO",
+        "Year": "2023",
+        "Rank": 30,
+        "Score": 77
+    },
+    {
+        "Name": "Trinidad and tobago",
+        "CODE": "TTO",
+        "Year": "2024",
+        "Rank": 25,
+        "Score": 77
+    },
+    {
+        "Name": "Tunisia",
+        "CODE": "TUN",
+        "Year": "2019",
+        "Rank": 72,
+        "Score": 70
+    },
+    {
+        "Name": "Tunisia",
+        "CODE": "TUN",
+        "Year": "2020",
+        "Rank": 72,
+        "Score": 71
+    },
+    {
+        "Name": "Tunisia",
+        "CODE": "TUN",
+        "Year": "2021",
+        "Rank": 73,
+        "Score": 70
+    },
+    {
+        "Name": "Tunisia",
+        "CODE": "TUN",
+        "Year": "2022",
+        "Rank": 94,
+        "Score": 58
+    },
+    {
+        "Name": "Tunisia",
+        "CODE": "TUN",
+        "Year": "2023",
+        "Rank": 121,
+        "Score": 50
+    },
+    {
+        "Name": "Tunisia",
+        "CODE": "TUN",
+        "Year": "2024",
+        "Rank": 118,
+        "Score": 50
+    },
+    {
+        "Name": "Turkey",
+        "CODE": "TUR",
+        "Year": "2019",
+        "Rank": 157,
+        "Score": 47
+    },
+    {
+        "Name": "Turkey",
+        "CODE": "TUR",
+        "Year": "2020",
+        "Rank": 154,
+        "Score": 50
+    },
+    {
+        "Name": "Turkey",
+        "CODE": "TUR",
+        "Year": "2021",
+        "Rank": 153,
+        "Score": 50
+    },
+    {
+        "Name": "Turkey",
+        "CODE": "TUR",
+        "Year": "2022",
+        "Rank": 149,
+        "Score": 41
+    },
+    {
+        "Name": "Turkey",
+        "CODE": "TUR",
+        "Year": "2023",
+        "Rank": 165,
+        "Score": 34
+    },
+    {
+        "Name": "Turkey",
+        "CODE": "TUR",
+        "Year": "2024",
+        "Rank": 158,
+        "Score": 32
+    },
+    {
+        "Name": "Turkmenistan",
+        "CODE": "TKM",
+        "Year": "2019",
+        "Rank": 180,
+        "Score": 15
+    },
+    {
+        "Name": "Turkmenistan",
+        "CODE": "TKM",
+        "Year": "2020",
+        "Rank": 179,
+        "Score": 15
+    },
+    {
+        "Name": "Turkmenistan",
+        "CODE": "TKM",
+        "Year": "2021",
+        "Rank": 178,
+        "Score": 20
+    },
+    {
+        "Name": "Turkmenistan",
+        "CODE": "TKM",
+        "Year": "2022",
+        "Rank": 177,
+        "Score": 25
+    },
+    {
+        "Name": "Turkmenistan",
+        "CODE": "TKM",
+        "Year": "2023",
+        "Rank": 176,
+        "Score": 26
+    },
+    {
+        "Name": "Turkmenistan",
+        "CODE": "TKM",
+        "Year": "2024",
+        "Rank": 175,
+        "Score": 22
+    },
+    {
+        "Name": "Uganda",
+        "CODE": "UGA",
+        "Year": "2019",
+        "Rank": 125,
+        "Score": 61
+    },
+    {
+        "Name": "Uganda",
+        "CODE": "UGA",
+        "Year": "2020",
+        "Rank": 125,
+        "Score": 59
+    },
+    {
+        "Name": "Uganda",
+        "CODE": "UGA",
+        "Year": "2021",
+        "Rank": 125,
+        "Score": 59
+    },
+    {
+        "Name": "Uganda",
+        "CODE": "UGA",
+        "Year": "2022",
+        "Rank": 132,
+        "Score": 46
+    },
+    {
+        "Name": "Uganda",
+        "CODE": "UGA",
+        "Year": "2023",
+        "Rank": 133,
+        "Score": 46
+    },
+    {
+        "Name": "Uganda",
+        "CODE": "UGA",
+        "Year": "2024",
+        "Rank": 128,
+        "Score": 46
+    },
+    {
+        "Name": "Ukraine",
+        "CODE": "UKR",
+        "Year": "2019",
+        "Rank": 102,
+        "Score": 68
+    },
+    {
+        "Name": "Ukraine",
+        "CODE": "UKR",
+        "Year": "2020",
+        "Rank": 96,
+        "Score": 67
+    },
+    {
+        "Name": "Ukraine",
+        "CODE": "UKR",
+        "Year": "2021",
+        "Rank": 97,
+        "Score": 67
+    },
+    {
+        "Name": "Ukraine",
+        "CODE": "UKR",
+        "Year": "2022",
+        "Rank": 106,
+        "Score": 56
+    },
+    {
+        "Name": "Ukraine",
+        "CODE": "UKR",
+        "Year": "2023",
+        "Rank": 79,
+        "Score": 61
+    },
+    {
+        "Name": "Ukraine",
+        "CODE": "UKR",
+        "Year": "2024",
+        "Rank": 61,
+        "Score": 65
+    },
+    {
+        "Name": "United arab emirates",
+        "CODE": "ARE",
+        "Year": "2019",
+        "Rank": 133,
+        "Score": 56
+    },
+    {
+        "Name": "United arab emirates",
+        "CODE": "ARE",
+        "Year": "2020",
+        "Rank": 131,
+        "Score": 57
+    },
+    {
+        "Name": "United arab emirates",
+        "CODE": "ARE",
+        "Year": "2021",
+        "Rank": 131,
+        "Score": 57
+    },
+    {
+        "Name": "United arab emirates",
+        "CODE": "ARE",
+        "Year": "2022",
+        "Rank": 138,
+        "Score": 44
+    },
+    {
+        "Name": "United arab emirates",
+        "CODE": "ARE",
+        "Year": "2023",
+        "Rank": 145,
+        "Score": 43
+    },
+    {
+        "Name": "United arab emirates",
+        "CODE": "ARE",
+        "Year": "2024",
+        "Rank": 160,
+        "Score": 31
+    },
+    {
+        "Name": "United kingdom of great britain and northern ireland",
+        "CODE": "GBR",
+        "Year": "2019",
+        "Rank": 33,
+        "Score": 78
+    },
+    {
+        "Name": "United kingdom of great britain and northern ireland",
+        "CODE": "GBR",
+        "Year": "2020",
+        "Rank": 35,
+        "Score": 77
+    },
+    {
+        "Name": "United kingdom of great britain and northern ireland",
+        "CODE": "GBR",
+        "Year": "2021",
+        "Rank": 33,
+        "Score": 78
+    },
+    {
+        "Name": "United kingdom of great britain and northern ireland",
+        "CODE": "GBR",
+        "Year": "2022",
+        "Rank": 24,
+        "Score": 79
+    },
+    {
+        "Name": "United kingdom of great britain and northern ireland",
+        "CODE": "GBR",
+        "Year": "2023",
+        "Rank": 26,
+        "Score": 79
+    },
+    {
+        "Name": "United kingdom of great britain and northern ireland",
+        "CODE": "GBR",
+        "Year": "2024",
+        "Rank": 23,
+        "Score": 78
+    },
+    {
+        "Name": "United states of america",
+        "CODE": "USA",
+        "Year": "2019",
+        "Rank": 48,
+        "Score": 74
+    },
+    {
+        "Name": "United states of america",
+        "CODE": "USA",
+        "Year": "2020",
+        "Rank": 45,
+        "Score": 76
+    },
+    {
+        "Name": "United states of america",
+        "CODE": "USA",
+        "Year": "2021",
+        "Rank": 44,
+        "Score": 76
+    },
+    {
+        "Name": "United states of america",
+        "CODE": "USA",
+        "Year": "2022",
+        "Rank": 42,
+        "Score": 73
+    },
+    {
+        "Name": "United states of america",
+        "CODE": "USA",
+        "Year": "2023",
+        "Rank": 45,
+        "Score": 71
+    },
+    {
+        "Name": "United states of america",
+        "CODE": "USA",
+        "Year": "2024",
+        "Rank": 55,
+        "Score": 67
+    },
+    {
+        "Name": "Uruguay",
+        "CODE": "URY",
+        "Year": "2019",
+        "Rank": 19,
+        "Score": 84
+    },
+    {
+        "Name": "Uruguay",
+        "CODE": "URY",
+        "Year": "2020",
+        "Rank": 19,
+        "Score": 84
+    },
+    {
+        "Name": "Uruguay",
+        "CODE": "URY",
+        "Year": "2021",
+        "Rank": 18,
+        "Score": 84
+    },
+    {
+        "Name": "Uruguay",
+        "CODE": "URY",
+        "Year": "2022",
+        "Rank": 44,
+        "Score": 72
+    },
+    {
+        "Name": "Uruguay",
+        "CODE": "URY",
+        "Year": "2023",
+        "Rank": 52,
+        "Score": 70
+    },
+    {
+        "Name": "Uruguay",
+        "CODE": "URY",
+        "Year": "2024",
+        "Rank": 51,
+        "Score": 68
+    },
+    {
+        "Name": "Uzbekistan",
+        "CODE": "UZB",
+        "Year": "2019",
+        "Rank": 160,
+        "Score": 46
+    },
+    {
+        "Name": "Uzbekistan",
+        "CODE": "UZB",
+        "Year": "2020",
+        "Rank": 156,
+        "Score": 47
+    },
+    {
+        "Name": "Uzbekistan",
+        "CODE": "UZB",
+        "Year": "2021",
+        "Rank": 157,
+        "Score": 49
+    },
+    {
+        "Name": "Uzbekistan",
+        "CODE": "UZB",
+        "Year": "2022",
+        "Rank": 133,
+        "Score": 46
+    },
+    {
+        "Name": "Uzbekistan",
+        "CODE": "UZB",
+        "Year": "2023",
+        "Rank": 137,
+        "Score": 46
+    },
+    {
+        "Name": "Uzbekistan",
+        "CODE": "UZB",
+        "Year": "2024",
+        "Rank": 148,
+        "Score": 37
+    },
+    {
+        "Name": "Venezuela (bolivarian republic of)",
+        "CODE": "VEN",
+        "Year": "2019",
+        "Rank": 148,
+        "Score": 51
+    },
+    {
+        "Name": "Venezuela (bolivarian republic of)",
+        "CODE": "VEN",
+        "Year": "2020",
+        "Rank": 147,
+        "Score": 54
+    },
+    {
+        "Name": "Venezuela (bolivarian republic of)",
+        "CODE": "VEN",
+        "Year": "2021",
+        "Rank": 148,
+        "Score": 52
+    },
+    {
+        "Name": "Venezuela (bolivarian republic of)",
+        "CODE": "VEN",
+        "Year": "2022",
+        "Rank": 159,
+        "Score": 38
+    },
+    {
+        "Name": "Venezuela (bolivarian republic of)",
+        "CODE": "VEN",
+        "Year": "2023",
+        "Rank": 159,
+        "Score": 37
+    },
+    {
+        "Name": "Venezuela (bolivarian republic of)",
+        "CODE": "VEN",
+        "Year": "2024",
+        "Rank": 156,
+        "Score": 33
+    },
+    {
+        "Name": "Viet nam",
+        "CODE": "VNM",
+        "Year": "2019",
+        "Rank": 176,
+        "Score": 25
+    },
+    {
+        "Name": "Viet nam",
+        "CODE": "VNM",
+        "Year": "2020",
+        "Rank": 175,
+        "Score": 25
+    },
+    {
+        "Name": "Viet nam",
+        "CODE": "VNM",
+        "Year": "2021",
+        "Rank": 175,
+        "Score": 22
+    },
+    {
+        "Name": "Viet nam",
+        "CODE": "VNM",
+        "Year": "2022",
+        "Rank": 174,
+        "Score": 26
+    },
+    {
+        "Name": "Viet nam",
+        "CODE": "VNM",
+        "Year": "2023",
+        "Rank": 178,
+        "Score": 25
+    },
+    {
+        "Name": "Viet nam",
+        "CODE": "VNM",
+        "Year": "2024",
+        "Rank": 174,
+        "Score": 22
+    },
+    {
+        "Name": "Yemen",
+        "CODE": "YEM",
+        "Year": "2019",
+        "Rank": 168,
+        "Score": 38
+    },
+    {
+        "Name": "Yemen",
+        "CODE": "YEM",
+        "Year": "2020",
+        "Rank": 167,
+        "Score": 42
+    },
+    {
+        "Name": "Yemen",
+        "CODE": "YEM",
+        "Year": "2021",
+        "Rank": 169,
+        "Score": 38
+    },
+    {
+        "Name": "Yemen",
+        "CODE": "YEM",
+        "Year": "2022",
+        "Rank": 169,
+        "Score": 29
+    },
+    {
+        "Name": "Yemen",
+        "CODE": "YEM",
+        "Year": "2023",
+        "Rank": 168,
+        "Score": 33
+    },
+    {
+        "Name": "Yemen",
+        "CODE": "YEM",
+        "Year": "2024",
+        "Rank": 154,
+        "Score": 34
+    },
+    {
+        "Name": "Zambia",
+        "CODE": "ZMB",
+        "Year": "2019",
+        "Rank": 119,
+        "Score": 64
+    },
+    {
+        "Name": "Zambia",
+        "CODE": "ZMB",
+        "Year": "2020",
+        "Rank": 120,
+        "Score": 63
+    },
+    {
+        "Name": "Zambia",
+        "CODE": "ZMB",
+        "Year": "2021",
+        "Rank": 115,
+        "Score": 62
+    },
+    {
+        "Name": "Zambia",
+        "CODE": "ZMB",
+        "Year": "2022",
+        "Rank": 109,
+        "Score": 55
+    },
+    {
+        "Name": "Zambia",
+        "CODE": "ZMB",
+        "Year": "2023",
+        "Rank": 87,
+        "Score": 59
+    },
+    {
+        "Name": "Zambia",
+        "CODE": "ZMB",
+        "Year": "2024",
+        "Rank": 95,
+        "Score": 55
+    },
+    {
+        "Name": "Zimbabwe",
+        "CODE": "ZWE",
+        "Year": "2019",
+        "Rank": 127,
+        "Score": 58
+    },
+    {
+        "Name": "Zimbabwe",
+        "CODE": "ZWE",
+        "Year": "2020",
+        "Rank": 126,
+        "Score": 59
+    },
+    {
+        "Name": "Zimbabwe",
+        "CODE": "ZWE",
+        "Year": "2021",
+        "Rank": 130,
+        "Score": 57
+    },
+    {
+        "Name": "Zimbabwe",
+        "CODE": "ZWE",
+        "Year": "2022",
+        "Rank": 137,
+        "Score": 45
+    },
+    {
+        "Name": "Zimbabwe",
+        "CODE": "ZWE",
+        "Year": "2023",
+        "Rank": 126,
+        "Score": 48
+    },
+    {
+        "Name": "Zimbabwe",
+        "CODE": "ZWE",
+        "Year": "2024",
+        "Rank": 116,
+        "Score": 50
+    }
+]
