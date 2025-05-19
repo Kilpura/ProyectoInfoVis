@@ -1,0 +1,7527 @@
+[
+    {
+        "Name": "Aruba",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 3395798883
+    },
+    {
+        "Name": "Aruba",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 2481857123
+    },
+    {
+        "Name": "Aruba",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 2929446578
+    },
+    {
+        "Name": "Aruba",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 3279343544
+    },
+    {
+        "Name": "Aruba",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 3648573136
+    },
+    {
+        "Name": "Afghanistan",
+        "CODE": "AFG",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 18799444490
+    },
+    {
+        "Name": "Afghanistan",
+        "CODE": "AFG",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 19955929052
+    },
+    {
+        "Name": "Afghanistan",
+        "CODE": "AFG",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 14259995441
+    },
+    {
+        "Name": "Afghanistan",
+        "CODE": "AFG",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 14497243872
+    },
+    {
+        "Name": "Afghanistan",
+        "CODE": "AFG",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 17233051620
+    },
+    {
+        "Name": "Angola",
+        "CODE": "AGO",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 70897962732
+    },
+    {
+        "Name": "Angola",
+        "CODE": "AGO",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 48501561204
+    },
+    {
+        "Name": "Angola",
+        "CODE": "AGO",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 66505129988
+    },
+    {
+        "Name": "Angola",
+        "CODE": "AGO",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 104399746853
+    },
+    {
+        "Name": "Angola",
+        "CODE": "AGO",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 84824654482
+    },
+    {
+        "Name": "Albania",
+        "CODE": "ALB",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 15585105131
+    },
+    {
+        "Name": "Albania",
+        "CODE": "ALB",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 15241458745
+    },
+    {
+        "Name": "Albania",
+        "CODE": "ALB",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 18032010564
+    },
+    {
+        "Name": "Albania",
+        "CODE": "ALB",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 19017242586
+    },
+    {
+        "Name": "Albania",
+        "CODE": "ALB",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 23547179830
+    },
+    {
+        "Name": "Andorra",
+        "CODE": "AND",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 3155149348
+    },
+    {
+        "Name": "Andorra",
+        "CODE": "AND",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 2891001149
+    },
+    {
+        "Name": "Andorra",
+        "CODE": "AND",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 3324647529
+    },
+    {
+        "Name": "Andorra",
+        "CODE": "AND",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 3380612573
+    },
+    {
+        "Name": "Andorra",
+        "CODE": "AND",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 3785067332
+    },
+    {
+        "Name": "United arab emirates",
+        "CODE": "ARE",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 417989721734
+    },
+    {
+        "Name": "United arab emirates",
+        "CODE": "ARE",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 349473015337
+    },
+    {
+        "Name": "United arab emirates",
+        "CODE": "ARE",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 415178792770
+    },
+    {
+        "Name": "United arab emirates",
+        "CODE": "ARE",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 502731935197
+    },
+    {
+        "Name": "United arab emirates",
+        "CODE": "ARE",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 514130432653
+    },
+    {
+        "Name": "Argentina",
+        "CODE": "ARG",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 447754683615
+    },
+    {
+        "Name": "Argentina",
+        "CODE": "ARG",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 385740508437
+    },
+    {
+        "Name": "Argentina",
+        "CODE": "ARG",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 486564085480
+    },
+    {
+        "Name": "Argentina",
+        "CODE": "ARG",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 632790070063
+    },
+    {
+        "Name": "Argentina",
+        "CODE": "ARG",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 646075277525
+    },
+    {
+        "Name": "Armenia",
+        "CODE": "ARM",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 13619290539
+    },
+    {
+        "Name": "Armenia",
+        "CODE": "ARM",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 12641698583
+    },
+    {
+        "Name": "Armenia",
+        "CODE": "ARM",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 13878908629
+    },
+    {
+        "Name": "Armenia",
+        "CODE": "ARM",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 19513506553
+    },
+    {
+        "Name": "Armenia",
+        "CODE": "ARM",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 24085749592
+    },
+    {
+        "Name": "American samoa",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 647000000
+    },
+    {
+        "Name": "American samoa",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 721000000
+    },
+    {
+        "Name": "American samoa",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 750000000
+    },
+    {
+        "Name": "American samoa",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 871000000
+    },
+    {
+        "Name": "American samoa",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Antigua and barbuda",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1725351852
+    },
+    {
+        "Name": "Antigua and barbuda",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 1410796296
+    },
+    {
+        "Name": "Antigua and barbuda",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 1601366667
+    },
+    {
+        "Name": "Antigua and barbuda",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 1867733333
+    },
+    {
+        "Name": "Antigua and barbuda",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 2033085185
+    },
+    {
+        "Name": "Australia",
+        "CODE": "AUS",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1392723834563
+    },
+    {
+        "Name": "Australia",
+        "CODE": "AUS",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 1328414058378
+    },
+    {
+        "Name": "Australia",
+        "CODE": "AUS",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 1556735770437
+    },
+    {
+        "Name": "Australia",
+        "CODE": "AUS",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 1690858246994
+    },
+    {
+        "Name": "Australia",
+        "CODE": "AUS",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 1728057316696
+    },
+    {
+        "Name": "Austria",
+        "CODE": "AUT",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 442983642372
+    },
+    {
+        "Name": "Austria",
+        "CODE": "AUT",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 434397601558
+    },
+    {
+        "Name": "Austria",
+        "CODE": "AUT",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 480467037339
+    },
+    {
+        "Name": "Austria",
+        "CODE": "AUT",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 471773629830
+    },
+    {
+        "Name": "Austria",
+        "CODE": "AUT",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 511685203845
+    },
+    {
+        "Name": "Azerbaijan",
+        "CODE": "AZE",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 48174235294
+    },
+    {
+        "Name": "Azerbaijan",
+        "CODE": "AZE",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 42693000000
+    },
+    {
+        "Name": "Azerbaijan",
+        "CODE": "AZE",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 54825411765
+    },
+    {
+        "Name": "Azerbaijan",
+        "CODE": "AZE",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 78807470588
+    },
+    {
+        "Name": "Azerbaijan",
+        "CODE": "AZE",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 72356176471
+    },
+    {
+        "Name": "Burundi",
+        "CODE": "BDI",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2576518880
+    },
+    {
+        "Name": "Burundi",
+        "CODE": "BDI",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2649680261
+    },
+    {
+        "Name": "Burundi",
+        "CODE": "BDI",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2775798697
+    },
+    {
+        "Name": "Burundi",
+        "CODE": "BDI",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 3338722828
+    },
+    {
+        "Name": "Burundi",
+        "CODE": "BDI",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2642161669
+    },
+    {
+        "Name": "Belgium",
+        "CODE": "BEL",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 536726344405
+    },
+    {
+        "Name": "Belgium",
+        "CODE": "BEL",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 529694473502
+    },
+    {
+        "Name": "Belgium",
+        "CODE": "BEL",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 598494036474
+    },
+    {
+        "Name": "Belgium",
+        "CODE": "BEL",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 593438820508
+    },
+    {
+        "Name": "Belgium",
+        "CODE": "BEL",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 644782756683
+    },
+    {
+        "Name": "Benin",
+        "CODE": "BEN",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 14391686309
+    },
+    {
+        "Name": "Benin",
+        "CODE": "BEN",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 15651545209
+    },
+    {
+        "Name": "Benin",
+        "CODE": "BEN",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 17690083520
+    },
+    {
+        "Name": "Benin",
+        "CODE": "BEN",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 17401746309
+    },
+    {
+        "Name": "Benin",
+        "CODE": "BEN",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 19676049076
+    },
+    {
+        "Name": "Burkina faso",
+        "CODE": "BFA",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 16032813503
+    },
+    {
+        "Name": "Burkina faso",
+        "CODE": "BFA",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 17725010533
+    },
+    {
+        "Name": "Burkina faso",
+        "CODE": "BFA",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 19697516284
+    },
+    {
+        "Name": "Burkina faso",
+        "CODE": "BFA",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 18820218691
+    },
+    {
+        "Name": "Burkina faso",
+        "CODE": "BFA",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 20324617845
+    },
+    {
+        "Name": "Bangladesh",
+        "CODE": "BGD",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 351231654604
+    },
+    {
+        "Name": "Bangladesh",
+        "CODE": "BGD",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 373979442362
+    },
+    {
+        "Name": "Bangladesh",
+        "CODE": "BGD",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 416271647911
+    },
+    {
+        "Name": "Bangladesh",
+        "CODE": "BGD",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 460131688909
+    },
+    {
+        "Name": "Bangladesh",
+        "CODE": "BGD",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 437415331041
+    },
+    {
+        "Name": "Bulgaria",
+        "CODE": "BGR",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 68631726289
+    },
+    {
+        "Name": "Bulgaria",
+        "CODE": "BGR",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 70716821235
+    },
+    {
+        "Name": "Bulgaria",
+        "CODE": "BGR",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 84417951261
+    },
+    {
+        "Name": "Bulgaria",
+        "CODE": "BGR",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 90642851836
+    },
+    {
+        "Name": "Bulgaria",
+        "CODE": "BGR",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 102407653021
+    },
+    {
+        "Name": "Bahrain",
+        "CODE": "BHR",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 40446808511
+    },
+    {
+        "Name": "Bahrain",
+        "CODE": "BHR",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 35837632979
+    },
+    {
+        "Name": "Bahrain",
+        "CODE": "BHR",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 40840212766
+    },
+    {
+        "Name": "Bahrain",
+        "CODE": "BHR",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 46680398936
+    },
+    {
+        "Name": "Bahrain",
+        "CODE": "BHR",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 46079867021
+    },
+    {
+        "Name": "Bahamas",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 13016200000
+    },
+    {
+        "Name": "Bahamas",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 9958200000
+    },
+    {
+        "Name": "Bahamas",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 11368900000
+    },
+    {
+        "Name": "Bahamas",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 13136400000
+    },
+    {
+        "Name": "Bahamas",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 14338500000
+    },
+    {
+        "Name": "Bosnia and herzegovina",
+        "CODE": "BIH",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 20482608755
+    },
+    {
+        "Name": "Bosnia and herzegovina",
+        "CODE": "BIH",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 20226036564
+    },
+    {
+        "Name": "Bosnia and herzegovina",
+        "CODE": "BIH",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 23672712242
+    },
+    {
+        "Name": "Bosnia and herzegovina",
+        "CODE": "BIH",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 24534663636
+    },
+    {
+        "Name": "Bosnia and herzegovina",
+        "CODE": "BIH",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 27514782476
+    },
+    {
+        "Name": "Belarus",
+        "CODE": "BLR",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 64410122847
+    },
+    {
+        "Name": "Belarus",
+        "CODE": "BLR",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 61371755326
+    },
+    {
+        "Name": "Belarus",
+        "CODE": "BLR",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 69673747132
+    },
+    {
+        "Name": "Belarus",
+        "CODE": "BLR",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 73775179925
+    },
+    {
+        "Name": "Belarus",
+        "CODE": "BLR",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 71857382746
+    },
+    {
+        "Name": "Belize",
+        "CODE": "BLZ",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 2388300000
+    },
+    {
+        "Name": "Belize",
+        "CODE": "BLZ",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 2042850000
+    },
+    {
+        "Name": "Belize",
+        "CODE": "BLZ",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 2420550000
+    },
+    {
+        "Name": "Belize",
+        "CODE": "BLZ",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 2846700000
+    },
+    {
+        "Name": "Belize",
+        "CODE": "BLZ",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 3066850000
+    },
+    {
+        "Name": "Bermuda",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 7423465000
+    },
+    {
+        "Name": "Bermuda",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 6887147000
+    },
+    {
+        "Name": "Bermuda",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 7286607000
+    },
+    {
+        "Name": "Bermuda",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 7827980000
+    },
+    {
+        "Name": "Bermuda",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 8141700000
+    },
+    {
+        "Name": "Bolivia (plurinational state of)",
+        "CODE": "BOL",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 40895322844
+    },
+    {
+        "Name": "Bolivia (plurinational state of)",
+        "CODE": "BOL",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 36629843805
+    },
+    {
+        "Name": "Bolivia (plurinational state of)",
+        "CODE": "BOL",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 40406111695
+    },
+    {
+        "Name": "Bolivia (plurinational state of)",
+        "CODE": "BOL",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 44008282878
+    },
+    {
+        "Name": "Bolivia (plurinational state of)",
+        "CODE": "BOL",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 45135398009
+    },
+    {
+        "Name": "Brazil",
+        "CODE": "BRA",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1873288205186
+    },
+    {
+        "Name": "Brazil",
+        "CODE": "BRA",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1476107231194
+    },
+    {
+        "Name": "Brazil",
+        "CODE": "BRA",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1670647399035
+    },
+    {
+        "Name": "Brazil",
+        "CODE": "BRA",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1951923942083
+    },
+    {
+        "Name": "Brazil",
+        "CODE": "BRA",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 2173665655937
+    },
+    {
+        "Name": "Barbados",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 5788288000
+    },
+    {
+        "Name": "Barbados",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 5168344450
+    },
+    {
+        "Name": "Barbados",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 5275242050
+    },
+    {
+        "Name": "Barbados",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 6257303500
+    },
+    {
+        "Name": "Barbados",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 6720733200
+    },
+    {
+        "Name": "Brunei darussalam",
+        "CODE": "BRN",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 13469235348
+    },
+    {
+        "Name": "Brunei darussalam",
+        "CODE": "BRN",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 12005799664
+    },
+    {
+        "Name": "Brunei darussalam",
+        "CODE": "BRN",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 14006496614
+    },
+    {
+        "Name": "Brunei darussalam",
+        "CODE": "BRN",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 16681536443
+    },
+    {
+        "Name": "Brunei darussalam",
+        "CODE": "BRN",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 15128292981
+    },
+    {
+        "Name": "Bhutan",
+        "CODE": "BTN",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2735683570
+    },
+    {
+        "Name": "Bhutan",
+        "CODE": "BTN",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2457604334
+    },
+    {
+        "Name": "Bhutan",
+        "CODE": "BTN",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2768802960
+    },
+    {
+        "Name": "Bhutan",
+        "CODE": "BTN",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2898227743
+    },
+    {
+        "Name": "Bhutan",
+        "CODE": "BTN",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Botswana",
+        "CODE": "BWA",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 16725908149
+    },
+    {
+        "Name": "Botswana",
+        "CODE": "BWA",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 14960291106
+    },
+    {
+        "Name": "Botswana",
+        "CODE": "BWA",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 18750946600
+    },
+    {
+        "Name": "Botswana",
+        "CODE": "BWA",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 20321958850
+    },
+    {
+        "Name": "Botswana",
+        "CODE": "BWA",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 19396084498
+    },
+    {
+        "Name": "Central african republic",
+        "CODE": "CAF",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2221301351
+    },
+    {
+        "Name": "Central african republic",
+        "CODE": "CAF",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2326720900
+    },
+    {
+        "Name": "Central african republic",
+        "CODE": "CAF",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2516498412
+    },
+    {
+        "Name": "Central african republic",
+        "CODE": "CAF",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2382618615
+    },
+    {
+        "Name": "Central african republic",
+        "CODE": "CAF",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2555492085
+    },
+    {
+        "Name": "Canada",
+        "CODE": "CAN",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1743725183673
+    },
+    {
+        "Name": "Canada",
+        "CODE": "CAN",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 1655684730000
+    },
+    {
+        "Name": "Canada",
+        "CODE": "CAN",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 2007472181464
+    },
+    {
+        "Name": "Canada",
+        "CODE": "CAN",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 2161483369422
+    },
+    {
+        "Name": "Canada",
+        "CODE": "CAN",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 2142470914401
+    },
+    {
+        "Name": "Switzerland",
+        "CODE": "CHE",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 721369112727
+    },
+    {
+        "Name": "Switzerland",
+        "CODE": "CHE",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 741999406006
+    },
+    {
+        "Name": "Switzerland",
+        "CODE": "CHE",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 813408787222
+    },
+    {
+        "Name": "Switzerland",
+        "CODE": "CHE",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 818426550206
+    },
+    {
+        "Name": "Switzerland",
+        "CODE": "CHE",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 884940402230
+    },
+    {
+        "Name": "Chile",
+        "CODE": "CHL",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 278285058719
+    },
+    {
+        "Name": "Chile",
+        "CODE": "CHL",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 254042159309
+    },
+    {
+        "Name": "Chile",
+        "CODE": "CHL",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 315515014839
+    },
+    {
+        "Name": "Chile",
+        "CODE": "CHL",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 302116539409
+    },
+    {
+        "Name": "Chile",
+        "CODE": "CHL",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 335533331669
+    },
+    {
+        "Name": "China",
+        "CODE": "CHN",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 14279968506272
+    },
+    {
+        "Name": "China",
+        "CODE": "CHN",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 14687744162801
+    },
+    {
+        "Name": "China",
+        "CODE": "CHN",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 17820459508852
+    },
+    {
+        "Name": "China",
+        "CODE": "CHN",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 17881782683707
+    },
+    {
+        "Name": "China",
+        "CODE": "CHN",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 17794783039552
+    },
+    {
+        "Name": "C\u00f4te d'ivoire",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 60382894697
+    },
+    {
+        "Name": "C\u00f4te d'ivoire",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 63027852805
+    },
+    {
+        "Name": "C\u00f4te d'ivoire",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 72794636654
+    },
+    {
+        "Name": "C\u00f4te d'ivoire",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 70173140101
+    },
+    {
+        "Name": "C\u00f4te d'ivoire",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 78875489245
+    },
+    {
+        "Name": "Cameroon",
+        "CODE": "CMR",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 39667757528
+    },
+    {
+        "Name": "Cameroon",
+        "CODE": "CMR",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 40773241177
+    },
+    {
+        "Name": "Cameroon",
+        "CODE": "CMR",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 45011937347
+    },
+    {
+        "Name": "Cameroon",
+        "CODE": "CMR",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 44347206073
+    },
+    {
+        "Name": "Cameroon",
+        "CODE": "CMR",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 49279410983
+    },
+    {
+        "Name": "Congo, democratic republic of the",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 51775829877
+    },
+    {
+        "Name": "Congo, democratic republic of the",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 48716961860
+    },
+    {
+        "Name": "Congo, democratic republic of the",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 55328482784
+    },
+    {
+        "Name": "Congo, democratic republic of the",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 65801547620
+    },
+    {
+        "Name": "Congo, democratic republic of the",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 66383287003
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 13976637780
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 11468687464
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 14825690211
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 15817030155
+    },
+    {
+        "Name": "Congo",
+        "CODE": "COG",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 15321055823
+    },
+    {
+        "Name": "Colombia",
+        "CODE": "COL",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 323031701193
+    },
+    {
+        "Name": "Colombia",
+        "CODE": "COL",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 270348342541
+    },
+    {
+        "Name": "Colombia",
+        "CODE": "COL",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 318524633225
+    },
+    {
+        "Name": "Colombia",
+        "CODE": "COL",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 345329875079
+    },
+    {
+        "Name": "Colombia",
+        "CODE": "COL",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 363493841244
+    },
+    {
+        "Name": "Comoros",
+        "CODE": "COM",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1195019532
+    },
+    {
+        "Name": "Comoros",
+        "CODE": "COM",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1225039197
+    },
+    {
+        "Name": "Comoros",
+        "CODE": "COM",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1296089480
+    },
+    {
+        "Name": "Comoros",
+        "CODE": "COM",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1242519408
+    },
+    {
+        "Name": "Comoros",
+        "CODE": "COM",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1352380971
+    },
+    {
+        "Name": "Cabo verde",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2252177134
+    },
+    {
+        "Name": "Cabo verde",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1821565618
+    },
+    {
+        "Name": "Cabo verde",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2051842610
+    },
+    {
+        "Name": "Cabo verde",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2247003348
+    },
+    {
+        "Name": "Cabo verde",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2533819406
+    },
+    {
+        "Name": "Costa rica",
+        "CODE": "CRI",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 64417670521
+    },
+    {
+        "Name": "Costa rica",
+        "CODE": "CRI",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 62395610760
+    },
+    {
+        "Name": "Costa rica",
+        "CODE": "CRI",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 64960725734
+    },
+    {
+        "Name": "Costa rica",
+        "CODE": "CRI",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 69243626029
+    },
+    {
+        "Name": "Costa rica",
+        "CODE": "CRI",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 86497941439
+    },
+    {
+        "Name": "Cuba",
+        "CODE": "CUB",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 103427600000
+    },
+    {
+        "Name": "Cuba",
+        "CODE": "CUB",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 107351800000
+    },
+    {
+        "Name": "Cuba",
+        "CODE": "CUB",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Cuba",
+        "CODE": "CUB",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Cuba",
+        "CODE": "CUB",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Cura\u00e7ao",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 3026124134
+    },
+    {
+        "Name": "Cura\u00e7ao",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 2534327598
+    },
+    {
+        "Name": "Cura\u00e7ao",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 2739608156
+    },
+    {
+        "Name": "Cura\u00e7ao",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 3075180835
+    },
+    {
+        "Name": "Cura\u00e7ao",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 3281419347
+    },
+    {
+        "Name": "Cayman islands",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 5941896608
+    },
+    {
+        "Name": "Cayman islands",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 5655358021
+    },
+    {
+        "Name": "Cayman islands",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 6060026520
+    },
+    {
+        "Name": "Cayman islands",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 6600843963
+    },
+    {
+        "Name": "Cayman islands",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 7139428558
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 26196667100
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 25555093854
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 30372874320
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 30976176887
+    },
+    {
+        "Name": "Cyprus",
+        "CODE": "CYP",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 33886930712
+    },
+    {
+        "Name": "Czechia",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 256794209029
+    },
+    {
+        "Name": "Czechia",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 251109660603
+    },
+    {
+        "Name": "Czechia",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 290972714482
+    },
+    {
+        "Name": "Czechia",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 301831228326
+    },
+    {
+        "Name": "Czechia",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 343207874554
+    },
+    {
+        "Name": "Germany",
+        "CODE": "DEU",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 3957208055216
+    },
+    {
+        "Name": "Germany",
+        "CODE": "DEU",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 3940142541354
+    },
+    {
+        "Name": "Germany",
+        "CODE": "DEU",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 4348297440388
+    },
+    {
+        "Name": "Germany",
+        "CODE": "DEU",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 4163596357879
+    },
+    {
+        "Name": "Germany",
+        "CODE": "DEU",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 4525703903628
+    },
+    {
+        "Name": "Djibouti",
+        "CODE": "DJI",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 3088853639
+    },
+    {
+        "Name": "Djibouti",
+        "CODE": "DJI",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 3185150981
+    },
+    {
+        "Name": "Djibouti",
+        "CODE": "DJI",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 3385825229
+    },
+    {
+        "Name": "Djibouti",
+        "CODE": "DJI",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 3674298479
+    },
+    {
+        "Name": "Djibouti",
+        "CODE": "DJI",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 4098530514
+    },
+    {
+        "Name": "Dominica",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 611537037
+    },
+    {
+        "Name": "Dominica",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 504214815
+    },
+    {
+        "Name": "Dominica",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 555266667
+    },
+    {
+        "Name": "Dominica",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 607159259
+    },
+    {
+        "Name": "Dominica",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 653992593
+    },
+    {
+        "Name": "Denmark",
+        "CODE": "DNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 345401473013
+    },
+    {
+        "Name": "Denmark",
+        "CODE": "DNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 355631021932
+    },
+    {
+        "Name": "Denmark",
+        "CODE": "DNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 408378204640
+    },
+    {
+        "Name": "Denmark",
+        "CODE": "DNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 401945576108
+    },
+    {
+        "Name": "Denmark",
+        "CODE": "DNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 407091920305
+    },
+    {
+        "Name": "Dominican republic",
+        "CODE": "DOM",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 88941372558
+    },
+    {
+        "Name": "Dominican republic",
+        "CODE": "DOM",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 78844656298
+    },
+    {
+        "Name": "Dominican republic",
+        "CODE": "DOM",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 94243425938
+    },
+    {
+        "Name": "Dominican republic",
+        "CODE": "DOM",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 113537368176
+    },
+    {
+        "Name": "Dominican republic",
+        "CODE": "DOM",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 121444279314
+    },
+    {
+        "Name": "Algeria",
+        "CODE": "DZA",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 193459662091
+    },
+    {
+        "Name": "Algeria",
+        "CODE": "DZA",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 164873415325
+    },
+    {
+        "Name": "Algeria",
+        "CODE": "DZA",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 186231205262
+    },
+    {
+        "Name": "Algeria",
+        "CODE": "DZA",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 225638456572
+    },
+    {
+        "Name": "Algeria",
+        "CODE": "DZA",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 247626161016
+    },
+    {
+        "Name": "Ecuador",
+        "CODE": "ECU",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 107595829000
+    },
+    {
+        "Name": "Ecuador",
+        "CODE": "ECU",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 95865472000
+    },
+    {
+        "Name": "Ecuador",
+        "CODE": "ECU",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 107435101000
+    },
+    {
+        "Name": "Ecuador",
+        "CODE": "ECU",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 116586079000
+    },
+    {
+        "Name": "Ecuador",
+        "CODE": "ECU",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 118844826000
+    },
+    {
+        "Name": "Egypt",
+        "CODE": "EGY",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 318678815490
+    },
+    {
+        "Name": "Egypt",
+        "CODE": "EGY",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 383817841547
+    },
+    {
+        "Name": "Egypt",
+        "CODE": "EGY",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 424671765456
+    },
+    {
+        "Name": "Egypt",
+        "CODE": "EGY",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 476747720365
+    },
+    {
+        "Name": "Egypt",
+        "CODE": "EGY",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 396002496997
+    },
+    {
+        "Name": "Eritrea",
+        "CODE": "ERI",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Eritrea",
+        "CODE": "ERI",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Eritrea",
+        "CODE": "ERI",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Eritrea",
+        "CODE": "ERI",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Eritrea",
+        "CODE": "ERI",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Spain",
+        "CODE": "ESP",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1403496387686
+    },
+    {
+        "Name": "Spain",
+        "CODE": "ESP",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 1289783836971
+    },
+    {
+        "Name": "Spain",
+        "CODE": "ESP",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 1461244901853
+    },
+    {
+        "Name": "Spain",
+        "CODE": "ESP",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 1446498147749
+    },
+    {
+        "Name": "Spain",
+        "CODE": "ESP",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 1620090734957
+    },
+    {
+        "Name": "Estonia",
+        "CODE": "EST",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 31873748770
+    },
+    {
+        "Name": "Estonia",
+        "CODE": "EST",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 31820771494
+    },
+    {
+        "Name": "Estonia",
+        "CODE": "EST",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 37204563051
+    },
+    {
+        "Name": "Estonia",
+        "CODE": "EST",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 38376046175
+    },
+    {
+        "Name": "Estonia",
+        "CODE": "EST",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 41291245222
+    },
+    {
+        "Name": "Ethiopia",
+        "CODE": "ETH",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 95912607722
+    },
+    {
+        "Name": "Ethiopia",
+        "CODE": "ETH",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 107657734392
+    },
+    {
+        "Name": "Ethiopia",
+        "CODE": "ETH",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 111261882958
+    },
+    {
+        "Name": "Ethiopia",
+        "CODE": "ETH",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 126772703048
+    },
+    {
+        "Name": "Ethiopia",
+        "CODE": "ETH",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 163697927594
+    },
+    {
+        "Name": "Finland",
+        "CODE": "FIN",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 267014821129
+    },
+    {
+        "Name": "Finland",
+        "CODE": "FIN",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 270000311606
+    },
+    {
+        "Name": "Finland",
+        "CODE": "FIN",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 294223210496
+    },
+    {
+        "Name": "Finland",
+        "CODE": "FIN",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 280241515774
+    },
+    {
+        "Name": "Finland",
+        "CODE": "FIN",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 295532341255
+    },
+    {
+        "Name": "Fiji",
+        "CODE": "FJI",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 5444407214
+    },
+    {
+        "Name": "Fiji",
+        "CODE": "FJI",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 4432466237
+    },
+    {
+        "Name": "Fiji",
+        "CODE": "FJI",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 4305031631
+    },
+    {
+        "Name": "Fiji",
+        "CODE": "FJI",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 4969503561
+    },
+    {
+        "Name": "Fiji",
+        "CODE": "FJI",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 5442046565
+    },
+    {
+        "Name": "France",
+        "CODE": "FRA",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 2722793515172
+    },
+    {
+        "Name": "France",
+        "CODE": "FRA",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 2647926055110
+    },
+    {
+        "Name": "France",
+        "CODE": "FRA",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 2966433692008
+    },
+    {
+        "Name": "France",
+        "CODE": "FRA",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 2796302210399
+    },
+    {
+        "Name": "France",
+        "CODE": "FRA",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 3051831611385
+    },
+    {
+        "Name": "Faroe islands",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 3266432734
+    },
+    {
+        "Name": "Faroe islands",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 3271813312
+    },
+    {
+        "Name": "Faroe islands",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 3664686797
+    },
+    {
+        "Name": "Faroe islands",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 3566698398
+    },
+    {
+        "Name": "Faroe islands",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 3907323961
+    },
+    {
+        "Name": "Micronesia (federated states of)",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 394000000
+    },
+    {
+        "Name": "Micronesia (federated states of)",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 372000000
+    },
+    {
+        "Name": "Micronesia (federated states of)",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 390000000
+    },
+    {
+        "Name": "Micronesia (federated states of)",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 430000000
+    },
+    {
+        "Name": "Micronesia (federated states of)",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 460000000
+    },
+    {
+        "Name": "Gabon",
+        "CODE": "GAB",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 16874405465
+    },
+    {
+        "Name": "Gabon",
+        "CODE": "GAB",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 15342236164
+    },
+    {
+        "Name": "Gabon",
+        "CODE": "GAB",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 19444935097
+    },
+    {
+        "Name": "Gabon",
+        "CODE": "GAB",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 20440655695
+    },
+    {
+        "Name": "Gabon",
+        "CODE": "GAB",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 19388402542
+    },
+    {
+        "Name": "United kingdom of great britain and northern ireland",
+        "CODE": "GBR",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 2851407164908
+    },
+    {
+        "Name": "United kingdom of great britain and northern ireland",
+        "CODE": "GBR",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 2696778386608
+    },
+    {
+        "Name": "United kingdom of great britain and northern ireland",
+        "CODE": "GBR",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 3143323050707
+    },
+    {
+        "Name": "United kingdom of great britain and northern ireland",
+        "CODE": "GBR",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 3114042471144
+    },
+    {
+        "Name": "United kingdom of great britain and northern ireland",
+        "CODE": "GBR",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 3380854520810
+    },
+    {
+        "Name": "Georgia",
+        "CODE": "GEO",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 17638337117
+    },
+    {
+        "Name": "Georgia",
+        "CODE": "GEO",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 16010869216
+    },
+    {
+        "Name": "Georgia",
+        "CODE": "GEO",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 18853115589
+    },
+    {
+        "Name": "Georgia",
+        "CODE": "GEO",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 24984568960
+    },
+    {
+        "Name": "Georgia",
+        "CODE": "GEO",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 30777833585
+    },
+    {
+        "Name": "Ghana",
+        "CODE": "GHA",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 68337969248
+    },
+    {
+        "Name": "Ghana",
+        "CODE": "GHA",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 70043099676
+    },
+    {
+        "Name": "Ghana",
+        "CODE": "GHA",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 79524421861
+    },
+    {
+        "Name": "Ghana",
+        "CODE": "GHA",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 74263364042
+    },
+    {
+        "Name": "Ghana",
+        "CODE": "GHA",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 76370396722
+    },
+    {
+        "Name": "Gibraltar",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Gibraltar",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Gibraltar",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Gibraltar",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Gibraltar",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Guinea",
+        "CODE": "GIN",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 13442861496
+    },
+    {
+        "Name": "Guinea",
+        "CODE": "GIN",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 14088693743
+    },
+    {
+        "Name": "Guinea",
+        "CODE": "GIN",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 17069115738
+    },
+    {
+        "Name": "Guinea",
+        "CODE": "GIN",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 19910452542
+    },
+    {
+        "Name": "Guinea",
+        "CODE": "GIN",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 22199409741
+    },
+    {
+        "Name": "Gambia",
+        "CODE": "GMB",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 1813609692
+    },
+    {
+        "Name": "Gambia",
+        "CODE": "GMB",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 1812170891
+    },
+    {
+        "Name": "Gambia",
+        "CODE": "GMB",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2014158842
+    },
+    {
+        "Name": "Gambia",
+        "CODE": "GMB",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2204734528
+    },
+    {
+        "Name": "Gambia",
+        "CODE": "GMB",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2396111022
+    },
+    {
+        "Name": "Guinea-bissau",
+        "CODE": "GNB",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 1588638854
+    },
+    {
+        "Name": "Guinea-bissau",
+        "CODE": "GNB",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 1646400350
+    },
+    {
+        "Name": "Guinea-bissau",
+        "CODE": "GNB",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 1853796456
+    },
+    {
+        "Name": "Guinea-bissau",
+        "CODE": "GNB",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 1796608531
+    },
+    {
+        "Name": "Guinea-bissau",
+        "CODE": "GNB",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 2048348108
+    },
+    {
+        "Name": "Equatorial guinea",
+        "CODE": "GNQ",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 11364133550
+    },
+    {
+        "Name": "Equatorial guinea",
+        "CODE": "GNQ",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 9893816008
+    },
+    {
+        "Name": "Equatorial guinea",
+        "CODE": "GNQ",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 12215878033
+    },
+    {
+        "Name": "Equatorial guinea",
+        "CODE": "GNQ",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 13687643436
+    },
+    {
+        "Name": "Equatorial guinea",
+        "CODE": "GNQ",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 12337550584
+    },
+    {
+        "Name": "Greece",
+        "CODE": "GRC",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 207305649887
+    },
+    {
+        "Name": "Greece",
+        "CODE": "GRC",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 191362985555
+    },
+    {
+        "Name": "Greece",
+        "CODE": "GRC",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 218303801895
+    },
+    {
+        "Name": "Greece",
+        "CODE": "GRC",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 218880566444
+    },
+    {
+        "Name": "Greece",
+        "CODE": "GRC",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 243498333238
+    },
+    {
+        "Name": "Grenada",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1213485185
+    },
+    {
+        "Name": "Grenada",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1043411111
+    },
+    {
+        "Name": "Grenada",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1122800000
+    },
+    {
+        "Name": "Grenada",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1224577778
+    },
+    {
+        "Name": "Grenada",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1316733333
+    },
+    {
+        "Name": "Greenland",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 2997309972
+    },
+    {
+        "Name": "Greenland",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 3082884653
+    },
+    {
+        "Name": "Greenland",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 3235809504
+    },
+    {
+        "Name": "Greenland",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Greenland",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Guatemala",
+        "CODE": "GTM",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 77172317259
+    },
+    {
+        "Name": "Guatemala",
+        "CODE": "GTM",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 77719464221
+    },
+    {
+        "Name": "Guatemala",
+        "CODE": "GTM",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 86478835636
+    },
+    {
+        "Name": "Guatemala",
+        "CODE": "GTM",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 95630524813
+    },
+    {
+        "Name": "Guatemala",
+        "CODE": "GTM",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 104450210572
+    },
+    {
+        "Name": "Guam",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 6355000000
+    },
+    {
+        "Name": "Guam",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 5916000000
+    },
+    {
+        "Name": "Guam",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 6234000000
+    },
+    {
+        "Name": "Guam",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 6910000000
+    },
+    {
+        "Name": "Guam",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Guyana",
+        "CODE": "GUY",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 5173760192
+    },
+    {
+        "Name": "Guyana",
+        "CODE": "GUY",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 5471256595
+    },
+    {
+        "Name": "Guyana",
+        "CODE": "GUY",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 8041363893
+    },
+    {
+        "Name": "Guyana",
+        "CODE": "GUY",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 14718387017
+    },
+    {
+        "Name": "Guyana",
+        "CODE": "GUY",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 17159509565
+    },
+    {
+        "Name": "Hong kong",
+        "CODE": "HKG",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 363074545072
+    },
+    {
+        "Name": "Hong kong",
+        "CODE": "HKG",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 344943149590
+    },
+    {
+        "Name": "Hong kong",
+        "CODE": "HKG",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 368954169749
+    },
+    {
+        "Name": "Hong kong",
+        "CODE": "HKG",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 358681066274
+    },
+    {
+        "Name": "Hong kong",
+        "CODE": "HKG",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 380812234828
+    },
+    {
+        "Name": "Honduras",
+        "CODE": "HND",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 24882225742
+    },
+    {
+        "Name": "Honduras",
+        "CODE": "HND",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 23352232484
+    },
+    {
+        "Name": "Honduras",
+        "CODE": "HND",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 28144331507
+    },
+    {
+        "Name": "Honduras",
+        "CODE": "HND",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 31426041807
+    },
+    {
+        "Name": "Honduras",
+        "CODE": "HND",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 34400509852
+    },
+    {
+        "Name": "Croatia",
+        "CODE": "HRV",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 61467582194
+    },
+    {
+        "Name": "Croatia",
+        "CODE": "HRV",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 57963370885
+    },
+    {
+        "Name": "Croatia",
+        "CODE": "HRV",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 69006802299
+    },
+    {
+        "Name": "Croatia",
+        "CODE": "HRV",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 71198635102
+    },
+    {
+        "Name": "Croatia",
+        "CODE": "HRV",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 84393795502
+    },
+    {
+        "Name": "Haiti",
+        "CODE": "HTI",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 15016090930
+    },
+    {
+        "Name": "Haiti",
+        "CODE": "HTI",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 14508222518
+    },
+    {
+        "Name": "Haiti",
+        "CODE": "HTI",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 20877414953
+    },
+    {
+        "Name": "Haiti",
+        "CODE": "HTI",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 20253551921
+    },
+    {
+        "Name": "Haiti",
+        "CODE": "HTI",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 19850829758
+    },
+    {
+        "Name": "Hungary",
+        "CODE": "HUN",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 164020460332
+    },
+    {
+        "Name": "Hungary",
+        "CODE": "HUN",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 157288955508
+    },
+    {
+        "Name": "Hungary",
+        "CODE": "HUN",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 182109999478
+    },
+    {
+        "Name": "Hungary",
+        "CODE": "HUN",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 177006128625
+    },
+    {
+        "Name": "Hungary",
+        "CODE": "HUN",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 212388906459
+    },
+    {
+        "Name": "Indonesia",
+        "CODE": "IDN",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1119099871386
+    },
+    {
+        "Name": "Indonesia",
+        "CODE": "IDN",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1059054842712
+    },
+    {
+        "Name": "Indonesia",
+        "CODE": "IDN",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1186509691071
+    },
+    {
+        "Name": "Indonesia",
+        "CODE": "IDN",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1319076267292
+    },
+    {
+        "Name": "Indonesia",
+        "CODE": "IDN",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1371171152331
+    },
+    {
+        "Name": "Isle of man",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 7314967866
+    },
+    {
+        "Name": "Isle of man",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 6684225641
+    },
+    {
+        "Name": "Isle of man",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 7931193222
+    },
+    {
+        "Name": "Isle of man",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Isle of man",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "India",
+        "CODE": "IND",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2835606256558
+    },
+    {
+        "Name": "India",
+        "CODE": "IND",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2674851578587
+    },
+    {
+        "Name": "India",
+        "CODE": "IND",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 3167270623260
+    },
+    {
+        "Name": "India",
+        "CODE": "IND",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 3353470496886
+    },
+    {
+        "Name": "India",
+        "CODE": "IND",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 3567551674623
+    },
+    {
+        "Name": "Ireland",
+        "CODE": "IRL",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 407124824065
+    },
+    {
+        "Name": "Ireland",
+        "CODE": "IRL",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 436555518400
+    },
+    {
+        "Name": "Ireland",
+        "CODE": "IRL",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 531306516908
+    },
+    {
+        "Name": "Ireland",
+        "CODE": "IRL",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 548570250342
+    },
+    {
+        "Name": "Ireland",
+        "CODE": "IRL",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 551394889340
+    },
+    {
+        "Name": "Iran (islamic republic of)",
+        "CODE": "IRN",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 333519146339
+    },
+    {
+        "Name": "Iran (islamic republic of)",
+        "CODE": "IRN",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 262186179356
+    },
+    {
+        "Name": "Iran (islamic republic of)",
+        "CODE": "IRN",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 383436202447
+    },
+    {
+        "Name": "Iran (islamic republic of)",
+        "CODE": "IRN",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 394362621793
+    },
+    {
+        "Name": "Iran (islamic republic of)",
+        "CODE": "IRN",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 404625655205
+    },
+    {
+        "Name": "Iraq",
+        "CODE": "IRQ",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 233636097800
+    },
+    {
+        "Name": "Iraq",
+        "CODE": "IRQ",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 180898797517
+    },
+    {
+        "Name": "Iraq",
+        "CODE": "IRQ",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 209691945713
+    },
+    {
+        "Name": "Iraq",
+        "CODE": "IRQ",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 286640340966
+    },
+    {
+        "Name": "Iraq",
+        "CODE": "IRQ",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 250842782139
+    },
+    {
+        "Name": "Iceland",
+        "CODE": "ISL",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 24681343649
+    },
+    {
+        "Name": "Iceland",
+        "CODE": "ISL",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 21629953194
+    },
+    {
+        "Name": "Iceland",
+        "CODE": "ISL",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 25825287184
+    },
+    {
+        "Name": "Iceland",
+        "CODE": "ISL",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 28770206627
+    },
+    {
+        "Name": "Iceland",
+        "CODE": "ISL",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 31325116556
+    },
+    {
+        "Name": "Israel",
+        "CODE": "ISR",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 399651065198
+    },
+    {
+        "Name": "Israel",
+        "CODE": "ISR",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 411728563087
+    },
+    {
+        "Name": "Israel",
+        "CODE": "ISR",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 489708278893
+    },
+    {
+        "Name": "Israel",
+        "CODE": "ISR",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 525000415277
+    },
+    {
+        "Name": "Israel",
+        "CODE": "ISR",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 513611100816
+    },
+    {
+        "Name": "Italy",
+        "CODE": "ITA",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 2019606796584
+    },
+    {
+        "Name": "Italy",
+        "CODE": "ITA",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 1907481094079
+    },
+    {
+        "Name": "Italy",
+        "CODE": "ITA",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 2179207773596
+    },
+    {
+        "Name": "Italy",
+        "CODE": "ITA",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 2102995942720
+    },
+    {
+        "Name": "Italy",
+        "CODE": "ITA",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 2300941152992
+    },
+    {
+        "Name": "Jamaica",
+        "CODE": "JAM",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 15830766571
+    },
+    {
+        "Name": "Jamaica",
+        "CODE": "JAM",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 13812421803
+    },
+    {
+        "Name": "Jamaica",
+        "CODE": "JAM",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 14657586127
+    },
+    {
+        "Name": "Jamaica",
+        "CODE": "JAM",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 17097760724
+    },
+    {
+        "Name": "Jamaica",
+        "CODE": "JAM",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 19423355409
+    },
+    {
+        "Name": "Jordan",
+        "CODE": "JOR",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 44503006338
+    },
+    {
+        "Name": "Jordan",
+        "CODE": "JOR",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 43700383099
+    },
+    {
+        "Name": "Jordan",
+        "CODE": "JOR",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 46296100141
+    },
+    {
+        "Name": "Jordan",
+        "CODE": "JOR",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 48764963380
+    },
+    {
+        "Name": "Jordan",
+        "CODE": "JOR",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 50967475352
+    },
+    {
+        "Name": "Japan",
+        "CODE": "JPN",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 5117993853017
+    },
+    {
+        "Name": "Japan",
+        "CODE": "JPN",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 5055587093502
+    },
+    {
+        "Name": "Japan",
+        "CODE": "JPN",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 5034620784585
+    },
+    {
+        "Name": "Japan",
+        "CODE": "JPN",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 4256410760724
+    },
+    {
+        "Name": "Japan",
+        "CODE": "JPN",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 4204494802432
+    },
+    {
+        "Name": "Kazakhstan",
+        "CODE": "KAZ",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 181667184855
+    },
+    {
+        "Name": "Kazakhstan",
+        "CODE": "KAZ",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 171082365861
+    },
+    {
+        "Name": "Kazakhstan",
+        "CODE": "KAZ",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 197112255361
+    },
+    {
+        "Name": "Kazakhstan",
+        "CODE": "KAZ",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 225496328925
+    },
+    {
+        "Name": "Kazakhstan",
+        "CODE": "KAZ",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 262641892079
+    },
+    {
+        "Name": "Kenya",
+        "CODE": "KEN",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 100378436207
+    },
+    {
+        "Name": "Kenya",
+        "CODE": "KEN",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 100657505751
+    },
+    {
+        "Name": "Kenya",
+        "CODE": "KEN",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 109703658905
+    },
+    {
+        "Name": "Kenya",
+        "CODE": "KEN",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 114448978153
+    },
+    {
+        "Name": "Kenya",
+        "CODE": "KEN",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 108038588971
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "CODE": "KGZ",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 9371275264
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "CODE": "KGZ",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 8270468614
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "CODE": "KGZ",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 9249133946
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "CODE": "KGZ",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 12134931018
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "CODE": "KGZ",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 13987627909
+    },
+    {
+        "Name": "Cambodia",
+        "CODE": "KHM",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 36685356408
+    },
+    {
+        "Name": "Cambodia",
+        "CODE": "KHM",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 34818073901
+    },
+    {
+        "Name": "Cambodia",
+        "CODE": "KHM",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 36790163687
+    },
+    {
+        "Name": "Cambodia",
+        "CODE": "KHM",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 39994532960
+    },
+    {
+        "Name": "Cambodia",
+        "CODE": "KHM",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 42335646896
+    },
+    {
+        "Name": "Kiribati",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 216985362
+    },
+    {
+        "Name": "Kiribati",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 223123621
+    },
+    {
+        "Name": "Kiribati",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 289339292
+    },
+    {
+        "Name": "Kiribati",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 270841698
+    },
+    {
+        "Name": "Kiribati",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 279208903
+    },
+    {
+        "Name": "Saint kitts and nevis",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1107855556
+    },
+    {
+        "Name": "Saint kitts and nevis",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 883922222
+    },
+    {
+        "Name": "Saint kitts and nevis",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 858622222
+    },
+    {
+        "Name": "Saint kitts and nevis",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 981429630
+    },
+    {
+        "Name": "Saint kitts and nevis",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 1055499778
+    },
+    {
+        "Name": "Korea, republic of",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1651422932448
+    },
+    {
+        "Name": "Korea, republic of",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 1644312831906
+    },
+    {
+        "Name": "Korea, republic of",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 1818432106880
+    },
+    {
+        "Name": "Korea, republic of",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 1673916511800
+    },
+    {
+        "Name": "Korea, republic of",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 1712792854202
+    },
+    {
+        "Name": "Kuwait",
+        "CODE": "KWT",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 140856394870
+    },
+    {
+        "Name": "Kuwait",
+        "CODE": "KWT",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 111045470461
+    },
+    {
+        "Name": "Kuwait",
+        "CODE": "KWT",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 148459291453
+    },
+    {
+        "Name": "Kuwait",
+        "CODE": "KWT",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 183940215065
+    },
+    {
+        "Name": "Kuwait",
+        "CODE": "KWT",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 163704878876
+    },
+    {
+        "Name": "Lao people's democratic republic",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 18740561513
+    },
+    {
+        "Name": "Lao people's democratic republic",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 18981805250
+    },
+    {
+        "Name": "Lao people's democratic republic",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 18827148531
+    },
+    {
+        "Name": "Lao people's democratic republic",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 15468785204
+    },
+    {
+        "Name": "Lao people's democratic republic",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 15843155731
+    },
+    {
+        "Name": "Lebanon",
+        "CODE": "LBN",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 51605959131
+    },
+    {
+        "Name": "Lebanon",
+        "CODE": "LBN",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 31712128254
+    },
+    {
+        "Name": "Lebanon",
+        "CODE": "LBN",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 23131941557
+    },
+    {
+        "Name": "Lebanon",
+        "CODE": "LBN",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 20992421949
+    },
+    {
+        "Name": "Lebanon",
+        "CODE": "LBN",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Liberia",
+        "CODE": "LBR",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 3319596500
+    },
+    {
+        "Name": "Liberia",
+        "CODE": "LBR",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 3176126300
+    },
+    {
+        "Name": "Liberia",
+        "CODE": "LBR",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 3513049500
+    },
+    {
+        "Name": "Liberia",
+        "CODE": "LBR",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 4001047000
+    },
+    {
+        "Name": "Liberia",
+        "CODE": "LBR",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 4240000000
+    },
+    {
+        "Name": "Libya",
+        "CODE": "LBY",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 69254496472
+    },
+    {
+        "Name": "Libya",
+        "CODE": "LBY",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 46854285441
+    },
+    {
+        "Name": "Libya",
+        "CODE": "LBY",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 35217995647
+    },
+    {
+        "Name": "Libya",
+        "CODE": "LBY",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 43246297922
+    },
+    {
+        "Name": "Libya",
+        "CODE": "LBY",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 45096462972
+    },
+    {
+        "Name": "Saint lucia",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 2095370370
+    },
+    {
+        "Name": "Saint lucia",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1499296296
+    },
+    {
+        "Name": "Saint lucia",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1867185185
+    },
+    {
+        "Name": "Saint lucia",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 2342703704
+    },
+    {
+        "Name": "Saint lucia",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 2430148148
+    },
+    {
+        "Name": "Liechtenstein",
+        "CODE": "LIE",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 6436467007
+    },
+    {
+        "Name": "Liechtenstein",
+        "CODE": "LIE",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 6405870210
+    },
+    {
+        "Name": "Liechtenstein",
+        "CODE": "LIE",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 7710380086
+    },
+    {
+        "Name": "Liechtenstein",
+        "CODE": "LIE",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 7361504432
+    },
+    {
+        "Name": "Liechtenstein",
+        "CODE": "LIE",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Sri lanka",
+        "CODE": "LKA",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 89014978344
+    },
+    {
+        "Name": "Sri lanka",
+        "CODE": "LKA",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 84304298771
+    },
+    {
+        "Name": "Sri lanka",
+        "CODE": "LKA",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 88609324902
+    },
+    {
+        "Name": "Sri lanka",
+        "CODE": "LKA",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 74144870023
+    },
+    {
+        "Name": "Sri lanka",
+        "CODE": "LKA",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 84356863744
+    },
+    {
+        "Name": "Lesotho",
+        "CODE": "LSO",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2390702296
+    },
+    {
+        "Name": "Lesotho",
+        "CODE": "LSO",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2053699870
+    },
+    {
+        "Name": "Lesotho",
+        "CODE": "LSO",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2412130057
+    },
+    {
+        "Name": "Lesotho",
+        "CODE": "LSO",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2354683089
+    },
+    {
+        "Name": "Lesotho",
+        "CODE": "LSO",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2117962451
+    },
+    {
+        "Name": "Lithuania",
+        "CODE": "LTU",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 55122066226
+    },
+    {
+        "Name": "Lithuania",
+        "CODE": "LTU",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 57412038533
+    },
+    {
+        "Name": "Lithuania",
+        "CODE": "LTU",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 67037321009
+    },
+    {
+        "Name": "Lithuania",
+        "CODE": "LTU",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 71033884500
+    },
+    {
+        "Name": "Lithuania",
+        "CODE": "LTU",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 79789877416
+    },
+    {
+        "Name": "Luxembourg",
+        "CODE": "LUX",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 69890505324
+    },
+    {
+        "Name": "Luxembourg",
+        "CODE": "LUX",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 73699366700
+    },
+    {
+        "Name": "Luxembourg",
+        "CODE": "LUX",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 85584105994
+    },
+    {
+        "Name": "Luxembourg",
+        "CODE": "LUX",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 81641807866
+    },
+    {
+        "Name": "Luxembourg",
+        "CODE": "LUX",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 85755006124
+    },
+    {
+        "Name": "Latvia",
+        "CODE": "LVA",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 33099503951
+    },
+    {
+        "Name": "Latvia",
+        "CODE": "LVA",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 33379927435
+    },
+    {
+        "Name": "Latvia",
+        "CODE": "LVA",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 38185125733
+    },
+    {
+        "Name": "Latvia",
+        "CODE": "LVA",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 38018905782
+    },
+    {
+        "Name": "Latvia",
+        "CODE": "LVA",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 42247850065
+    },
+    {
+        "Name": "Macao",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 55082293844
+    },
+    {
+        "Name": "Macao",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 25343525936
+    },
+    {
+        "Name": "Macao",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 30969334705
+    },
+    {
+        "Name": "Macao",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 24999113476
+    },
+    {
+        "Name": "Macao",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 45803067940
+    },
+    {
+        "Name": "Saint martin (french part)",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 652206037
+    },
+    {
+        "Name": "Saint martin (french part)",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Saint martin (french part)",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 649206263
+    },
+    {
+        "Name": "Saint martin (french part)",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Saint martin (french part)",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Morocco",
+        "CODE": "MAR",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 128920266409
+    },
+    {
+        "Name": "Morocco",
+        "CODE": "MAR",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 121353645057
+    },
+    {
+        "Name": "Morocco",
+        "CODE": "MAR",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 142022058447
+    },
+    {
+        "Name": "Morocco",
+        "CODE": "MAR",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 130951926351
+    },
+    {
+        "Name": "Morocco",
+        "CODE": "MAR",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 144417103250
+    },
+    {
+        "Name": "Monaco",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 7383496254
+    },
+    {
+        "Name": "Monaco",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 6730736283
+    },
+    {
+        "Name": "Monaco",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 8623242743
+    },
+    {
+        "Name": "Monaco",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 8800430486
+    },
+    {
+        "Name": "Monaco",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 9995350547
+    },
+    {
+        "Name": "Moldova, republic of",
+        "CODE": "MDA",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 11736797055
+    },
+    {
+        "Name": "Moldova, republic of",
+        "CODE": "MDA",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 11530746234
+    },
+    {
+        "Name": "Moldova, republic of",
+        "CODE": "MDA",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 13691869264
+    },
+    {
+        "Name": "Moldova, republic of",
+        "CODE": "MDA",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 14510490660
+    },
+    {
+        "Name": "Moldova, republic of",
+        "CODE": "MDA",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 16539436547
+    },
+    {
+        "Name": "Madagascar",
+        "CODE": "MDG",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 14104664679
+    },
+    {
+        "Name": "Madagascar",
+        "CODE": "MDG",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 13051441204
+    },
+    {
+        "Name": "Madagascar",
+        "CODE": "MDG",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 14554754117
+    },
+    {
+        "Name": "Madagascar",
+        "CODE": "MDG",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 15134700203
+    },
+    {
+        "Name": "Madagascar",
+        "CODE": "MDG",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 15790113247
+    },
+    {
+        "Name": "Maldives",
+        "CODE": "MDV",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 5726094799
+    },
+    {
+        "Name": "Maldives",
+        "CODE": "MDV",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 3712604583
+    },
+    {
+        "Name": "Maldives",
+        "CODE": "MDV",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 5252457370
+    },
+    {
+        "Name": "Maldives",
+        "CODE": "MDV",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 6177118114
+    },
+    {
+        "Name": "Maldives",
+        "CODE": "MDV",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 6590894302
+    },
+    {
+        "Name": "Mexico",
+        "CODE": "MEX",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1304106203695
+    },
+    {
+        "Name": "Mexico",
+        "CODE": "MEX",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1121064767262
+    },
+    {
+        "Name": "Mexico",
+        "CODE": "MEX",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1316569466933
+    },
+    {
+        "Name": "Mexico",
+        "CODE": "MEX",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1464312692332
+    },
+    {
+        "Name": "Mexico",
+        "CODE": "MEX",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1789114434843
+    },
+    {
+        "Name": "Marshall islands",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 232900000
+    },
+    {
+        "Name": "Marshall islands",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 241800000
+    },
+    {
+        "Name": "Marshall islands",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 258900000
+    },
+    {
+        "Name": "Marshall islands",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 253400000
+    },
+    {
+        "Name": "Marshall islands",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 259300000
+    },
+    {
+        "Name": "North macedonia",
+        "CODE": "MKD",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 12606338449
+    },
+    {
+        "Name": "North macedonia",
+        "CODE": "MKD",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 12361036914
+    },
+    {
+        "Name": "North macedonia",
+        "CODE": "MKD",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 14000283827
+    },
+    {
+        "Name": "North macedonia",
+        "CODE": "MKD",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 13932436550
+    },
+    {
+        "Name": "North macedonia",
+        "CODE": "MKD",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 15763621848
+    },
+    {
+        "Name": "Mali",
+        "CODE": "MLI",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 17280250810
+    },
+    {
+        "Name": "Mali",
+        "CODE": "MLI",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 17465392764
+    },
+    {
+        "Name": "Mali",
+        "CODE": "MLI",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 19309463508
+    },
+    {
+        "Name": "Mali",
+        "CODE": "MLI",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 18780322204
+    },
+    {
+        "Name": "Mali",
+        "CODE": "MLI",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 20661794596
+    },
+    {
+        "Name": "Malta",
+        "CODE": "MLT",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 16337793531
+    },
+    {
+        "Name": "Malta",
+        "CODE": "MLT",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 16385919536
+    },
+    {
+        "Name": "Malta",
+        "CODE": "MLT",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 19718565605
+    },
+    {
+        "Name": "Malta",
+        "CODE": "MLT",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 19209979975
+    },
+    {
+        "Name": "Malta",
+        "CODE": "MLT",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 22328640242
+    },
+    {
+        "Name": "Myanmar",
+        "CODE": "MMR",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 75065106228
+    },
+    {
+        "Name": "Myanmar",
+        "CODE": "MMR",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 79006113643
+    },
+    {
+        "Name": "Myanmar",
+        "CODE": "MMR",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 66345291160
+    },
+    {
+        "Name": "Myanmar",
+        "CODE": "MMR",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 62253049892
+    },
+    {
+        "Name": "Myanmar",
+        "CODE": "MMR",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 66757619000
+    },
+    {
+        "Name": "Montenegro",
+        "CODE": "MNE",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 5542054181
+    },
+    {
+        "Name": "Montenegro",
+        "CODE": "MNE",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 4769996866
+    },
+    {
+        "Name": "Montenegro",
+        "CODE": "MNE",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 5861427505
+    },
+    {
+        "Name": "Montenegro",
+        "CODE": "MNE",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 6229801581
+    },
+    {
+        "Name": "Montenegro",
+        "CODE": "MNE",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 7530593375
+    },
+    {
+        "Name": "Mongolia",
+        "CODE": "MNG",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 14206359018
+    },
+    {
+        "Name": "Mongolia",
+        "CODE": "MNG",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 13312981429
+    },
+    {
+        "Name": "Mongolia",
+        "CODE": "MNG",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 15286441738
+    },
+    {
+        "Name": "Mongolia",
+        "CODE": "MNG",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 17146471714
+    },
+    {
+        "Name": "Mongolia",
+        "CODE": "MNG",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 20325121394
+    },
+    {
+        "Name": "Northern mariana islands",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1179000000
+    },
+    {
+        "Name": "Northern mariana islands",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 866000000
+    },
+    {
+        "Name": "Northern mariana islands",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 914000000
+    },
+    {
+        "Name": "Northern mariana islands",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 1096000000
+    },
+    {
+        "Name": "Northern mariana islands",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Mozambique",
+        "CODE": "MOZ",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 15512759047
+    },
+    {
+        "Name": "Mozambique",
+        "CODE": "MOZ",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 14235420174
+    },
+    {
+        "Name": "Mozambique",
+        "CODE": "MOZ",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 16168055475
+    },
+    {
+        "Name": "Mozambique",
+        "CODE": "MOZ",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 18883528581
+    },
+    {
+        "Name": "Mozambique",
+        "CODE": "MOZ",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 20954220984
+    },
+    {
+        "Name": "Mauritania",
+        "CODE": "MRT",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 7894764886
+    },
+    {
+        "Name": "Mauritania",
+        "CODE": "MRT",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 8260752385
+    },
+    {
+        "Name": "Mauritania",
+        "CODE": "MRT",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 9222536364
+    },
+    {
+        "Name": "Mauritania",
+        "CODE": "MRT",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 9557966698
+    },
+    {
+        "Name": "Mauritania",
+        "CODE": "MRT",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 10651709411
+    },
+    {
+        "Name": "Mauritius",
+        "CODE": "MUS",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 14436346980
+    },
+    {
+        "Name": "Mauritius",
+        "CODE": "MUS",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 11408106446
+    },
+    {
+        "Name": "Mauritius",
+        "CODE": "MUS",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 11484348858
+    },
+    {
+        "Name": "Mauritius",
+        "CODE": "MUS",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 12927979286
+    },
+    {
+        "Name": "Mauritius",
+        "CODE": "MUS",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 14644524819
+    },
+    {
+        "Name": "Malawi",
+        "CODE": "MWI",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 11051865580
+    },
+    {
+        "Name": "Malawi",
+        "CODE": "MWI",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 11769313598
+    },
+    {
+        "Name": "Malawi",
+        "CODE": "MWI",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 12378129751
+    },
+    {
+        "Name": "Malawi",
+        "CODE": "MWI",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 12429060151
+    },
+    {
+        "Name": "Malawi",
+        "CODE": "MWI",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 12712150082
+    },
+    {
+        "Name": "Malaysia",
+        "CODE": "MYS",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 365177721022
+    },
+    {
+        "Name": "Malaysia",
+        "CODE": "MYS",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 337456163961
+    },
+    {
+        "Name": "Malaysia",
+        "CODE": "MYS",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 373784823673
+    },
+    {
+        "Name": "Malaysia",
+        "CODE": "MYS",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 407605841348
+    },
+    {
+        "Name": "Malaysia",
+        "CODE": "MYS",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 399705169318
+    },
+    {
+        "Name": "Namibia",
+        "CODE": "NAM",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 12541928303
+    },
+    {
+        "Name": "Namibia",
+        "CODE": "NAM",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 10583748542
+    },
+    {
+        "Name": "Namibia",
+        "CODE": "NAM",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 12402486184
+    },
+    {
+        "Name": "Namibia",
+        "CODE": "NAM",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 12567271005
+    },
+    {
+        "Name": "Namibia",
+        "CODE": "NAM",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 12351025067
+    },
+    {
+        "Name": "New caledonia",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 9475655325
+    },
+    {
+        "Name": "New caledonia",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 9454629468
+    },
+    {
+        "Name": "New caledonia",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 10071349664
+    },
+    {
+        "Name": "New caledonia",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 9623318718
+    },
+    {
+        "Name": "New caledonia",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Niger",
+        "CODE": "NER",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 12889555561
+    },
+    {
+        "Name": "Niger",
+        "CODE": "NER",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 13744653103
+    },
+    {
+        "Name": "Niger",
+        "CODE": "NER",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 14915002436
+    },
+    {
+        "Name": "Niger",
+        "CODE": "NER",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 15433852712
+    },
+    {
+        "Name": "Niger",
+        "CODE": "NER",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 16819170421
+    },
+    {
+        "Name": "Nigeria",
+        "CODE": "NGA",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 474517490844
+    },
+    {
+        "Name": "Nigeria",
+        "CODE": "NGA",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 432198898468
+    },
+    {
+        "Name": "Nigeria",
+        "CODE": "NGA",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 440833635874
+    },
+    {
+        "Name": "Nigeria",
+        "CODE": "NGA",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 477403400101
+    },
+    {
+        "Name": "Nigeria",
+        "CODE": "NGA",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 363846332835
+    },
+    {
+        "Name": "Nicaragua",
+        "CODE": "NIC",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 12699028890
+    },
+    {
+        "Name": "Nicaragua",
+        "CODE": "NIC",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 12681569254
+    },
+    {
+        "Name": "Nicaragua",
+        "CODE": "NIC",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 14144060853
+    },
+    {
+        "Name": "Nicaragua",
+        "CODE": "NIC",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 15649897117
+    },
+    {
+        "Name": "Nicaragua",
+        "CODE": "NIC",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 17829218219
+    },
+    {
+        "Name": "Netherlands",
+        "CODE": "NLD",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 928903005576
+    },
+    {
+        "Name": "Netherlands",
+        "CODE": "NLD",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 932560861701
+    },
+    {
+        "Name": "Netherlands",
+        "CODE": "NLD",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 1054472123450
+    },
+    {
+        "Name": "Netherlands",
+        "CODE": "NLD",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 1046540797549
+    },
+    {
+        "Name": "Netherlands",
+        "CODE": "NLD",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 1154361305398
+    },
+    {
+        "Name": "Norway",
+        "CODE": "NOR",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 408742840909
+    },
+    {
+        "Name": "Norway",
+        "CODE": "NOR",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 367633418887
+    },
+    {
+        "Name": "Norway",
+        "CODE": "NOR",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 503367986030
+    },
+    {
+        "Name": "Norway",
+        "CODE": "NOR",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 593726965416
+    },
+    {
+        "Name": "Norway",
+        "CODE": "NOR",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 485310823604
+    },
+    {
+        "Name": "Nepal",
+        "CODE": "NPL",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 34186180699
+    },
+    {
+        "Name": "Nepal",
+        "CODE": "NPL",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 33433659301
+    },
+    {
+        "Name": "Nepal",
+        "CODE": "NPL",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 36924841394
+    },
+    {
+        "Name": "Nepal",
+        "CODE": "NPL",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 41182939601
+    },
+    {
+        "Name": "Nepal",
+        "CODE": "NPL",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 40908073367
+    },
+    {
+        "Name": "Nauru",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 124871111
+    },
+    {
+        "Name": "Nauru",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 124530027
+    },
+    {
+        "Name": "Nauru",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 175513985
+    },
+    {
+        "Name": "Nauru",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 156803087
+    },
+    {
+        "Name": "Nauru",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 154170289
+    },
+    {
+        "Name": "New zealand",
+        "CODE": "NZL",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 212846907683
+    },
+    {
+        "Name": "New zealand",
+        "CODE": "NZL",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 212697530898
+    },
+    {
+        "Name": "New zealand",
+        "CODE": "NZL",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 253644079785
+    },
+    {
+        "Name": "New zealand",
+        "CODE": "NZL",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 246733522841
+    },
+    {
+        "Name": "New zealand",
+        "CODE": "NZL",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 252175506110
+    },
+    {
+        "Name": "Oman",
+        "CODE": "OMN",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 88060858257
+    },
+    {
+        "Name": "Oman",
+        "CODE": "OMN",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 75909492848
+    },
+    {
+        "Name": "Oman",
+        "CODE": "OMN",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 87323797139
+    },
+    {
+        "Name": "Oman",
+        "CODE": "OMN",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 111943823147
+    },
+    {
+        "Name": "Oman",
+        "CODE": "OMN",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 108810923277
+    },
+    {
+        "Name": "Pakistan",
+        "CODE": "PAK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 320909472771
+    },
+    {
+        "Name": "Pakistan",
+        "CODE": "PAK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 300425609818
+    },
+    {
+        "Name": "Pakistan",
+        "CODE": "PAK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 348516647445
+    },
+    {
+        "Name": "Pakistan",
+        "CODE": "PAK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 374890295667
+    },
+    {
+        "Name": "Pakistan",
+        "CODE": "PAK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 337912301398
+    },
+    {
+        "Name": "Panama",
+        "CODE": "PAN",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 69778991200
+    },
+    {
+        "Name": "Panama",
+        "CODE": "PAN",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 57059846500
+    },
+    {
+        "Name": "Panama",
+        "CODE": "PAN",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 67396392500
+    },
+    {
+        "Name": "Panama",
+        "CODE": "PAN",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 76276116700
+    },
+    {
+        "Name": "Panama",
+        "CODE": "PAN",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 83318176900
+    },
+    {
+        "Name": "Peru",
+        "CODE": "PER",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 228346006004
+    },
+    {
+        "Name": "Peru",
+        "CODE": "PER",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 201409694756
+    },
+    {
+        "Name": "Peru",
+        "CODE": "PER",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 226354278281
+    },
+    {
+        "Name": "Peru",
+        "CODE": "PER",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 246488757636
+    },
+    {
+        "Name": "Peru",
+        "CODE": "PER",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 267603248655
+    },
+    {
+        "Name": "Philippines",
+        "CODE": "PHL",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 376823402245
+    },
+    {
+        "Name": "Philippines",
+        "CODE": "PHL",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 361751145452
+    },
+    {
+        "Name": "Philippines",
+        "CODE": "PHL",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 394087359848
+    },
+    {
+        "Name": "Philippines",
+        "CODE": "PHL",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 404353369605
+    },
+    {
+        "Name": "Philippines",
+        "CODE": "PHL",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 437146372730
+    },
+    {
+        "Name": "Palau",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 281941562
+    },
+    {
+        "Name": "Palau",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 258990844
+    },
+    {
+        "Name": "Palau",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 235752906
+    },
+    {
+        "Name": "Palau",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 255591062
+    },
+    {
+        "Name": "Palau",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 281849062
+    },
+    {
+        "Name": "Papua new guinea",
+        "CODE": "PNG",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 24750626041
+    },
+    {
+        "Name": "Papua new guinea",
+        "CODE": "PNG",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 23848447850
+    },
+    {
+        "Name": "Papua new guinea",
+        "CODE": "PNG",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 26109413522
+    },
+    {
+        "Name": "Papua new guinea",
+        "CODE": "PNG",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 31647277767
+    },
+    {
+        "Name": "Papua new guinea",
+        "CODE": "PNG",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 30729242919
+    },
+    {
+        "Name": "Poland",
+        "CODE": "POL",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 602683770145
+    },
+    {
+        "Name": "Poland",
+        "CODE": "POL",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 605914237904
+    },
+    {
+        "Name": "Poland",
+        "CODE": "POL",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 689170230665
+    },
+    {
+        "Name": "Poland",
+        "CODE": "POL",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 695607470875
+    },
+    {
+        "Name": "Poland",
+        "CODE": "POL",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 809200697797
+    },
+    {
+        "Name": "Puerto rico",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 105126400000
+    },
+    {
+        "Name": "Puerto rico",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 103130900000
+    },
+    {
+        "Name": "Puerto rico",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 106426600000
+    },
+    {
+        "Name": "Puerto rico",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 113567200000
+    },
+    {
+        "Name": "Puerto rico",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 117902300000
+    },
+    {
+        "Name": "Korea (democratic people's republic of)",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Korea (democratic people's republic of)",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Korea (democratic people's republic of)",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Korea (democratic people's republic of)",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Korea (democratic people's republic of)",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Portugal",
+        "CODE": "PRT",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 240115970063
+    },
+    {
+        "Name": "Portugal",
+        "CODE": "PRT",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 229618773423
+    },
+    {
+        "Name": "Portugal",
+        "CODE": "PRT",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 256055879091
+    },
+    {
+        "Name": "Portugal",
+        "CODE": "PRT",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 256898675069
+    },
+    {
+        "Name": "Portugal",
+        "CODE": "PRT",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 289114289664
+    },
+    {
+        "Name": "Paraguay",
+        "CODE": "PRY",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 37925338329
+    },
+    {
+        "Name": "Paraguay",
+        "CODE": "PRY",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 35432178068
+    },
+    {
+        "Name": "Paraguay",
+        "CODE": "PRY",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 39950899939
+    },
+    {
+        "Name": "Paraguay",
+        "CODE": "PRY",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 41952910858
+    },
+    {
+        "Name": "Paraguay",
+        "CODE": "PRY",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 42956263544
+    },
+    {
+        "Name": "Palestine, state of",
+        "CODE": "PSE",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 17133500000
+    },
+    {
+        "Name": "Palestine, state of",
+        "CODE": "PSE",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 15531700000
+    },
+    {
+        "Name": "Palestine, state of",
+        "CODE": "PSE",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 18109000000
+    },
+    {
+        "Name": "Palestine, state of",
+        "CODE": "PSE",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 19165500000
+    },
+    {
+        "Name": "Palestine, state of",
+        "CODE": "PSE",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 17420800000
+    },
+    {
+        "Name": "French polynesia",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 6022276196
+    },
+    {
+        "Name": "French polynesia",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 5792545871
+    },
+    {
+        "Name": "French polynesia",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 6150640646
+    },
+    {
+        "Name": "French polynesia",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 5814661209
+    },
+    {
+        "Name": "French polynesia",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Qatar",
+        "CODE": "QAT",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 176371267689
+    },
+    {
+        "Name": "Qatar",
+        "CODE": "QAT",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 144411363345
+    },
+    {
+        "Name": "Qatar",
+        "CODE": "QAT",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 179732009555
+    },
+    {
+        "Name": "Qatar",
+        "CODE": "QAT",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 235709325708
+    },
+    {
+        "Name": "Qatar",
+        "CODE": "QAT",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 213002809330
+    },
+    {
+        "Name": "Romania",
+        "CODE": "ROU",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 251677082534
+    },
+    {
+        "Name": "Romania",
+        "CODE": "ROU",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 252033792712
+    },
+    {
+        "Name": "Romania",
+        "CODE": "ROU",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 286578196368
+    },
+    {
+        "Name": "Romania",
+        "CODE": "ROU",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 296354358293
+    },
+    {
+        "Name": "Romania",
+        "CODE": "ROU",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 350775856415
+    },
+    {
+        "Name": "Russian federation",
+        "CODE": "RUS",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1693115002708
+    },
+    {
+        "Name": "Russian federation",
+        "CODE": "RUS",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 1493075894362
+    },
+    {
+        "Name": "Russian federation",
+        "CODE": "RUS",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 1843392293734
+    },
+    {
+        "Name": "Russian federation",
+        "CODE": "RUS",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 2266029240645
+    },
+    {
+        "Name": "Russian federation",
+        "CODE": "RUS",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 2021421476035
+    },
+    {
+        "Name": "Rwanda",
+        "CODE": "RWA",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 10349300380
+    },
+    {
+        "Name": "Rwanda",
+        "CODE": "RWA",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 10174387374
+    },
+    {
+        "Name": "Rwanda",
+        "CODE": "RWA",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 11069280650
+    },
+    {
+        "Name": "Rwanda",
+        "CODE": "RWA",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 13316160895
+    },
+    {
+        "Name": "Rwanda",
+        "CODE": "RWA",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 14097768472
+    },
+    {
+        "Name": "Saudi arabia",
+        "CODE": "SAU",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 838564800000
+    },
+    {
+        "Name": "Saudi arabia",
+        "CODE": "SAU",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 734271200000
+    },
+    {
+        "Name": "Saudi arabia",
+        "CODE": "SAU",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 874156000000
+    },
+    {
+        "Name": "Saudi arabia",
+        "CODE": "SAU",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 1108571466667
+    },
+    {
+        "Name": "Saudi arabia",
+        "CODE": "SAU",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 1067582933333
+    },
+    {
+        "Name": "Sudan",
+        "CODE": "SDN",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 32338079165
+    },
+    {
+        "Name": "Sudan",
+        "CODE": "SDN",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 27034593750
+    },
+    {
+        "Name": "Sudan",
+        "CODE": "SDN",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 34229513775
+    },
+    {
+        "Name": "Sudan",
+        "CODE": "SDN",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 51666875363
+    },
+    {
+        "Name": "Sudan",
+        "CODE": "SDN",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 109265503111
+    },
+    {
+        "Name": "Senegal",
+        "CODE": "SEN",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 23403995992
+    },
+    {
+        "Name": "Senegal",
+        "CODE": "SEN",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 24530513038
+    },
+    {
+        "Name": "Senegal",
+        "CODE": "SEN",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 27520784130
+    },
+    {
+        "Name": "Senegal",
+        "CODE": "SEN",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 27619479060
+    },
+    {
+        "Name": "Senegal",
+        "CODE": "SEN",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 30848333084
+    },
+    {
+        "Name": "Singapore",
+        "CODE": "SGP",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 376901649222
+    },
+    {
+        "Name": "Singapore",
+        "CODE": "SGP",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 349488382611
+    },
+    {
+        "Name": "Singapore",
+        "CODE": "SGP",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 434111559283
+    },
+    {
+        "Name": "Singapore",
+        "CODE": "SGP",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 498474540988
+    },
+    {
+        "Name": "Singapore",
+        "CODE": "SGP",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 501427500080
+    },
+    {
+        "Name": "Solomon islands",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1619155017
+    },
+    {
+        "Name": "Solomon islands",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1536145814
+    },
+    {
+        "Name": "Solomon islands",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1522794913
+    },
+    {
+        "Name": "Solomon islands",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1566360686
+    },
+    {
+        "Name": "Solomon islands",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1633319401
+    },
+    {
+        "Name": "Sierra leone",
+        "CODE": "SLE",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 6523577590
+    },
+    {
+        "Name": "Sierra leone",
+        "CODE": "SLE",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 6688594758
+    },
+    {
+        "Name": "Sierra leone",
+        "CODE": "SLE",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 7165214368
+    },
+    {
+        "Name": "Sierra leone",
+        "CODE": "SLE",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 7119137322
+    },
+    {
+        "Name": "Sierra leone",
+        "CODE": "SLE",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 6411869546
+    },
+    {
+        "Name": "El salvador",
+        "CODE": "SLV",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 26881140000
+    },
+    {
+        "Name": "El salvador",
+        "CODE": "SLV",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 24921190000
+    },
+    {
+        "Name": "El salvador",
+        "CODE": "SLV",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 29043140000
+    },
+    {
+        "Name": "El salvador",
+        "CODE": "SLV",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 31988920000
+    },
+    {
+        "Name": "El salvador",
+        "CODE": "SLV",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 34015620000
+    },
+    {
+        "Name": "San marino",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1616232125
+    },
+    {
+        "Name": "San marino",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 1544714493
+    },
+    {
+        "Name": "San marino",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 1855396000
+    },
+    {
+        "Name": "San marino",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 1831700577
+    },
+    {
+        "Name": "San marino",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Somalia",
+        "CODE": "SOM",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 8655023960
+    },
+    {
+        "Name": "Somalia",
+        "CODE": "SOM",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 8628393720
+    },
+    {
+        "Name": "Somalia",
+        "CODE": "SOM",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 9483997404
+    },
+    {
+        "Name": "Somalia",
+        "CODE": "SOM",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 10202767270
+    },
+    {
+        "Name": "Somalia",
+        "CODE": "SOM",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 10968517090
+    },
+    {
+        "Name": "Serbia",
+        "CODE": "SRB",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 53864693665
+    },
+    {
+        "Name": "Serbia",
+        "CODE": "SRB",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 55874017669
+    },
+    {
+        "Name": "Serbia",
+        "CODE": "SRB",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 66159884073
+    },
+    {
+        "Name": "Serbia",
+        "CODE": "SRB",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 66797564758
+    },
+    {
+        "Name": "Serbia",
+        "CODE": "SRB",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 81342660752
+    },
+    {
+        "Name": "South sudan",
+        "CODE": "SSD",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "South sudan",
+        "CODE": "SSD",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "South sudan",
+        "CODE": "SSD",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "South sudan",
+        "CODE": "SSD",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "South sudan",
+        "CODE": "SSD",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Sao tome and principe",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 412976083
+    },
+    {
+        "Name": "Sao tome and principe",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 471229485
+    },
+    {
+        "Name": "Sao tome and principe",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 524402456
+    },
+    {
+        "Name": "Sao tome and principe",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 540809499
+    },
+    {
+        "Name": "Sao tome and principe",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 678976265
+    },
+    {
+        "Name": "Suriname",
+        "CODE": "SUR",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 4016040575
+    },
+    {
+        "Name": "Suriname",
+        "CODE": "SUR",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 2911807496
+    },
+    {
+        "Name": "Suriname",
+        "CODE": "SUR",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 3107923198
+    },
+    {
+        "Name": "Suriname",
+        "CODE": "SUR",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 3791603200
+    },
+    {
+        "Name": "Suriname",
+        "CODE": "SUR",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 3455146281
+    },
+    {
+        "Name": "Slovakia",
+        "CODE": "SVK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 105843498304
+    },
+    {
+        "Name": "Slovakia",
+        "CODE": "SVK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 107732602896
+    },
+    {
+        "Name": "Slovakia",
+        "CODE": "SVK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 120592216208
+    },
+    {
+        "Name": "Slovakia",
+        "CODE": "SVK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 115928615553
+    },
+    {
+        "Name": "Slovakia",
+        "CODE": "SVK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 132908336234
+    },
+    {
+        "Name": "Slovenia",
+        "CODE": "SVN",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 53909922736
+    },
+    {
+        "Name": "Slovenia",
+        "CODE": "SVN",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 53384760135
+    },
+    {
+        "Name": "Slovenia",
+        "CODE": "SVN",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 61529280461
+    },
+    {
+        "Name": "Slovenia",
+        "CODE": "SVN",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 59927702746
+    },
+    {
+        "Name": "Slovenia",
+        "CODE": "SVN",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 69148468417
+    },
+    {
+        "Name": "Sweden",
+        "CODE": "SWE",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 532169294166
+    },
+    {
+        "Name": "Sweden",
+        "CODE": "SWE",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 545147614972
+    },
+    {
+        "Name": "Sweden",
+        "CODE": "SWE",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 637186904844
+    },
+    {
+        "Name": "Sweden",
+        "CODE": "SWE",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 579895717344
+    },
+    {
+        "Name": "Sweden",
+        "CODE": "SWE",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 584960475767
+    },
+    {
+        "Name": "Eswatini",
+        "CODE": "SWZ",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 4594818143
+    },
+    {
+        "Name": "Eswatini",
+        "CODE": "SWZ",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 4105756863
+    },
+    {
+        "Name": "Eswatini",
+        "CODE": "SWZ",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 4737671576
+    },
+    {
+        "Name": "Eswatini",
+        "CODE": "SWZ",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 4695372785
+    },
+    {
+        "Name": "Eswatini",
+        "CODE": "SWZ",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 4442875788
+    },
+    {
+        "Name": "Sint maarten (dutch part)",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1407880447
+    },
+    {
+        "Name": "Sint maarten (dutch part)",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 1236428101
+    },
+    {
+        "Name": "Sint maarten (dutch part)",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 1353071061
+    },
+    {
+        "Name": "Sint maarten (dutch part)",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 1537088715
+    },
+    {
+        "Name": "Sint maarten (dutch part)",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 1627776949
+    },
+    {
+        "Name": "Seychelles",
+        "CODE": "SYC",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1868690097
+    },
+    {
+        "Name": "Seychelles",
+        "CODE": "SYC",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 1382551752
+    },
+    {
+        "Name": "Seychelles",
+        "CODE": "SYC",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 1487173795
+    },
+    {
+        "Name": "Seychelles",
+        "CODE": "SYC",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 2057968520
+    },
+    {
+        "Name": "Seychelles",
+        "CODE": "SYC",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 2141450171
+    },
+    {
+        "Name": "Syrian arab republic",
+        "CODE": "SYR",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 22583045060
+    },
+    {
+        "Name": "Syrian arab republic",
+        "CODE": "SYR",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 12047752036
+    },
+    {
+        "Name": "Syrian arab republic",
+        "CODE": "SYR",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 14353205678
+    },
+    {
+        "Name": "Syrian arab republic",
+        "CODE": "SYR",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 23622827080
+    },
+    {
+        "Name": "Syrian arab republic",
+        "CODE": "SYR",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Turks and caicos islands",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 1177285212
+    },
+    {
+        "Name": "Turks and caicos islands",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 774653669
+    },
+    {
+        "Name": "Turks and caicos islands",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 1045782454
+    },
+    {
+        "Name": "Turks and caicos islands",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 1228794383
+    },
+    {
+        "Name": "Turks and caicos islands",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 1402054391
+    },
+    {
+        "Name": "Chad",
+        "CODE": "TCD",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 11314951092
+    },
+    {
+        "Name": "Chad",
+        "CODE": "TCD",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 10715396042
+    },
+    {
+        "Name": "Chad",
+        "CODE": "TCD",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 11779981333
+    },
+    {
+        "Name": "Chad",
+        "CODE": "TCD",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 12396807588
+    },
+    {
+        "Name": "Chad",
+        "CODE": "TCD",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 13149325362
+    },
+    {
+        "Name": "Togo",
+        "CODE": "TGO",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 6992700101
+    },
+    {
+        "Name": "Togo",
+        "CODE": "TGO",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 7400284168
+    },
+    {
+        "Name": "Togo",
+        "CODE": "TGO",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 8342243646
+    },
+    {
+        "Name": "Togo",
+        "CODE": "TGO",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 8169476149
+    },
+    {
+        "Name": "Togo",
+        "CODE": "TGO",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 9171261838
+    },
+    {
+        "Name": "Thailand",
+        "CODE": "THA",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 543976691794
+    },
+    {
+        "Name": "Thailand",
+        "CODE": "THA",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 500461898480
+    },
+    {
+        "Name": "Thailand",
+        "CODE": "THA",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 506256494297
+    },
+    {
+        "Name": "Thailand",
+        "CODE": "THA",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 495645210973
+    },
+    {
+        "Name": "Thailand",
+        "CODE": "THA",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 514968699239
+    },
+    {
+        "Name": "Tajikistan",
+        "CODE": "TJK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 8300813599
+    },
+    {
+        "Name": "Tajikistan",
+        "CODE": "TJK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 8133963551
+    },
+    {
+        "Name": "Tajikistan",
+        "CODE": "TJK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 8937805347
+    },
+    {
+        "Name": "Tajikistan",
+        "CODE": "TJK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 10713525200
+    },
+    {
+        "Name": "Tajikistan",
+        "CODE": "TJK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 12060602009
+    },
+    {
+        "Name": "Turkmenistan",
+        "CODE": "TKM",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 45232857143
+    },
+    {
+        "Name": "Turkmenistan",
+        "CODE": "TKM",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 45818000000
+    },
+    {
+        "Name": "Turkmenistan",
+        "CODE": "TKM",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 50007428571
+    },
+    {
+        "Name": "Turkmenistan",
+        "CODE": "TKM",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 58972000000
+    },
+    {
+        "Name": "Turkmenistan",
+        "CODE": "TKM",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 60628857143
+    },
+    {
+        "Name": "Timor-leste",
+        "CODE": "TLS",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2032550400
+    },
+    {
+        "Name": "Timor-leste",
+        "CODE": "TLS",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2162619200
+    },
+    {
+        "Name": "Timor-leste",
+        "CODE": "TLS",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 3624889700
+    },
+    {
+        "Name": "Timor-leste",
+        "CODE": "TLS",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 3208594000
+    },
+    {
+        "Name": "Timor-leste",
+        "CODE": "TLS",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 2079916900
+    },
+    {
+        "Name": "Tonga",
+        "CODE": "TON",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 494197841
+    },
+    {
+        "Name": "Tonga",
+        "CODE": "TON",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 496856296
+    },
+    {
+        "Name": "Tonga",
+        "CODE": "TON",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 518228012
+    },
+    {
+        "Name": "Tonga",
+        "CODE": "TON",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 518180042
+    },
+    {
+        "Name": "Tonga",
+        "CODE": "TON",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Trinidad and tobago",
+        "CODE": "TTO",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 23775659263
+    },
+    {
+        "Name": "Trinidad and tobago",
+        "CODE": "TTO",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 20807716174
+    },
+    {
+        "Name": "Trinidad and tobago",
+        "CODE": "TTO",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 24496397205
+    },
+    {
+        "Name": "Trinidad and tobago",
+        "CODE": "TTO",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 30053446092
+    },
+    {
+        "Name": "Trinidad and tobago",
+        "CODE": "TTO",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 27372285698
+    },
+    {
+        "Name": "Tunisia",
+        "CODE": "TUN",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 41905642419
+    },
+    {
+        "Name": "Tunisia",
+        "CODE": "TUN",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 42491780918
+    },
+    {
+        "Name": "Tunisia",
+        "CODE": "TUN",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 46812290143
+    },
+    {
+        "Name": "Tunisia",
+        "CODE": "TUN",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 44579761023
+    },
+    {
+        "Name": "Tunisia",
+        "CODE": "TUN",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 48529595417
+    },
+    {
+        "Name": "Turkey",
+        "CODE": "TUR",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 761005915751
+    },
+    {
+        "Name": "Turkey",
+        "CODE": "TUR",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 720338490327
+    },
+    {
+        "Name": "Turkey",
+        "CODE": "TUR",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 819865223976
+    },
+    {
+        "Name": "Turkey",
+        "CODE": "TUR",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 907118434654
+    },
+    {
+        "Name": "Turkey",
+        "CODE": "TUR",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1118252964261
+    },
+    {
+        "Name": "Tuvalu",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 54123199
+    },
+    {
+        "Name": "Tuvalu",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 51746594
+    },
+    {
+        "Name": "Tuvalu",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 60196406
+    },
+    {
+        "Name": "Tuvalu",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 59065982
+    },
+    {
+        "Name": "Tuvalu",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 62280312
+    },
+    {
+        "Name": "Tanzania, united republic of",
+        "CODE": "TZA",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 61026731926
+    },
+    {
+        "Name": "Tanzania, united republic of",
+        "CODE": "TZA",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 66068737786
+    },
+    {
+        "Name": "Tanzania, united republic of",
+        "CODE": "TZA",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 70655628148
+    },
+    {
+        "Name": "Tanzania, united republic of",
+        "CODE": "TZA",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 75769974505
+    },
+    {
+        "Name": "Tanzania, united republic of",
+        "CODE": "TZA",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 79062403821
+    },
+    {
+        "Name": "Uganda",
+        "CODE": "UGA",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 35348155095
+    },
+    {
+        "Name": "Uganda",
+        "CODE": "UGA",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 37600368242
+    },
+    {
+        "Name": "Uganda",
+        "CODE": "UGA",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 40529788749
+    },
+    {
+        "Name": "Uganda",
+        "CODE": "UGA",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 45565333211
+    },
+    {
+        "Name": "Uganda",
+        "CODE": "UGA",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 48768955863
+    },
+    {
+        "Name": "Ukraine",
+        "CODE": "UKR",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 153883047510
+    },
+    {
+        "Name": "Ukraine",
+        "CODE": "UKR",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 156617722013
+    },
+    {
+        "Name": "Ukraine",
+        "CODE": "UKR",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 199765859571
+    },
+    {
+        "Name": "Ukraine",
+        "CODE": "UKR",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 161989520721
+    },
+    {
+        "Name": "Ukraine",
+        "CODE": "UKR",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 178757021965
+    },
+    {
+        "Name": "Uruguay",
+        "CODE": "URY",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 62222325807
+    },
+    {
+        "Name": "Uruguay",
+        "CODE": "URY",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 53668636568
+    },
+    {
+        "Name": "Uruguay",
+        "CODE": "URY",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 60760798596
+    },
+    {
+        "Name": "Uruguay",
+        "CODE": "URY",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 70164683290
+    },
+    {
+        "Name": "Uruguay",
+        "CODE": "URY",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 77240830877
+    },
+    {
+        "Name": "United states of america",
+        "CODE": "USA",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 21539982000000
+    },
+    {
+        "Name": "United states of america",
+        "CODE": "USA",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 21354105000000
+    },
+    {
+        "Name": "United states of america",
+        "CODE": "USA",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 23681171000000
+    },
+    {
+        "Name": "United states of america",
+        "CODE": "USA",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 26006893000000
+    },
+    {
+        "Name": "United states of america",
+        "CODE": "USA",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 27720709000000
+    },
+    {
+        "Name": "Uzbekistan",
+        "CODE": "UZB",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 67293639798
+    },
+    {
+        "Name": "Uzbekistan",
+        "CODE": "UZB",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 66443265418
+    },
+    {
+        "Name": "Uzbekistan",
+        "CODE": "UZB",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 77340060003
+    },
+    {
+        "Name": "Uzbekistan",
+        "CODE": "UZB",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 90095926567
+    },
+    {
+        "Name": "Uzbekistan",
+        "CODE": "UZB",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 101591769702
+    },
+    {
+        "Name": "Saint vincent and the grenadines",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 910766667
+    },
+    {
+        "Name": "Saint vincent and the grenadines",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 869111111
+    },
+    {
+        "Name": "Saint vincent and the grenadines",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 872225926
+    },
+    {
+        "Name": "Saint vincent and the grenadines",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 966492593
+    },
+    {
+        "Name": "Saint vincent and the grenadines",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 1065962963
+    },
+    {
+        "Name": "Venezuela (bolivarian republic of)",
+        "CODE": "VEN",
+        "Year": "2019",
+        "Income": "NO CLASIFICADO",
+        "PIB": 0
+    },
+    {
+        "Name": "Venezuela (bolivarian republic of)",
+        "CODE": "VEN",
+        "Year": "2020",
+        "Income": "NO CLASIFICADO",
+        "PIB": 0
+    },
+    {
+        "Name": "Venezuela (bolivarian republic of)",
+        "CODE": "VEN",
+        "Year": "2021",
+        "Income": "NO CLASIFICADO",
+        "PIB": 0
+    },
+    {
+        "Name": "Venezuela (bolivarian republic of)",
+        "CODE": "VEN",
+        "Year": "2022",
+        "Income": "NO CLASIFICADO",
+        "PIB": 0
+    },
+    {
+        "Name": "Venezuela (bolivarian republic of)",
+        "CODE": "VEN",
+        "Year": "2023",
+        "Income": "NO CLASIFICADO",
+        "PIB": 0
+    },
+    {
+        "Name": "Virgin islands (british)",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Virgin islands (british)",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Virgin islands (british)",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Virgin islands (british)",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Virgin islands (british)",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Virgin islands (u.s.)",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "INGRESO ALTO",
+        "PIB": 4121000000
+    },
+    {
+        "Name": "Virgin islands (u.s.)",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "INGRESO ALTO",
+        "PIB": 4229000000
+    },
+    {
+        "Name": "Virgin islands (u.s.)",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "INGRESO ALTO",
+        "PIB": 4507000000
+    },
+    {
+        "Name": "Virgin islands (u.s.)",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "INGRESO ALTO",
+        "PIB": 4672000000
+    },
+    {
+        "Name": "Virgin islands (u.s.)",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "INGRESO ALTO",
+        "PIB": 0
+    },
+    {
+        "Name": "Viet nam",
+        "CODE": "VNM",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 334365270497
+    },
+    {
+        "Name": "Viet nam",
+        "CODE": "VNM",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 346615738538
+    },
+    {
+        "Name": "Viet nam",
+        "CODE": "VNM",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 366474752771
+    },
+    {
+        "Name": "Viet nam",
+        "CODE": "VNM",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 410324028883
+    },
+    {
+        "Name": "Viet nam",
+        "CODE": "VNM",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 429716969044
+    },
+    {
+        "Name": "Vanuatu",
+        "CODE": "UNK",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 936526268
+    },
+    {
+        "Name": "Vanuatu",
+        "CODE": "UNK",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 909421044
+    },
+    {
+        "Name": "Vanuatu",
+        "CODE": "UNK",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 950394007
+    },
+    {
+        "Name": "Vanuatu",
+        "CODE": "UNK",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1022219298
+    },
+    {
+        "Name": "Vanuatu",
+        "CODE": "UNK",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 1126313359
+    },
+    {
+        "Name": "Samoa",
+        "CODE": "WSM",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 912950466
+    },
+    {
+        "Name": "Samoa",
+        "CODE": "WSM",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 868898358
+    },
+    {
+        "Name": "Samoa",
+        "CODE": "WSM",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 843923639
+    },
+    {
+        "Name": "Samoa",
+        "CODE": "WSM",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 832945206
+    },
+    {
+        "Name": "Samoa",
+        "CODE": "WSM",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 938189444
+    },
+    {
+        "Name": "Yemen",
+        "CODE": "YEM",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Yemen",
+        "CODE": "YEM",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Yemen",
+        "CODE": "YEM",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Yemen",
+        "CODE": "YEM",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "Yemen",
+        "CODE": "YEM",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO BAJO",
+        "PIB": 0
+    },
+    {
+        "Name": "South africa",
+        "CODE": "ZAF",
+        "Year": "2019",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 389330032224
+    },
+    {
+        "Name": "South africa",
+        "CODE": "ZAF",
+        "Year": "2020",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 337974655408
+    },
+    {
+        "Name": "South africa",
+        "CODE": "ZAF",
+        "Year": "2021",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 420886877629
+    },
+    {
+        "Name": "South africa",
+        "CODE": "ZAF",
+        "Year": "2022",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 406920004594
+    },
+    {
+        "Name": "South africa",
+        "CODE": "ZAF",
+        "Year": "2023",
+        "Income": "INGRESO MEDIANO ALTO",
+        "PIB": 380699271815
+    },
+    {
+        "Name": "Zambia",
+        "CODE": "ZMB",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 23308667781
+    },
+    {
+        "Name": "Zambia",
+        "CODE": "ZMB",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 18137764931
+    },
+    {
+        "Name": "Zambia",
+        "CODE": "ZMB",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 22096416932
+    },
+    {
+        "Name": "Zambia",
+        "CODE": "ZMB",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 29163782140
+    },
+    {
+        "Name": "Zambia",
+        "CODE": "ZMB",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 27577956471
+    },
+    {
+        "Name": "Zimbabwe",
+        "CODE": "ZWE",
+        "Year": "2019",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 25717409842
+    },
+    {
+        "Name": "Zimbabwe",
+        "CODE": "ZWE",
+        "Year": "2020",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 26867936445
+    },
+    {
+        "Name": "Zimbabwe",
+        "CODE": "ZWE",
+        "Year": "2021",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 27240515109
+    },
+    {
+        "Name": "Zimbabwe",
+        "CODE": "ZWE",
+        "Year": "2022",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 32789751736
+    },
+    {
+        "Name": "Zimbabwe",
+        "CODE": "ZWE",
+        "Year": "2023",
+        "Income": "PA\u00cdSES DE INGRESO MEDIANO BAJO",
+        "PIB": 35231367886
+    }
+]
